@@ -1,0 +1,13 @@
+# working data of the benchmark and the pipeline (hundreds of GB): never part of the repository
+work/
+out/
+reference/combined_GRCh38.113_GRCm39.113/
+reference/build/
+tests/smoke_out/
+figures/replotted/
+
+# compiled and cached
+benchmark/scripts/dedup
+__pycache__/
+*.pyc
+.DS_Store

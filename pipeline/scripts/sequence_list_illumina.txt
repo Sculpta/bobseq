@@ -1,0 +1,145 @@
+# sequence_list_illumina.txt — CANONICAL master sequence database for species-mix experiments
+# speciesmixing-v1.0-260802  |  consolidated 2026-08-02  |  116 sequences (union of 36 run lists, 0 name conflicts)
+# Format: Name<TAB>Sequence<TAB>Description<TAB>Usage.  '#' = comment, [..] = section.
+# This single file replaces the per-run dated *_sequence_list_illumina.txt copies that had proliferated.
+
+[RT Primers]
+RT_HR	ATACTCGTGAC	11bp RT homology region shared by all RT primers	structure_detection, rt_subtype_detection, ligation_detection, sequence_reference
+PolydT-5P	ATACTCGTGACTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT	RT primer with polyT priming (no C28 linker)	sequence_reference
+PolydT_5P_C28	ATACTCGTGACATCAGCTTCCTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT	RT primer with C28 linker and polyT priming	sequence_reference
+C28-RT-N9	ATACTCGTGACATCAGCTTCCTNNNNNNNNN	RT primer with C28 linker and random 9-mer	sequence_reference
+C28-PCR-primer	ATACTCGTGACATCAGCTTCC	RT_HR + C28 linker (21bp) used for C28 subtype detection	rt_subtype_detection, sequence_reference
+RT-N9	ATACTCGTGACNNNNNNNNN	RT primer with random 9-mer (no C28 linker)	sequence_reference
+polydt-noC28	ATACTCGTGACTTTTT	RT_HR + 5T for PolydT-5P subtype detection	rt_subtype_detection, sequence_reference
+
+[TSO Sequences]
+TSO_primer	GCAGTGGTATCAACGCAG	Shared 18bp TSO primer region used for detection	structure_detection, barcode_extraction, sequence_reference
+TSO_full	GCTAATCATTGCAAGCAGTGGTATCAACGCAGAGTACAT	Full-length TSO oligo including upstream region	sequence_reference
+TSO_downstream_of_primer	AGTACAT	7bp downstream of TSO primer (AG linker + TACA barcode + T terminal)	sequence_reference
+TSO_upstream_of_primer	GCTAATCATTGCAA	14bp upstream of TSO primer not in amplified products	sequence_reference
+TSO-seq1-variant	GCAGTGGTATCAACGCAGAGTACAT	25bp TSO variant with TACA barcode (mouse)	tso_variant_source, sequence_reference
+TSO-seq2-variant	GCAGTGGTATCAACGCAGAGGGCAT	25bp TSO variant with GGCA barcode (human)	tso_variant_source, sequence_reference
+
+[BOB Sequences]
+Bob-c_primer	ATGTAGTCCGTACGCATGTC	Shared 20bp BOB-c prefix for barcode extraction	bob_barcode_extraction, structure_detection, sequence_reference
+BOB_HR	ACATGGTAGC	10bp BOB homology region suffix	bob_barcode_extraction, structure_detection, ligation_detection, sequence_reference
+BOB-C5-1	ATGTAGTCCGTACGCATGTCATCGACATGGTAGC	Full 34bp BOB primer with ATCG barcode	bob_barcode_source, sequence_reference
+BOB-C5-2	ATGTAGTCCGTACGCATGTCCCGAACATGGTAGC	Full 34bp BOB primer with CCGA barcode	bob_barcode_source, sequence_reference
+BOB-C5-3	ATGTAGTCCGTACGCATGTCACCTACATGGTAGC	Full 34bp BOB primer with ACCT barcode	bob_barcode_source, sequence_reference
+BOB-C5-4	ATGTAGTCCGTACGCATGTCTGTAACATGGTAGC	Full 34bp BOB primer with TGTA barcode	bob_barcode_source, sequence_reference
+BOB-C5-5	ATGTAGTCCGTACGCATGTCGAACACATGGTAGC	Full 34bp BOB primer with GAAC barcode	bob_barcode_source, sequence_reference
+
+[Barcode Locations]
+BOB_code	ATGTC[4bp]ACATG	Context pattern for BOB 4bp barcode extraction	display_only
+TSO_code	CAACGCAGAG[4bp]	Context pattern for TSO 4bp barcode extraction	display_only
+
+[Ligation Components]
+BOB_HR-RT_HR	ACATGGTAGCATACTCGTGAC	Ligated junction of BOB_HR + RT_HR (21bp)	ligation_detection, sequence_reference
+splint-27-3prime_biotin	AGTCATTGGACCATCGTATGAGCACTG	27bp splint oligo with 3-prime biotin	sequence_reference
+splint-C_TTT_3prime_bio	GTCACGAGTATGCTACCATGTTTT	Splint-C with TTTT overhang for ligation	sequence_reference
+
+[Illumina Adapters]
+Read1-f	GACTGGAGTTCAGACGTGT	Illumina Read1 forward primer (19bp)	structure_detection, sequence_reference
+Read2-r	ACACTCTTTCCCTACACGAC	Illumina Read2 reverse primer	sequence_reference
+adaptor-1	CAGCTCTTCCGATC	Illumina adaptor-1 core	sequence_reference
+adaptor-1-short	GCTCTTCCGATC	Illumina adaptor-1 short (12bp, tail of adaptor-2 RC)	flanking_frequency
+adaptor-2	GATCGGAAGAGCACACGTCTGAACTCCAGTC	Illumina adaptor-2 full sequence	sequence_reference
+R2_short	GTGACTGGAGTTCAGACGTG	Illumina Read2 primer, 20bp. 3' end (AGACGTGTGCTCTTCCGATCT) is the BC6/24plex TSO-oligo backbone per the intended design; observed in <0.1% of 260626 BC6 reads (R1 found 5' of the barcode instead).	sequence_reference
+
+[BOB-A Primers]
+bob-a-primer	ACGACGCTCTTCCGATC	17bp shared BOB-A primer prefix (Read2-r tail + adaptor-1-short)	sequence_reference
+bob-a-1	ACACTCTTTCCCTACACGACGCTCTTCCGATCTTCAGCAGTACCTGGTAGC	51bp BOB-A primer with TCAGCAGT barcode	sequence_reference
+bob-a-2	ACACTCTTTCCCTACACGACGCTCTTCCGATCTGCATACGAACCTGGTAGC	51bp BOB-A primer with GCATACGA barcode	sequence_reference
+
+[BOB-polydT Primers]
+bob-pdt-1	ATGTAGTCCGTACGCATGTCATCGCTTTTTTTTTT	35bp BOB-polydT primer with 6mer ATCGCT (+10T context)	sequence_reference
+bob-pdt-2	ATGTAGTCCGTACGCATGTCTCGATATTTTTTTTTT	36bp BOB-polydT primer with 6mer TCGATA (+10T context)	sequence_reference
+bob-pdt-1-bc	ATGTCATCGCTTTTT	15bp BOB-polydT-1 detection context (ATGTC + ATCGCT + 5T)	sequence_reference
+bob-pdt-2-bc	ATGTCTCGATATTTT	15bp BOB-polydT-2 detection context (ATGTC + TCGATA + 4T)	sequence_reference
+
+[ONT Adapters]
+ONT_LSK_adapter_core	CTTCGTTCAGTTACGTATTGCT	Invariant 22bp core of the ONT LSK ligation adapter (shared by all lead-in context variants).	sequence_reference
+ONT_NBD_pre_barcode_flank	AAGGTTAA	8bp flank between the LSK adapter core and the 24bp ONT native barcode.	sequence_reference
+ONT_NBD_post_barcode_flank	CAGCACCT	8bp flank between the 24bp ONT native barcode and the library insert; used as the 5'-end trim boundary by scripts/trim_ont_adapters_illumina.py.	sequence_reference, trim_boundary
+
+[Hardcoded Sequences]
+C28_linker	ATCAGCTTCC	10bp C28 linker between RT_HR and polyT/N9 priming region	rt_subtype_detection, construct_diagram
+polyT_10	TTTTTTTTTT	10-mer polyT search pattern for polyT/polyA detection	polyt_detection
+polyA_10	AAAAAAAAAA	10-mer polyA search pattern for polyA detection	polyt_detection
+
+[Derivative Sequences]
+BOB_barcode_ATCG	ATCG	4bp BOB barcode from BOB-C5-1 positions 20-23	bob_barcode_extraction
+BOB_barcode_CCGA	CCGA	4bp BOB barcode from BOB-C5-2 positions 20-23	bob_barcode_extraction
+BOB_barcode_ACCT	ACCT	4bp BOB barcode from BOB-C5-3 positions 20-23	bob_barcode_extraction
+BOB_barcode_TGTA	TGTA	4bp BOB barcode from BOB-C5-4 positions 20-23	bob_barcode_extraction
+BOB_barcode_GAAC	GAAC	4bp BOB barcode from BOB-C5-5 positions 20-23	bob_barcode_extraction
+TSO_barcode_TACA	TACA	4bp TSO barcode from TSO-seq1-variant positions 20-23	tso_barcode_extraction
+TSO_barcode_GGCA	GGCA	4bp TSO barcode from TSO-seq2-variant positions 20-23	tso_barcode_extraction
+RT_HR_RC	GTCACGAGTAT	Reverse complement of RT_HR	detection_rc
+PolydT-5P_RC	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGTCACGAGTAT	Reverse complement of PolydT-5P	detection_rc
+PolydT_5P_C28_RC	AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGGAAGCTGATGTCACGAGTAT	Reverse complement of PolydT_5P_C28	detection_rc
+C28-RT-N9_RC	NNNNNNNNNAGGAAGCTGATGTCACGAGTAT	Reverse complement of C28-RT-N9	detection_rc
+C28-PCR-primer_RC	GGAAGCTGATGTCACGAGTAT	Reverse complement of C28-PCR-primer	detection_rc
+RT-N9_RC	NNNNNNNNNGTCACGAGTAT	Reverse complement of RT-N9	detection_rc
+polydt-noC28_RC	AAAAAGTCACGAGTAT	Reverse complement of polydt-noC28	detection_rc
+TSO_primer_RC	CTGCGTTGATACCACTGC	Reverse complement of TSO_primer	detection_rc
+TSO_full_RC	ATGTACTCTGCGTTGATACCACTGCTTGCAATGATTAGC	Reverse complement of TSO_full	detection_rc
+TSO_downstream_of_primer_RC	ATGTACT	Reverse complement of TSO_downstream_of_primer	detection_rc
+TSO_upstream_of_primer_RC	TTGCAATGATTAGC	Reverse complement of TSO_upstream_of_primer	detection_rc
+TSO-seq1-variant_RC	ATGTACTCTGCGTTGATACCACTGC	Reverse complement of TSO-seq1-variant	detection_rc
+TSO-seq2-variant_RC	ATGCCCTCTGCGTTGATACCACTGC	Reverse complement of TSO-seq2-variant	detection_rc
+Bob-c_primer_RC	GACATGCGTACGGACTACAT	Reverse complement of Bob-c_primer	detection_rc
+BOB_HR_RC	GCTACCATGT	Reverse complement of BOB_HR	detection_rc
+BOB-C5-1_RC	GCTACCATGTCGATGACATGCGTACGGACTACAT	Reverse complement of BOB-C5-1	detection_rc
+BOB-C5-2_RC	GCTACCATGTTCGGGACATGCGTACGGACTACAT	Reverse complement of BOB-C5-2	detection_rc
+BOB-C5-3_RC	GCTACCATGTAGGTGACATGCGTACGGACTACAT	Reverse complement of BOB-C5-3	detection_rc
+BOB-C5-4_RC	GCTACCATGTTACAGACATGCGTACGGACTACAT	Reverse complement of BOB-C5-4	detection_rc
+BOB-C5-5_RC	GCTACCATGTGTTCGACATGCGTACGGACTACAT	Reverse complement of BOB-C5-5	detection_rc
+BOB_HR-RT_HR_RC	GTCACGAGTATGCTACCATGT	Reverse complement of BOB_HR-RT_HR	detection_rc
+splint-27-3prime_biotin_RC	CAGTGCTCATACGATGGTCCAATGACT	Reverse complement of splint-27-3prime_biotin	detection_rc
+splint-C_TTT_3prime_bio_RC	AAAACATGGTAGCATACTCGTGAC	Reverse complement of splint-C_TTT_3prime_bio	detection_rc
+Read1-f_RC	ACACGTCTGAACTCCAGTC	Reverse complement of Read1-f	detection_rc
+Read2-r_RC	GTCGTGTAGGGAAAGAGTGT	Reverse complement of Read2-r	detection_rc
+adaptor-1_RC	GATCGGAAGAGCTG	Reverse complement of adaptor-1	detection_rc
+adaptor-1-short_RC	GATCGGAAGAGC	Reverse complement of adaptor-1-short	detection_rc
+adaptor-2_RC	GACTGGAGTTCAGACGTGTGCTCTTCCGATC	Reverse complement of adaptor-2	detection_rc
+bob-a-primer_RC	GATCGGAAGAGCGTCGT	Reverse complement of bob-a-primer	detection_rc
+bob-a-1_RC	GCTACCAGGTACTGCTGAAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT	Reverse complement of bob-a-1	detection_rc
+bob-a-2_RC	GCTACCAGGTTCGTATGCAGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT	Reverse complement of bob-a-2	detection_rc
+bob-pdt-1_RC	AAAAAAAAAAGCGATGACATGCGTACGGACTACAT	Reverse complement of bob-pdt-1	detection_rc
+bob-pdt-2_RC	AAAAAAAAAATATCGAGACATGCGTACGGACTACAT	Reverse complement of bob-pdt-2	detection_rc
+bob-pdt-1-bc_RC	AAAAAGCGATGACAT	Reverse complement of bob-pdt-1-bc	detection_rc
+bob-pdt-2-bc_RC	AAAATATCGAGACAT	Reverse complement of bob-pdt-2-bc	detection_rc
+ONT_LSK_adapter_core_RC	AGCAATACGTAACTGAACGAAG	Reverse complement of ONT_LSK_adapter_core	detection_rc
+ONT_NBD_pre_barcode_flank_RC	TTAACCTT	Reverse complement of ONT_NBD_pre_barcode_flank	detection_rc
+ONT_NBD_post_barcode_flank_RC	AGGTGCTG	Reverse complement of ONT_NBD_post_barcode_flank	detection_rc
+C28_linker_RC	GGAAGCTGAT	Reverse complement of C28_linker	detection_rc
+polyT_10_RC	AAAAAAAAAA	Reverse complement of polyT_10	detection_rc
+polyA_10_RC	TTTTTTTTTT	Reverse complement of polyA_10	detection_rc
+RT_C28_PREFIX	ATACTCGTGACATCAGCTTCCT	RT_HR + C28_linker + T (22bp) for C28 subtype detection	rt_subtype_detection
+RT_C28_6T	ATACTCGTGACATCAGCTTCCTTTTTT	RT_C28_PREFIX + 5T (27bp) for polyT C28 detection	rt_subtype_detection
+BOB_barcode_CGTA	CGTA	4bp BOB barcode from BOB-C5-1_RC positions 20-23	bob_barcode_extraction
+BOB_barcode_ATCG_RC	CGAT	Reverse complement of BOB_barcode_ATCG	detection_rc
+BOB_barcode_CCGA_RC	TCGG	Reverse complement of BOB_barcode_CCGA	detection_rc
+BOB_barcode_ACCT_RC	AGGT	Reverse complement of BOB_barcode_ACCT	detection_rc
+BOB_barcode_TGTA_RC	TACA	Reverse complement of BOB_barcode_TGTA	detection_rc
+BOB_barcode_GAAC_RC	GTTC	Reverse complement of BOB_barcode_GAAC	detection_rc
+TSO_barcode_TACA_RC	TGTA	Reverse complement of TSO_barcode_TACA	detection_rc
+TSO_barcode_GGCA_RC	TGCC	Reverse complement of TSO_barcode_GGCA	detection_rc
+RT_C28_PREFIX_RC	AGGAAGCTGATGTCACGAGTAT	Reverse complement of RT_C28_PREFIX	detection_rc
+RT_C28_6T_RC	AAAAAAGGAAGCTGATGTCACGAGTAT	Reverse complement of RT_C28_6T	detection_rc
+BOB_barcode_CGTA_RC	TACG	Reverse complement of BOB_barcode_CGTA	detection_rc
+R2_short_RC	CACGTCTGAACTCCAGTCAC	Reverse complement of R2_short	detection_rc
+BOB-J-1_RC	CCCGGAGCGATACGTCTGAACTCCAGTCAC	Reverse complement of BOB-J-1	detection_rc
+BOB-J-2_RC	CCCTAACGTACTTACGTCTGAACTCCAGTCAC	Reverse complement of BOB-J-2	detection_rc
+BOB-J-1-bc_RC	GGAGCGAT	Reverse complement of BOB-J-1-bc	detection_rc
+BOB-J-2-bc_RC	TAACGTACTT	Reverse complement of BOB-J-2-bc	detection_rc
+TSO3P_backbone_RC	ACGTCTGAACTCCAGTCAC	Reverse complement of TSO3P_backbone	detection_rc
+
+[TSO-3P Primers]
+BOB-J-1	GTGACTGGAGTTCAGACGTATCGCTCCGGG	30bp TSO-3P primer, barcode ATCGCTCC = HUMAN-side; full oligo /5AmMC6/GTGACTGGAGTTCAGACGTATCGCTCCrGrGrG/3Phos/	tso_barcode_source, sequence_reference
+BOB-J-2	GTGACTGGAGTTCAGACGTAAGTACGTTAGGG	32bp TSO-3P primer, barcode AAGTACGTTA = MOUSE-side; full oligo /5AmMC6/GTGACTGGAGTTCAGACGTAAGTACGTTArGrGrG/3Phos/	tso_barcode_source, sequence_reference
+BOB-J-1-bc	ATCGCTCC	8bp TSO-3P species barcode (HUMAN), between Nextera-R1 backbone and rGrGrG	tso_barcode_extraction, sequence_reference
+BOB-J-2-bc	AAGTACGTTA	10bp TSO-3P species barcode (MOUSE), between Nextera-R1 backbone and rGrGrG	tso_barcode_extraction, sequence_reference
+TSO3P_backbone	GTGACTGGAGTTCAGACGT	19bp Nextera-R1 backbone shared by the BOB-J TSO-3P primers (immediately 5' of the species barcode)	structure_detection, sequence_reference
+

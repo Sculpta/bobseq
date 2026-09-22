@@ -1,0 +1,22 @@
+# The conda environment of the repository (docker/Dockerfile installs the same file). STAR 2.7.11b is not a conda
+# package here: use the official static binary of the release (github.com/alexdobin/STAR, bin/Linux_x86_64_static).
+name: bobseq
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - pysam
+  - reportlab
+  - openpyxl
+  - adjusttext
+  - pigz
+  # mawk comes from the Debian base image (docker/Dockerfile): the conda-forge build (1.3.4-20171017) crashes on FILENAME == ARGV[n]
+  - curl
+  - c-compiler
+  - samtools=1.24
+  - picard=3.5.0
+  - deeptools=3.5.6

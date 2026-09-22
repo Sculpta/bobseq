@@ -1,0 +1,10 @@
+chemistry	run	barcode	plot_no	sample_note	construct	human_code	mouse_code	reads_total	reads_mapped	mRNA_reads	rRNA_reads	MT_reads	other_reads	human_mRNA_reads	mouse_mRNA_reads	human_mRNA_accuracy_pct	human_mRNA_scored	mouse_mRNA_accuracy_pct	mouse_mRNA_scored	total_mRNA_accuracy_pct	total_mRNA_scored	total_ci95_lo_pct	total_ci95_hi_pct	status
+randomPriming	260819_BC9-11_6N	BC09	not plotted	TM1 50C 30min	bob-v1	GAATCTG	CAAGCAA	10000	8275	1849	5692	63	671	1095	750	99.522	836	98.036	560	98.926	1396	98.235	99.348	ok
+randomPriming	260819_BC9-11_6N	BC10	not plotted	TM2 temp-cycling	bob-v1	GAATCTG	CAAGCAA	10000	7881	1976	4958	92	855	1124	849	99.746	787	97.453	589	98.765	1376	98.03	99.227	ok
+randomPriming	260819_BC9-11_6N	BC11	not plotted	TM3 50C 60min	bob-v1	GAATCTG	CAAGCAA	10000	7684	1888	4876	86	834	1104	781	98.843	864	98.208	558	98.594	1422	97.838	99.088	ok
+randomPriming	260808_9N_exoi_full	BC01	not plotted	ExoI	bob-v1	TGGATGA	TGTCCAC	10000	9106	558	8106	104	338	298	260	99.556	225	98.522	203	99.065	428	97.622	99.636	ok
+randomPriming	260808_9N_exoi_full	BC02	not plotted	ExoI 20min	bob-v1	TGGATGA	TGTCCAC	10000	9177	521	8169	111	376	280	239	99.0	200	99.024	205	99.012	405	97.488	99.615	ok
+randomPriming	260808_9N_exoi_full	BC03	not plotted	ExoI 10min	bob-v1	TGGATGA	TGTCCAC	10000	8950	564	7859	121	406	310	254	100.0	237	100.0	198	100.0	435	99.125	100.0	ok
+randomPriming	260808_9N_exoi_full	BC04	not plotted	ExoI +RNeasy	bob-v1	TGGATGA	TGTCCAC	10000	8429	693	6952	281	503	356	337	99.632	272	100.0	270	99.815	542	98.962	99.967	ok
+randomPriming	260827_BC14_16	BC15	not plotted	1x polyA	bob-v1	CTGCGAT	GAGTAGT	10000	4307	2492	754	52	1009	1731	758	99.557	1355	99.831	590	99.64	1945	99.259	99.826	ok
+randomPriming	260827_BC14_16	BC16	not plotted	2x polyA	bob-v1	CTGCGAT	GAGTAGT	10000	5420	3429	683	125	1183	2283	1136	99.282	1810	99.454	916	99.34	2726	98.959	99.582	ok

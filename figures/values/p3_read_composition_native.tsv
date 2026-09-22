@@ -1,0 +1,4 @@
+method	n_samples	mRNA	ribosomal-protein	exonic other biotype	intronic	intergenic	rRNA	mitochondrial
+DRUG-seq	24	52.3007	26.2592	9.8120	6.3026	2.4912	0.2806	2.5537
+prime-seq	8	41.4207	9.0512	9.2186	22.3499	3.6097	2.1121	12.2378
+BOBseq	18	62.2489	11.0927	2.3673	6.2050	0.7864	16.9721	0.3277

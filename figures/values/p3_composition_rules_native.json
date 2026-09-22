@@ -1,0 +1,485 @@
+{
+ "set": "native",
+ "rules": "preprint methods, primary alignment, multimappers included, native BOBseq mate 1 only",
+ "per_method_pct_of_mapped": {
+  "DRUG-seq": {
+   "rRNA": 0.28058969325895566,
+   "mitochondrial": 2.5537169922549956,
+   "ribosomal-protein": 26.259164376450546,
+   "mRNA": 52.3007313652101,
+   "exonic other biotype": 9.812006021082714,
+   "intronic": 6.302614440979854,
+   "intergenic": 2.491177110762834
+  },
+  "prime-seq": {
+   "rRNA": 2.1120900844207093,
+   "mitochondrial": 12.237785871662666,
+   "ribosomal-protein": 9.05115756550417,
+   "mRNA": 41.4207009027997,
+   "exonic other biotype": 9.218648932492169,
+   "intronic": 22.349935958385874,
+   "intergenic": 3.6096806847347094
+  },
+  "BOBseq": {
+   "rRNA": 16.972054791274374,
+   "mitochondrial": 0.3276519112067318,
+   "ribosomal-protein": 11.092711105407675,
+   "mRNA": 62.24891827538848,
+   "exonic other biotype": 2.367266385872223,
+   "intronic": 6.205036766063644,
+   "intergenic": 0.7863607647868689
+  }
+ },
+ "per_sample": {
+  "DRUG-seq|DMSO_I08_ATCAGCACTT": {
+   "exonic other biotype": 73800,
+   "mRNA": 388844,
+   "intronic": 50088,
+   "intergenic": 19612,
+   "ribosomal-protein": 200035,
+   "rRNA": 2205,
+   "mitochondrial": 17123
+  },
+  "DRUG-seq|DMSO_J08_ATCAGCGAGG": {
+   "exonic other biotype": 79737,
+   "intronic": 48551,
+   "mRNA": 409998,
+   "ribosomal-protein": 224687,
+   "intergenic": 18747,
+   "rRNA": 2233,
+   "mitochondrial": 17712
+  },
+  "DRUG-seq|DMSO_K08_ATCCGTCCAT": {
+   "exonic other biotype": 70996,
+   "intronic": 47638,
+   "mRNA": 372721,
+   "intergenic": 18740,
+   "ribosomal-protein": 183263,
+   "rRNA": 1973,
+   "mitochondrial": 17663
+  },
+  "DRUG-seq|DMSO_L08_ATCGACGGCT": {
+   "exonic other biotype": 81343,
+   "intronic": 50561,
+   "intergenic": 19160,
+   "mRNA": 422780,
+   "ribosomal-protein": 220145,
+   "rRNA": 2380,
+   "mitochondrial": 19922
+  },
+  "DRUG-seq|DMSO_M08_ATCTAAGGAG": {
+   "exonic other biotype": 78112,
+   "intronic": 47658,
+   "mRNA": 402713,
+   "intergenic": 18622,
+   "ribosomal-protein": 213344,
+   "rRNA": 2079,
+   "mitochondrial": 17617
+  },
+  "DRUG-seq|DMSO_N08_ATGACGGTAA": {
+   "exonic other biotype": 67155,
+   "intronic": 42626,
+   "mRNA": 362969,
+   "intergenic": 17033,
+   "ribosomal-protein": 187794,
+   "rRNA": 1791,
+   "mitochondrial": 15027
+  },
+  "DRUG-seq|DMSO_O08_ATGCGGACTG": {
+   "exonic other biotype": 79873,
+   "intronic": 51116,
+   "intergenic": 21150,
+   "mRNA": 432620,
+   "ribosomal-protein": 220379,
+   "rRNA": 2295,
+   "mitochondrial": 20897
+  },
+  "DRUG-seq|DMSO_P08_ATGCTTCCTA": {
+   "exonic other biotype": 86269,
+   "intronic": 52057,
+   "mRNA": 464093,
+   "intergenic": 21308,
+   "ribosomal-protein": 237508,
+   "rRNA": 2430,
+   "mitochondrial": 22421
+  },
+  "DRUG-seq|DMSO_I16_GAGTAGACCA": {
+   "exonic other biotype": 92232,
+   "intergenic": 21552,
+   "intronic": 56356,
+   "mRNA": 462943,
+   "ribosomal-protein": 247166,
+   "rRNA": 2554,
+   "mitochondrial": 25429
+  },
+  "DRUG-seq|DMSO_J16_GATACGCTTA": {
+   "exonic other biotype": 77159,
+   "intronic": 45280,
+   "mRNA": 386186,
+   "ribosomal-protein": 203699,
+   "intergenic": 18151,
+   "rRNA": 1948,
+   "mitochondrial": 19443
+  },
+  "DRUG-seq|DMSO_K16_GATAGGTCAA": {
+   "exonic other biotype": 66761,
+   "intronic": 44905,
+   "mRNA": 349626,
+   "intergenic": 17310,
+   "ribosomal-protein": 175404,
+   "rRNA": 2087,
+   "mitochondrial": 19386
+  },
+  "DRUG-seq|DMSO_L16_GATATCAGGA": {
+   "exonic other biotype": 71665,
+   "intronic": 46774,
+   "mRNA": 382832,
+   "ribosomal-protein": 188551,
+   "intergenic": 17775,
+   "rRNA": 2217,
+   "mitochondrial": 19005
+  },
+  "DRUG-seq|DMSO_M16_GATGAGTGAC": {
+   "exonic other biotype": 88289,
+   "intronic": 51685,
+   "mRNA": 451446,
+   "ribosomal-protein": 240735,
+   "intergenic": 20937,
+   "rRNA": 2624,
+   "mitochondrial": 24087
+  },
+  "DRUG-seq|DMSO_N16_GATGGATACA": {
+   "exonic other biotype": 70909,
+   "intronic": 44125,
+   "mRNA": 366258,
+   "intergenic": 17239,
+   "ribosomal-protein": 194778,
+   "rRNA": 1851,
+   "mitochondrial": 17510
+  },
+  "DRUG-seq|DMSO_O16_GATTGCACGC": {
+   "exonic other biotype": 89915,
+   "intronic": 55275,
+   "intergenic": 22148,
+   "mRNA": 458601,
+   "ribosomal-protein": 248347,
+   "rRNA": 2541,
+   "mitochondrial": 31024
+  },
+  "DRUG-seq|DMSO_P16_GCAAGCGAAT": {
+   "exonic other biotype": 81374,
+   "intergenic": 19561,
+   "intronic": 48202,
+   "mRNA": 443261,
+   "ribosomal-protein": 223010,
+   "rRNA": 2057,
+   "mitochondrial": 25659
+  },
+  "DRUG-seq|DMSO_I24_TTATAGGAGG": {
+   "exonic other biotype": 22919,
+   "intronic": 16637,
+   "mRNA": 132834,
+   "intergenic": 6614,
+   "ribosomal-protein": 57850,
+   "rRNA": 793,
+   "mitochondrial": 6276
+  },
+  "DRUG-seq|DMSO_J24_TTATCGCGTT": {
+   "exonic other biotype": 34393,
+   "intergenic": 9138,
+   "intronic": 22979,
+   "mRNA": 191538,
+   "ribosomal-protein": 84812,
+   "rRNA": 1068,
+   "mitochondrial": 7068
+  },
+  "DRUG-seq|DMSO_K24_TTCAGGAGTA": {
+   "exonic other biotype": 44151,
+   "intronic": 31719,
+   "mRNA": 253403,
+   "intergenic": 12668,
+   "ribosomal-protein": 107030,
+   "rRNA": 1378,
+   "mitochondrial": 10075
+  },
+  "DRUG-seq|DMSO_L24_TTCCATCGAG": {
+   "exonic other biotype": 36392,
+   "intronic": 28164,
+   "mRNA": 216158,
+   "ribosomal-protein": 87860,
+   "intergenic": 10617,
+   "rRNA": 1299,
+   "mitochondrial": 10119
+  },
+  "DRUG-seq|DMSO_M24_TTGGCAATTC": {
+   "exonic other biotype": 44883,
+   "intergenic": 13445,
+   "intronic": 34473,
+   "mRNA": 272692,
+   "ribosomal-protein": 118152,
+   "rRNA": 1446,
+   "mitochondrial": 10720
+  },
+  "DRUG-seq|DMSO_N24_TTGGCTCCAC": {
+   "exonic other biotype": 47074,
+   "intronic": 31693,
+   "mRNA": 262107,
+   "ribosomal-protein": 115557,
+   "intergenic": 12871,
+   "rRNA": 1253,
+   "mitochondrial": 11847
+  },
+  "DRUG-seq|DMSO_O24_TTGTCGGCCA": {
+   "exonic other biotype": 48361,
+   "intronic": 35217,
+   "mRNA": 277737,
+   "intergenic": 13681,
+   "ribosomal-protein": 126262,
+   "rRNA": 1430,
+   "mitochondrial": 13293
+  },
+  "DRUG-seq|DMSO_P24_TTGTGTTCGA": {
+   "exonic other biotype": 49435,
+   "intronic": 33167,
+   "intergenic": 13880,
+   "mRNA": 274522,
+   "ribosomal-protein": 130628,
+   "rRNA": 1342,
+   "mitochondrial": 12727
+  },
+  "prime-seq|HEK2": {
+   "exonic other biotype": 84579,
+   "intronic": 173774,
+   "intergenic": 30308,
+   "mRNA": 377432,
+   "ribosomal-protein": 84662,
+   "rRNA": 18481,
+   "mitochondrial": 114308
+  },
+  "prime-seq|HEK20": {
+   "exonic other biotype": 128581,
+   "intronic": 354680,
+   "intergenic": 56347,
+   "mRNA": 577852,
+   "ribosomal-protein": 116159,
+   "rRNA": 35424,
+   "mitochondrial": 195057
+  },
+  "prime-seq|HEK3": {
+   "exonic other biotype": 128109,
+   "intronic": 319897,
+   "intergenic": 48168,
+   "mRNA": 631429,
+   "ribosomal-protein": 122952,
+   "rRNA": 25406,
+   "mitochondrial": 159422
+  },
+  "prime-seq|HEK31": {
+   "exonic other biotype": 108595,
+   "intronic": 249301,
+   "intergenic": 41101,
+   "mRNA": 479801,
+   "ribosomal-protein": 101515,
+   "rRNA": 22851,
+   "mitochondrial": 152615
+  },
+  "prime-seq|HEK42": {
+   "exonic other biotype": 130216,
+   "intergenic": 51543,
+   "intronic": 328457,
+   "ribosomal-protein": 125441,
+   "mRNA": 552215,
+   "rRNA": 31810,
+   "mitochondrial": 186311
+  },
+  "prime-seq|HEK53": {
+   "exonic other biotype": 194965,
+   "intergenic": 70848,
+   "intronic": 430245,
+   "mRNA": 804597,
+   "ribosomal-protein": 204165,
+   "rRNA": 48162,
+   "mitochondrial": 254344
+  },
+  "prime-seq|HEK64": {
+   "exonic other biotype": 95812,
+   "intronic": 237068,
+   "intergenic": 41104,
+   "mRNA": 502792,
+   "ribosomal-protein": 104868,
+   "rRNA": 11888,
+   "mitochondrial": 85777
+  },
+  "prime-seq|HEK9": {
+   "exonic other biotype": 149301,
+   "intronic": 379876,
+   "intergenic": 60037,
+   "mRNA": 657597,
+   "ribosomal-protein": 141861,
+   "rRNA": 39707,
+   "mitochondrial": 206429
+  },
+  "BOBseq|Hek_control_1": {
+   "exonic other biotype": 146300,
+   "intronic": 273705,
+   "mRNA": 4053824,
+   "intergenic": 38843,
+   "ribosomal-protein": 793745,
+   "rRNA": 1354585,
+   "mitochondrial": 17314
+  },
+  "BOBseq|Hek_control_2": {
+   "exonic other biotype": 206183,
+   "intronic": 388940,
+   "intergenic": 55019,
+   "mRNA": 5752516,
+   "ribosomal-protein": 1102346,
+   "rRNA": 1434371,
+   "mitochondrial": 22288
+  },
+  "BOBseq|Hek_control_3": {
+   "exonic other biotype": 205183,
+   "intronic": 348633,
+   "intergenic": 52132,
+   "mRNA": 5645840,
+   "ribosomal-protein": 1148938,
+   "rRNA": 1710814,
+   "mitochondrial": 17887
+  },
+  "BOBseq|Ris_dose_25mM-1": {
+   "exonic other biotype": 174466,
+   "intronic": 423009,
+   "intergenic": 53657,
+   "mRNA": 4704591,
+   "ribosomal-protein": 888512,
+   "rRNA": 1262945,
+   "mitochondrial": 22080
+  },
+  "BOBseq|Ris_dose_25mM-2": {
+   "exonic other biotype": 133156,
+   "intronic": 348153,
+   "intergenic": 43582,
+   "mRNA": 3324104,
+   "ribosomal-protein": 696335,
+   "rRNA": 2041340,
+   "mitochondrial": 17680
+  },
+  "BOBseq|Ris_dose_25mM-3": {
+   "exonic other biotype": 191299,
+   "intronic": 513848,
+   "intergenic": 62639,
+   "mRNA": 5035251,
+   "ribosomal-protein": 924892,
+   "rRNA": 1617072,
+   "mitochondrial": 29894
+  },
+  "BOBseq|CADM1_1nM-1": {
+   "exonic other biotype": 195992,
+   "intronic": 572199,
+   "intergenic": 65976,
+   "mRNA": 5107325,
+   "ribosomal-protein": 961787,
+   "rRNA": 1074829,
+   "mitochondrial": 31729
+  },
+  "BOBseq|CADM1_1nM-2": {
+   "intergenic": 63855,
+   "exonic other biotype": 186699,
+   "intronic": 558997,
+   "mRNA": 4806955,
+   "ribosomal-protein": 910475,
+   "rRNA": 928317,
+   "mitochondrial": 28773
+  },
+  "BOBseq|CADM1_1nM-3": {
+   "exonic other biotype": 164253,
+   "intronic": 481293,
+   "intergenic": 55816,
+   "mRNA": 4304837,
+   "ribosomal-protein": 804035,
+   "rRNA": 1029962,
+   "mitochondrial": 24238
+  },
+  "BOBseq|CADM1_100nM-1": {
+   "exonic other biotype": 185811,
+   "intronic": 547218,
+   "intergenic": 62551,
+   "mRNA": 4905228,
+   "ribosomal-protein": 908545,
+   "rRNA": 769049,
+   "mitochondrial": 28807
+  },
+  "BOBseq|CADM1_100nM-2": {
+   "intergenic": 52783,
+   "intronic": 438620,
+   "exonic other biotype": 171739,
+   "mRNA": 4625081,
+   "ribosomal-protein": 864515,
+   "rRNA": 813288,
+   "mitochondrial": 25146
+  },
+  "BOBseq|CADM1_100nM-3": {
+   "exonic other biotype": 178222,
+   "intronic": 453279,
+   "intergenic": 55893,
+   "mRNA": 4829696,
+   "ribosomal-protein": 908962,
+   "rRNA": 983457,
+   "mitochondrial": 24706
+  },
+  "BOBseq|CHX_dose_1ug_mL-1": {
+   "exonic other biotype": 112917,
+   "intronic": 296636,
+   "intergenic": 39874,
+   "mRNA": 3085980,
+   "ribosomal-protein": 462349,
+   "rRNA": 1340951,
+   "mitochondrial": 15176
+  },
+  "BOBseq|CHX_dose_1ug_mL-2": {
+   "exonic other biotype": 152643,
+   "intronic": 403642,
+   "intergenic": 55876,
+   "mRNA": 4070939,
+   "ribosomal-protein": 648218,
+   "rRNA": 883900,
+   "mitochondrial": 25876
+  },
+  "BOBseq|CHX_dose_1ug_mL-3": {
+   "exonic other biotype": 127044,
+   "intronic": 354238,
+   "intergenic": 47273,
+   "mRNA": 3397117,
+   "ribosomal-protein": 515468,
+   "rRNA": 777042,
+   "mitochondrial": 20929
+  },
+  "BOBseq|CHX_dose_50ug_mL-1": {
+   "exonic other biotype": 137080,
+   "intronic": 474938,
+   "intergenic": 59327,
+   "mRNA": 3161906,
+   "ribosomal-protein": 426968,
+   "rRNA": 1091510,
+   "mitochondrial": 19554
+  },
+  "BOBseq|CHX_dose_50ug_mL-2": {
+   "intergenic": 68070,
+   "exonic other biotype": 150637,
+   "intronic": 520871,
+   "mRNA": 3529784,
+   "ribosomal-protein": 433998,
+   "rRNA": 1141192,
+   "mitochondrial": 23380
+  },
+  "BOBseq|CHX_dose_50ug_mL-3": {
+   "exonic other biotype": 153310,
+   "intronic": 394383,
+   "intergenic": 54386,
+   "mRNA": 3834396,
+   "ribosomal-protein": 530705,
+   "rRNA": 1059749,
+   "mitochondrial": 16025
+  }
+ }
+}

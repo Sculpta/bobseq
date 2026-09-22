@@ -1,0 +1,220 @@
+run_accession	study	biosample_accession	library_ID	title	platform	filename	filename2
+SRR40770554	SRP738601	SAMN63281828	BOB57_CHX_dose_50ug_mL-1	HEK293T, cycloheximide 50 ug/mL, 6 hours, replicate 1	ILLUMINA	BOB57_CHX_dose_50ug_mL-1_R1.fastq.gz	BOB57_CHX_dose_50ug_mL-1_R2.fastq.gz
+SRR40770565	SRP738601	SAMN63281827	BOB57_CHX_dose_1ug_mL-3	HEK293T, cycloheximide 1 ug/mL, 6 hours, replicate 3	ILLUMINA	BOB57_CHX_dose_1ug_mL-3_R1.fastq.gz	BOB57_CHX_dose_1ug_mL-3_R2.fastq.gz
+SRR40770580	SRP738601	SAMN63281819	BOB57_CADM1_1nM-1	HEK293T, CADM1 splice-switching antisense oligonucleotide, 1 nM, 24 hours, replicate 1	ILLUMINA	BOB57_CADM1_1nM-1_R1.fastq.gz	BOB57_CADM1_1nM-1_R2.fastq.gz
+SRR40770591	SRP738601	SAMN63281818	BOB57_Ris_dose_500nM-3	HEK293T, risdiplam 500 nM, 24 hours, replicate 3	ILLUMINA	BOB57_Ris_dose_500nM-3_R1.fastq.gz	BOB57_Ris_dose_500nM-3_R2.fastq.gz
+SRR40770600	SRP738601	SAMN63281815	BOB57_Ris_dose_25nM-3	HEK293T, risdiplam 25 nM, 24 hours, replicate 3	ILLUMINA	BOB57_Ris_dose_25nM-3_R1.fastq.gz	BOB57_Ris_dose_25nM-3_R2.fastq.gz
+SRR40770611	SRP738601	SAMN63281814	BOB57_Ris_dose_25nM-2	HEK293T, risdiplam 25 nM, 24 hours, replicate 2	ILLUMINA	BOB57_Ris_dose_25nM-2_R1.fastq.gz	BOB57_Ris_dose_25nM-2_R2.fastq.gz
+SRR40770622	SRP738601	SAMN63281813	BOB57_Ris_dose_25nM-1	HEK293T, risdiplam 25 nM, 24 hours, replicate 1	ILLUMINA	BOB57_Ris_dose_25nM-1_R1.fastq.gz	BOB57_Ris_dose_25nM-1_R2.fastq.gz
+SRR40770629	SRP738601	SAMN63281833	BOB57_RAW_control_3	RAW 264.7, untreated, 24 hours, replicate 3	ILLUMINA	BOB57_RAW_control_3_R1.fastq.gz	BOB57_RAW_control_3_R2.fastq.gz
+SRR40770630	SRP738601	SAMN63281832	BOB57_RAW_control_2	RAW 264.7, untreated, 24 hours, replicate 2	ILLUMINA	BOB57_RAW_control_2_R1.fastq.gz	BOB57_RAW_control_2_R2.fastq.gz
+SRR40770640	SRP738601	SAMN63281831	BOB57_RAW_control_1	RAW 264.7, untreated, 24 hours, replicate 1	ILLUMINA	BOB57_RAW_control_1_R1.fastq.gz	BOB57_RAW_control_1_R2.fastq.gz
+SRR40770648	SRP738601	SAMN63281826	BOB57_CHX_dose_1ug_mL-2	HEK293T, cycloheximide 1 ug/mL, 6 hours, replicate 2	ILLUMINA	BOB57_CHX_dose_1ug_mL-2_R1.fastq.gz	BOB57_CHX_dose_1ug_mL-2_R2.fastq.gz
+SRR40770659	SRP738601	SAMN63281825	BOB57_CHX_dose_1ug_mL-1	HEK293T, cycloheximide 1 ug/mL, 6 hours, replicate 1	ILLUMINA	BOB57_CHX_dose_1ug_mL-1_R1.fastq.gz	BOB57_CHX_dose_1ug_mL-1_R2.fastq.gz
+SRR40770674	SRP738601	SAMN63281817	BOB57_Ris_dose_500nM-2	HEK293T, risdiplam 500 nM, 24 hours, replicate 2	ILLUMINA	BOB57_Ris_dose_500nM-2_R1.fastq.gz	BOB57_Ris_dose_500nM-2_R2.fastq.gz
+SRR40770685	SRP738601	SAMN63281816	BOB57_Ris_dose_500nM-1	HEK293T, risdiplam 500 nM, 24 hours, replicate 1	ILLUMINA	BOB57_Ris_dose_500nM-1_R1.fastq.gz	BOB57_Ris_dose_500nM-1_R2.fastq.gz
+SRR40770692	SRP738601	SAMN63281822	BOB57_CADM1_100nM-1	HEK293T, CADM1 splice-switching antisense oligonucleotide, 100 nM, 24 hours, replicate 1	ILLUMINA	BOB57_CADM1_100nM-1_R1.fastq.gz	BOB57_CADM1_100nM-1_R2.fastq.gz
+SRR40770703	SRP738601	SAMN63281821	BOB57_CADM1_1nM-3	HEK293T, CADM1 splice-switching antisense oligonucleotide, 1 nM, 24 hours, replicate 3	ILLUMINA	BOB57_CADM1_1nM-3_R1.fastq.gz	BOB57_CADM1_1nM-3_R2.fastq.gz
+SRR40770723	SRP738601	SAMN63281830	BOB57_CHX_dose_50ug_mL-3	HEK293T, cycloheximide 50 ug/mL, 6 hours, replicate 3	ILLUMINA	BOB57_CHX_dose_50ug_mL-3_R1.fastq.gz	BOB57_CHX_dose_50ug_mL-3_R2.fastq.gz
+SRR40770724	SRP738601	SAMN63281812	BOB57_Hek_control_3	HEK293T, untreated, 24 hours, replicate 3	ILLUMINA	BOB57_Hek_control_3_R1.fastq.gz	BOB57_Hek_control_3_R2.fastq.gz
+SRR40770735	SRP738601	SAMN63281829	BOB57_CHX_dose_50ug_mL-2	HEK293T, cycloheximide 50 ug/mL, 6 hours, replicate 2	ILLUMINA	BOB57_CHX_dose_50ug_mL-2_R1.fastq.gz	BOB57_CHX_dose_50ug_mL-2_R2.fastq.gz
+SRR40770742	SRP738601	SAMN63281824	BOB57_CADM1_100nM-3	HEK293T, CADM1 splice-switching antisense oligonucleotide, 100 nM, 24 hours, replicate 3	ILLUMINA	BOB57_CADM1_100nM-3_R1.fastq.gz	BOB57_CADM1_100nM-3_R2.fastq.gz
+SRR40770753	SRP738601	SAMN63281823	BOB57_CADM1_100nM-2	HEK293T, CADM1 splice-switching antisense oligonucleotide, 100 nM, 24 hours, replicate 2	ILLUMINA	BOB57_CADM1_100nM-2_R1.fastq.gz	BOB57_CADM1_100nM-2_R2.fastq.gz
+SRR40770762	SRP738601	SAMN63281820	BOB57_CADM1_1nM-2	HEK293T, CADM1 splice-switching antisense oligonucleotide, 1 nM, 24 hours, replicate 2	ILLUMINA	BOB57_CADM1_1nM-2_R1.fastq.gz	BOB57_CADM1_1nM-2_R2.fastq.gz
+SRR40770763	SRP738601	SAMN63281811	BOB57_Hek_control_2	HEK293T, untreated, 24 hours, replicate 2	ILLUMINA	BOB57_Hek_control_2_R1.fastq.gz	BOB57_Hek_control_2_R2.fastq.gz
+SRR40770764	SRP738601	SAMN63281810	BOB57_Hek_control_1	HEK293T, untreated, 24 hours, replicate 1	ILLUMINA	BOB57_Hek_control_1_R1.fastq.gz	BOB57_Hek_control_1_R2.fastq.gz
+SRR40770546	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC20	3TSO_bob-v1 run 260730 native barcode BC20 (figure dataset 51)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC20.fastq.gz	
+SRR40770547	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC14	3TSO_bob-v1 run 260714 native barcode BC14 (figure dataset 50)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC14.fastq.gz	
+SRR40770548	SRP738601	SAMN63281841	3TSO_bob-v1__260709_BC01	3TSO_bob-v1 run 260709 native barcode BC01 (figure dataset 49)	OXFORD_NANOPORE	3TSO_bob-v1__260709_BC01.fastq.gz	
+SRR40770549	SRP738601	SAMN63281841	3TSO_bob-v1__260718_BC17	3TSO_bob-v1 run 260718 native barcode BC17 (figure dataset 48)	OXFORD_NANOPORE	3TSO_bob-v1__260718_BC17.fastq.gz	
+SRR40770550	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC06	3TSO_bob-v1 run 260730 native barcode BC06 (figure dataset 47)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC06.fastq.gz	
+SRR40770551	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC21	3TSO_bob-v1 run 260730 native barcode BC21 (figure dataset 46)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC21.fastq.gz	
+SRR40770552	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC23	3TSO_bob-v1 run 260805 native barcode BC23 (figure dataset 45)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC23.fastq.gz	
+SRR40770553	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC19	3TSO_tso-bob run 260702 native barcode BC19 (figure dataset 44)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC19.fastq.gz	
+SRR40770555	SRP738601	SAMN63281840	3TSO_tso-bob__260624_BC12	3TSO_tso-bob run 260624 native barcode BC12 (figure dataset 43)	OXFORD_NANOPORE	3TSO_tso-bob__260624_BC12.fastq.gz	
+SRR40770556	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC03	3TSO_bob-v1 run 260730 native barcode BC03 (figure dataset 42)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC03.fastq.gz	
+SRR40770557	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC01	3TSO_bob-v1 run 260730 native barcode BC01 (figure dataset 41)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC01.fastq.gz	
+SRR40770558	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC12	3TSO_bob-v1 run 260730 native barcode BC12 (figure dataset 40)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC12.fastq.gz	
+SRR40770559	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC08	3TSO_bob-v1 run 260730 native barcode BC08 (figure dataset 39)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC08.fastq.gz	
+SRR40770560	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC03	3TSO_tso-bob run 260611 native barcode BC03 (figure dataset 38)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC03.fastq.gz	
+SRR40770561	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC23	3TSO_bob-v1 run 260730 native barcode BC23 (figure dataset 37)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC23.fastq.gz	
+SRR40770562	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC14	3TSO_bob-v1 run 260805 native barcode BC14 (figure dataset 36)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC14.fastq.gz	
+SRR40770563	SRP738601	SAMN63281841	3TSO_bob-v1__260702_BC22	3TSO_bob-v1 run 260702 native barcode BC22 (figure dataset 35)	OXFORD_NANOPORE	3TSO_bob-v1__260702_BC22.fastq.gz	
+SRR40770564	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC20	3TSO_bob-v1 run 260805 native barcode BC20 (figure dataset 34)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC20.fastq.gz	
+SRR40770566	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC04	3TSO_bob-v1 run 260730 native barcode BC04 (figure dataset 33)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC04.fastq.gz	
+SRR40770567	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC22	3TSO_bob-v1 run 260730 native barcode BC22 (figure dataset 32)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC22.fastq.gz	
+SRR40770568	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC22	3TSO_bob-v1 run 260805 native barcode BC22 (figure dataset 31)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC22.fastq.gz	
+SRR40770569	SRP738601	SAMN63281840	3TSO_tso-bob__260624_BC16	3TSO_tso-bob run 260624 native barcode BC16 (figure dataset 30)	OXFORD_NANOPORE	3TSO_tso-bob__260624_BC16.fastq.gz	
+SRR40770570	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC21	splint_bob-c-splint run 260424 native barcode BC21 (figure dataset 17)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC21.fastq.gz	
+SRR40770571	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC02	splint_bob-c-splint run 260424 native barcode BC02 (figure dataset 16)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC02.fastq.gz	
+SRR40770572	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC19	splint_bob-c-splint run 260410 native barcode BC19 (figure dataset 15)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC19.fastq.gz	
+SRR40770573	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC18	splint_bob-c-splint run 260410 native barcode BC18 (figure dataset 14)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC18.fastq.gz	
+SRR40770574	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC20	splint_bob-c-splint run 260410 native barcode BC20 (figure dataset 13)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC20.fastq.gz	
+SRR40770575	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC20	splint_bob-c-splint run 260424 native barcode BC20 (figure dataset 12)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC20.fastq.gz	
+SRR40770576	SRP738601	SAMN63281836	splint_bob-c-splint__260408_BC07	splint_bob-c-splint run 260408 native barcode BC07 (figure dataset 11)	OXFORD_NANOPORE	splint_bob-c-splint__260408_BC07.fastq.gz	
+SRR40770577	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC03	splint_bob-c-splint run 260424 native barcode BC03 (figure dataset 10)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC03.fastq.gz	
+SRR40770578	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC21	splint_bob-c-splint run 260410 native barcode BC21 (figure dataset 9)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC21.fastq.gz	
+SRR40770579	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC24	splint_bob-c-splint run 260410 native barcode BC24 (figure dataset 8)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC24.fastq.gz	
+SRR40770581	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC17	splint_bob-c-splint run 260410 native barcode BC17 (figure dataset 7)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC17.fastq.gz	
+SRR40770582	SRP738601	SAMN63281836	splint_bob-c-splint__260415_BC07	splint_bob-c-splint run 260415 native barcode BC07 (figure dataset 6)	OXFORD_NANOPORE	splint_bob-c-splint__260415_BC07.fastq.gz	
+SRR40770583	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC23	splint_bob-c-splint run 260410 native barcode BC23 (figure dataset 5)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC23.fastq.gz	
+SRR40770584	SRP738601	SAMN63281836	splint_bob-c-splint__260415_BC06	splint_bob-c-splint run 260415 native barcode BC06 (figure dataset 4)	OXFORD_NANOPORE	splint_bob-c-splint__260415_BC06.fastq.gz	
+SRR40770585	SRP738601	SAMN63281836	splint_bob-c-splint__260415_BC10	splint_bob-c-splint run 260415 native barcode BC10 (figure dataset 3)	OXFORD_NANOPORE	splint_bob-c-splint__260415_BC10.fastq.gz	
+SRR40770586	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC24	splint_bob-c-splint run 260424 native barcode BC24 (figure dataset 2)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC24.fastq.gz	
+SRR40770587	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC01	splint_bob-c-splint run 260424 native barcode BC01 (figure dataset 1)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC01.fastq.gz	
+SRR40770588	SRP738601	SAMN63281834	polydT_bob-polydt__260501_BC11	polydT_bob-polydt run 260501 native barcode BC11 (figure dataset 59)	OXFORD_NANOPORE	polydT_bob-polydt__260501_BC11.fastq.gz	
+SRR40770589	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC12	polydT_bob-polydt run 260522 native barcode BC12 (figure dataset 58)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC12.fastq.gz	
+SRR40770590	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC11	polydT_bob-polydt run 260522 native barcode BC11 (figure dataset 57)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC11.fastq.gz	
+SRR40770592	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC13	polydT_bob-polydt run 260516 native barcode BC13 (figure dataset 56)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC13.fastq.gz	
+SRR40770593	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC16	polydT_bob-polydt run 260522 native barcode BC16 (figure dataset 55)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC16.fastq.gz	
+SRR40770594	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC11	polydT_bob-polydt run 260516 native barcode BC11 (figure dataset 32)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC11.fastq.gz	
+SRR40770595	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC20	polydT_bob-polydt run 260605 native barcode BC20 (figure dataset 31)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC20.fastq.gz	
+SRR40770596	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC16	polydT_bob-polydt run 260605 native barcode BC16 (figure dataset 30)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC16.fastq.gz	
+SRR40770597	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC15	polydT_bob-polydt run 260522 native barcode BC15 (figure dataset 29)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC15.fastq.gz	
+SRR40770598	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC14	polydT_bob-polydt run 260516 native barcode BC14 (figure dataset 28)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC14.fastq.gz	
+SRR40770599	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC15	polydT_bob-polydt run 260605 native barcode BC15 (figure dataset 27)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC15.fastq.gz	
+SRR40770601	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC09	polydT_bob-polydt run 260516 native barcode BC09 (figure dataset 26)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC09.fastq.gz	
+SRR40770602	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC23	polydT_bob-polydt run 260605 native barcode BC23 (figure dataset 25)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC23.fastq.gz	
+SRR40770603	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC19	polydT_bob-polydt run 260605 native barcode BC19 (figure dataset 24)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC19.fastq.gz	
+SRR40770604	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC10	polydT_bob-polydt run 260516 native barcode BC10 (figure dataset 23)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC10.fastq.gz	
+SRR40770605	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC17	polydT_bob-polydt run 260605 native barcode BC17 (figure dataset 22)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC17.fastq.gz	
+SRR40770606	SRP738601	SAMN63281835	polydT_bob-k-polydt__260605_BC05	polydT_bob-k-polydt run 260605 native barcode BC05 (figure dataset 21)	OXFORD_NANOPORE	polydT_bob-k-polydt__260605_BC05.fastq.gz	
+SRR40770607	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC22	polydT_bob-polydt run 260605 native barcode BC22 (figure dataset 20)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC22.fastq.gz	
+SRR40770608	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC21	polydT_bob-polydt run 260605 native barcode BC21 (figure dataset 19)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC21.fastq.gz	
+SRR40770609	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC14	polydT_bob-polydt run 260507 native barcode BC14 (figure dataset 18)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC14.fastq.gz	
+SRR40770610	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC24	polydT_bob-polydt run 260605 native barcode BC24 (figure dataset 17)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC24.fastq.gz	
+SRR40770612	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC15	polydT_bob-polydt run 260507 native barcode BC15 (figure dataset 16)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC15.fastq.gz	
+SRR40770613	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC21	polydT_bob-polydt run 260507 native barcode BC21 (figure dataset 15)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC21.fastq.gz	
+SRR40770614	SRP738601	SAMN63281834	polydT_bob-polydt__260605_BC18	polydT_bob-polydt run 260605 native barcode BC18 (figure dataset 14)	OXFORD_NANOPORE	polydT_bob-polydt__260605_BC18.fastq.gz	
+SRR40770615	SRP738601	SAMN63281834	polydT_bob-polydt__260509_BC02	polydT_bob-polydt run 260509 native barcode BC02 (figure dataset 13)	OXFORD_NANOPORE	polydT_bob-polydt__260509_BC02.fastq.gz	
+SRR40770616	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC20	polydT_bob-polydt run 260507 native barcode BC20 (figure dataset 12)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC20.fastq.gz	
+SRR40770617	SRP738601	SAMN63281834	polydT_bob-polydt__260509_BC24	polydT_bob-polydt run 260509 native barcode BC24 (figure dataset 11)	OXFORD_NANOPORE	polydT_bob-polydt__260509_BC24.fastq.gz	
+SRR40770618	SRP738601	SAMN63281834	polydT_bob-polydt__260509_BC03	polydT_bob-polydt run 260509 native barcode BC03 (figure dataset 10)	OXFORD_NANOPORE	polydT_bob-polydt__260509_BC03.fastq.gz	
+SRR40770619	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC19	polydT_bob-polydt run 260507 native barcode BC19 (figure dataset 9)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC19.fastq.gz	
+SRR40770620	SRP738601	SAMN63281834	polydT_bob-polydt__260509_BC01	polydT_bob-polydt run 260509 native barcode BC01 (figure dataset 8)	OXFORD_NANOPORE	polydT_bob-polydt__260509_BC01.fastq.gz	
+SRR40770621	SRP738601	SAMN63281834	polydT_bob-polydt__260511_BC19	polydT_bob-polydt run 260511 native barcode BC19 (figure dataset 7)	OXFORD_NANOPORE	polydT_bob-polydt__260511_BC19.fastq.gz	
+SRR40770623	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC18	polydT_bob-polydt run 260507 native barcode BC18 (figure dataset 6)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC18.fastq.gz	
+SRR40770624	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC22	polydT_bob-polydt run 260507 native barcode BC22 (figure dataset 5)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC22.fastq.gz	
+SRR40770625	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC23	polydT_bob-polydt run 260507 native barcode BC23 (figure dataset 4)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC23.fastq.gz	
+SRR40770626	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC12	polydT_bob-polydt run 260507 native barcode BC12 (figure dataset 3)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC12.fastq.gz	
+SRR40770627	SRP738601	SAMN63281834	polydT_bob-polydt__260507_BC13	polydT_bob-polydt run 260507 native barcode BC13 (figure dataset 2)	OXFORD_NANOPORE	polydT_bob-polydt__260507_BC13.fastq.gz	
+SRR40770628	SRP738601	SAMN63281834	polydT_bob-polydt__260511_BC20	polydT_bob-polydt run 260511 native barcode BC20 (figure dataset 1)	OXFORD_NANOPORE	polydT_bob-polydt__260511_BC20.fastq.gz	
+SRR40770631	SRP738601	SAMN63281842	randomPriming_bob-v1__260819_BC11	randomPriming_bob-v1 run 260819 native barcode BC11.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260819_BC11.fastq.gz	
+SRR40770632	SRP738601	SAMN63281842	randomPriming_bob-v1__260819_BC10	randomPriming_bob-v1 run 260819 native barcode BC10.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260819_BC10.fastq.gz	
+SRR40770633	SRP738601	SAMN63281842	randomPriming_bob-v1__260819_BC09	randomPriming_bob-v1 run 260819 native barcode BC09.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260819_BC09.fastq.gz	
+SRR40770634	SRP738601	SAMN63281842	randomPriming_bob-v1__260808_BC04	randomPriming_bob-v1 run 260808 native barcode BC04.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260808_BC04.fastq.gz	
+SRR40770635	SRP738601	SAMN63281842	randomPriming_bob-v1__260808_BC03	randomPriming_bob-v1 run 260808 native barcode BC03.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260808_BC03.fastq.gz	
+SRR40770636	SRP738601	SAMN63281842	randomPriming_bob-v1__260808_BC02	randomPriming_bob-v1 run 260808 native barcode BC02.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260808_BC02.fastq.gz	
+SRR40770637	SRP738601	SAMN63281842	randomPriming_bob-v1__260808_BC01	randomPriming_bob-v1 run 260808 native barcode BC01.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260808_BC01.fastq.gz	
+SRR40770638	SRP738601	SAMN63281842	randomPriming_bob-v1__260827_BC16	randomPriming_bob-v1 run 260827 native barcode BC16.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260827_BC16.fastq.gz	
+SRR40770639	SRP738601	SAMN63281842	randomPriming_bob-v1__260827_BC15	randomPriming_bob-v1 run 260827 native barcode BC15.fastq.gz	OXFORD_NANOPORE	randomPriming_bob-v1__260827_BC15.fastq.gz	
+SRR40770641	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC16	3TSO_tso-bob run 260702 native barcode BC16 (figure dataset 73)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC16.fastq.gz	
+SRR40770642	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC10	3TSO_bob-v1 run 260714 native barcode BC10 (figure dataset 29)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC10.fastq.gz	
+SRR40770643	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC07	3TSO_bob-v1 run 260730 native barcode BC07 (figure dataset 28)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC07.fastq.gz	
+SRR40770644	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC05	3TSO_bob-v1 run 260730 native barcode BC05 (figure dataset 27)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC05.fastq.gz	
+SRR40770645	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC10	3TSO_bob-v1 run 260730 native barcode BC10 (figure dataset 26)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC10.fastq.gz	
+SRR40770646	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC02	3TSO_bob-v1 run 260730 native barcode BC02 (figure dataset 25)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC02.fastq.gz	
+SRR40770647	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC11	3TSO_bob-v1 run 260714 native barcode BC11 (figure dataset 24)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC11.fastq.gz	
+SRR40770649	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC12	3TSO_bob-v1 run 260714 native barcode BC12 (figure dataset 23)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC12.fastq.gz	
+SRR40770650	SRP738601	SAMN63281841	3TSO_bob-v1__260702_BC23	3TSO_bob-v1 run 260702 native barcode BC23 (figure dataset 22)	OXFORD_NANOPORE	3TSO_bob-v1__260702_BC23.fastq.gz	
+SRR40770651	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC09	3TSO_bob-v1 run 260730 native barcode BC09 (figure dataset 21)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC09.fastq.gz	
+SRR40770652	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC24	3TSO_bob-v1 run 260730 native barcode BC24 (figure dataset 20)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC24.fastq.gz	
+SRR40770653	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC05	3TSO_tso-bob run 260611 native barcode BC05 (figure dataset 19)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC05.fastq.gz	
+SRR40770654	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC21	3TSO_bob-v1 run 260805 native barcode BC21 (figure dataset 18)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC21.fastq.gz	
+SRR40770655	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC13	3TSO_bob-v1 run 260730 native barcode BC13 (figure dataset 17)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC13.fastq.gz	
+SRR40770656	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC18	3TSO_tso-bob run 260702 native barcode BC18 (figure dataset 16)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC18.fastq.gz	
+SRR40770657	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC17	3TSO_tso-bob run 260702 native barcode BC17 (figure dataset 15)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC17.fastq.gz	
+SRR40770658	SRP738601	SAMN63281841	3TSO_bob-v1__260730_BC11	3TSO_bob-v1 run 260730 native barcode BC11 (figure dataset 14)	OXFORD_NANOPORE	3TSO_bob-v1__260730_BC11.fastq.gz	
+SRR40770660	SRP738601	SAMN63281841	3TSO_bob-v1__260731_BC03	3TSO_bob-v1 run 260731 native barcode BC03 (figure dataset 13)	OXFORD_NANOPORE	3TSO_bob-v1__260731_BC03.fastq.gz	
+SRR40770661	SRP738601	SAMN63281841	3TSO_bob-v1__260731_BC04	3TSO_bob-v1 run 260731 native barcode BC04 (figure dataset 12)	OXFORD_NANOPORE	3TSO_bob-v1__260731_BC04.fastq.gz	
+SRR40770662	SRP738601	SAMN63281841	3TSO_bob-v1__260626_BC06	3TSO_bob-v1 run 260626 native barcode BC06 (figure dataset 11)	OXFORD_NANOPORE	3TSO_bob-v1__260626_BC06.fastq.gz	
+SRR40770663	SRP738601	SAMN63281841	3TSO_bob-v1__260731_BC05	3TSO_bob-v1 run 260731 native barcode BC05 (figure dataset 10)	OXFORD_NANOPORE	3TSO_bob-v1__260731_BC05.fastq.gz	
+SRR40770664	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC11	3TSO_tso-bob run 260702 native barcode BC11 (figure dataset 9)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC11.fastq.gz	
+SRR40770665	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC10	3TSO_tso-bob run 260702 native barcode BC10 (figure dataset 8)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC10.fastq.gz	
+SRR40770666	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC14	polydT_bob-polydt run 260522 native barcode BC14 (figure dataset 54)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC14.fastq.gz	
+SRR40770667	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC10	polydT_bob-polydt run 260522 native barcode BC10 (figure dataset 53)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC10.fastq.gz	
+SRR40770668	SRP738601	SAMN63281834	polydT_bob-polydt__260611_BC08	polydT_bob-polydt run 260611 native barcode BC08 (figure dataset 52)	OXFORD_NANOPORE	polydT_bob-polydt__260611_BC08.fastq.gz	
+SRR40770669	SRP738601	SAMN63281834	polydT_bob-polydt__260501_BC09	polydT_bob-polydt run 260501 native barcode BC09 (figure dataset 51)	OXFORD_NANOPORE	polydT_bob-polydt__260501_BC09.fastq.gz	
+SRR40770670	SRP738601	SAMN63281834	polydT_bob-polydt__260529_BC19	polydT_bob-polydt run 260529 native barcode BC19 (figure dataset 50)	OXFORD_NANOPORE	polydT_bob-polydt__260529_BC19.fastq.gz	
+SRR40770671	SRP738601	SAMN63281834	polydT_bob-polydt__260611_BC09	polydT_bob-polydt run 260611 native barcode BC09 (figure dataset 49)	OXFORD_NANOPORE	polydT_bob-polydt__260611_BC09.fastq.gz	
+SRR40770672	SRP738601	SAMN63281834	polydT_bob-polydt__260611_BC10	polydT_bob-polydt run 260611 native barcode BC10 (figure dataset 48)	OXFORD_NANOPORE	polydT_bob-polydt__260611_BC10.fastq.gz	
+SRR40770673	SRP738601	SAMN63281834	polydT_bob-polydt__260501_BC07	polydT_bob-polydt run 260501 native barcode BC07 (figure dataset 47)	OXFORD_NANOPORE	polydT_bob-polydt__260501_BC07.fastq.gz	
+SRR40770675	SRP738601	SAMN63281834	polydT_bob-polydt__260511_BC24	polydT_bob-polydt run 260511 native barcode BC24 (figure dataset 46)	OXFORD_NANOPORE	polydT_bob-polydt__260511_BC24.fastq.gz	
+SRR40770676	SRP738601	SAMN63281834	polydT_bob-polydt__260519_BC24	polydT_bob-polydt run 260519 native barcode BC24 (figure dataset 45)	OXFORD_NANOPORE	polydT_bob-polydt__260519_BC24.fastq.gz	
+SRR40770677	SRP738601	SAMN63281834	polydT_bob-polydt__260511_BC21	polydT_bob-polydt run 260511 native barcode BC21 (figure dataset 44)	OXFORD_NANOPORE	polydT_bob-polydt__260511_BC21.fastq.gz	
+SRR40770678	SRP738601	SAMN63281834	polydT_bob-polydt__260511_BC23	polydT_bob-polydt run 260511 native barcode BC23 (figure dataset 43)	OXFORD_NANOPORE	polydT_bob-polydt__260511_BC23.fastq.gz	
+SRR40770679	SRP738601	SAMN63281834	polydT_bob-polydt__260529_BC20	polydT_bob-polydt run 260529 native barcode BC20 (figure dataset 42)	OXFORD_NANOPORE	polydT_bob-polydt__260529_BC20.fastq.gz	
+SRR40770680	SRP738601	SAMN63281834	polydT_bob-polydt__260501_BC06	polydT_bob-polydt run 260501 native barcode BC06 (figure dataset 41)	OXFORD_NANOPORE	polydT_bob-polydt__260501_BC06.fastq.gz	
+SRR40770681	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC09	polydT_bob-polydt run 260522 native barcode BC09 (figure dataset 40)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC09.fastq.gz	
+SRR40770682	SRP738601	SAMN63281834	polydT_bob-polydt__260529_BC21	polydT_bob-polydt run 260529 native barcode BC21 (figure dataset 39)	OXFORD_NANOPORE	polydT_bob-polydt__260529_BC21.fastq.gz	
+SRR40770683	SRP738601	SAMN63281835	polydT_bob-k-polydt__260605_BC06	polydT_bob-k-polydt run 260605 native barcode BC06 (figure dataset 38)	OXFORD_NANOPORE	polydT_bob-k-polydt__260605_BC06.fastq.gz	
+SRR40770684	SRP738601	SAMN63281834	polydT_bob-polydt__260522_BC13	polydT_bob-polydt run 260522 native barcode BC13 (figure dataset 37)	OXFORD_NANOPORE	polydT_bob-polydt__260522_BC13.fastq.gz	
+SRR40770686	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC16	polydT_bob-polydt run 260516 native barcode BC16 (figure dataset 36)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC16.fastq.gz	
+SRR40770687	SRP738601	SAMN63281834	polydT_bob-polydt__260529_BC17	polydT_bob-polydt run 260529 native barcode BC17 (figure dataset 35)	OXFORD_NANOPORE	polydT_bob-polydt__260529_BC17.fastq.gz	
+SRR40770688	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC15	polydT_bob-polydt run 260516 native barcode BC15 (figure dataset 34)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC15.fastq.gz	
+SRR40770689	SRP738601	SAMN63281834	polydT_bob-polydt__260516_BC12	polydT_bob-polydt run 260516 native barcode BC12 (figure dataset 33)	OXFORD_NANOPORE	polydT_bob-polydt__260516_BC12.fastq.gz	
+SRR40770690	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC19	5TSO_nextera-tso run 260519 native barcode BC19 (figure dataset 5)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC19.fastq.gz	
+SRR40770691	SRP738601	SAMN63281839	5TSO_smarter-4bp__260410_BC05	5TSO_smarter-4bp run 260410 native barcode BC05 (figure dataset 4)	OXFORD_NANOPORE	5TSO_smarter-4bp__260410_BC05.fastq.gz	
+SRR40770693	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC18	5TSO_nextera-tso run 260519 native barcode BC18 (figure dataset 3)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC18.fastq.gz	
+SRR40770694	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC17	5TSO_nextera-tso run 260519 native barcode BC17 (figure dataset 2)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC17.fastq.gz	
+SRR40770695	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC23	5TSO_nextera-tso run 260519 native barcode BC23 (figure dataset 1)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC23.fastq.gz	
+SRR40770696	SRP738601	SAMN63281836	splint_bob-c-splint__260202_BC08	splint_bob-c-splint run 260202 native barcode BC08 (figure dataset 34)	OXFORD_NANOPORE	splint_bob-c-splint__260202_BC08.fastq.gz	
+SRR40770697	SRP738601	SAMN63281837	splint_bob-a__260119_BC20	splint_bob-a run 260119 native barcode BC20 (figure dataset 33)	OXFORD_NANOPORE	splint_bob-a__260119_BC20.fastq.gz	
+SRR40770698	SRP738601	SAMN63281837	splint_bob-a__260119_BC21	splint_bob-a run 260119 native barcode BC21 (figure dataset 32)	OXFORD_NANOPORE	splint_bob-a__260119_BC21.fastq.gz	
+SRR40770699	SRP738601	SAMN63281836	splint_bob-c-splint__260202_BC07	splint_bob-c-splint run 260202 native barcode BC07 (figure dataset 31)	OXFORD_NANOPORE	splint_bob-c-splint__260202_BC07.fastq.gz	
+SRR40770700	SRP738601	SAMN63281837	splint_bob-a__260119_BC19	splint_bob-a run 260119 native barcode BC19 (figure dataset 30)	OXFORD_NANOPORE	splint_bob-a__260119_BC19.fastq.gz	
+SRR40770701	SRP738601	SAMN63281836	splint_bob-c-splint__260202_BC06	splint_bob-c-splint run 260202 native barcode BC06 (figure dataset 29)	OXFORD_NANOPORE	splint_bob-c-splint__260202_BC06.fastq.gz	
+SRR40770702	SRP738601	SAMN63281836	splint_bob-c-splint__260202_BC05	splint_bob-c-splint run 260202 native barcode BC05 (figure dataset 28)	OXFORD_NANOPORE	splint_bob-c-splint__260202_BC05.fastq.gz	
+SRR40770704	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC22	splint_bob-c-splint run 260410 native barcode BC22 (figure dataset 27)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC22.fastq.gz	
+SRR40770705	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC22	splint_bob-c-splint run 260424 native barcode BC22 (figure dataset 26)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC22.fastq.gz	
+SRR40770706	SRP738601	SAMN63281836	splint_bob-c-splint__260415_BC11	splint_bob-c-splint run 260415 native barcode BC11 (figure dataset 25)	OXFORD_NANOPORE	splint_bob-c-splint__260415_BC11.fastq.gz	
+SRR40770707	SRP738601	SAMN63281836	splint_bob-c-splint__260424_BC23	splint_bob-c-splint run 260424 native barcode BC23 (figure dataset 24)	OXFORD_NANOPORE	splint_bob-c-splint__260424_BC23.fastq.gz	
+SRR40770708	SRP738601	SAMN63281836	splint_bob-c-splint__260408_BC14	splint_bob-c-splint run 260408 native barcode BC14 (figure dataset 23)	OXFORD_NANOPORE	splint_bob-c-splint__260408_BC14.fastq.gz	
+SRR40770709	SRP738601	SAMN63281836	splint_bob-c-splint__260408_BC06	splint_bob-c-splint run 260408 native barcode BC06 (figure dataset 22)	OXFORD_NANOPORE	splint_bob-c-splint__260408_BC06.fastq.gz	
+SRR40770710	SRP738601	SAMN63281836	splint_bob-c-splint__260408_BC10	splint_bob-c-splint run 260408 native barcode BC10 (figure dataset 21)	OXFORD_NANOPORE	splint_bob-c-splint__260408_BC10.fastq.gz	
+SRR40770711	SRP738601	SAMN63281836	splint_bob-c-splint__260410_BC01	splint_bob-c-splint run 260410 native barcode BC01 (figure dataset 20)	OXFORD_NANOPORE	splint_bob-c-splint__260410_BC01.fastq.gz	
+SRR40770712	SRP738601	SAMN63281836	splint_bob-c-splint__260415_BC08	splint_bob-c-splint run 260415 native barcode BC08 (figure dataset 19)	OXFORD_NANOPORE	splint_bob-c-splint__260415_BC08.fastq.gz	
+SRR40770713	SRP738601	SAMN63281836	splint_bob-c-splint__260408_BC13	splint_bob-c-splint run 260408 native barcode BC13 (figure dataset 18)	OXFORD_NANOPORE	splint_bob-c-splint__260408_BC13.fastq.gz	
+SRR40770714	SRP738601	SAMN63281840	3TSO_tso-bob__260616_BC12	3TSO_tso-bob run 260616 native barcode BC12 (figure dataset 72)	OXFORD_NANOPORE	3TSO_tso-bob__260616_BC12.fastq.gz	
+SRR40770715	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC08	3TSO_tso-bob run 260702 native barcode BC08 (figure dataset 71)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC08.fastq.gz	
+SRR40770716	SRP738601	SAMN63281840	3TSO_tso-bob__260605_BC01	3TSO_tso-bob run 260605 native barcode BC01 (figure dataset 70)	OXFORD_NANOPORE	3TSO_tso-bob__260605_BC01.fastq.gz	
+SRR40770717	SRP738601	SAMN63281840	3TSO_tso-bob__260605_BC02	3TSO_tso-bob run 260605 native barcode BC02 (figure dataset 69)	OXFORD_NANOPORE	3TSO_tso-bob__260605_BC02.fastq.gz	
+SRR40770718	SRP738601	SAMN63281840	3TSO_tso-bob__260624_BC14	3TSO_tso-bob run 260624 native barcode BC14 (figure dataset 68)	OXFORD_NANOPORE	3TSO_tso-bob__260624_BC14.fastq.gz	
+SRR40770719	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC04	3TSO_tso-bob run 260611 native barcode BC04 (figure dataset 67)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC04.fastq.gz	
+SRR40770720	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC02	3TSO_tso-bob run 260611 native barcode BC02 (figure dataset 66)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC02.fastq.gz	
+SRR40770721	SRP738601	SAMN63281840	3TSO_tso-bob__260616_BC13	3TSO_tso-bob run 260616 native barcode BC13 (figure dataset 65)	OXFORD_NANOPORE	3TSO_tso-bob__260616_BC13.fastq.gz	
+SRR40770722	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC06	3TSO_tso-bob run 260611 native barcode BC06 (figure dataset 64)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC06.fastq.gz	
+SRR40770725	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC19	3TSO_bob-v1 run 260805 native barcode BC19 (figure dataset 63)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC19.fastq.gz	
+SRR40770726	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC07	3TSO_tso-bob run 260611 native barcode BC07 (figure dataset 62)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC07.fastq.gz	
+SRR40770727	SRP738601	SAMN63281841	3TSO_bob-v1__260805_BC24	3TSO_bob-v1 run 260805 native barcode BC24 (figure dataset 61)	OXFORD_NANOPORE	3TSO_bob-v1__260805_BC24.fastq.gz	
+SRR40770728	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC13	3TSO_bob-v1 run 260714 native barcode BC13 (figure dataset 60)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC13.fastq.gz	
+SRR40770729	SRP738601	SAMN63281840	3TSO_tso-bob__260611_BC01	3TSO_tso-bob run 260611 native barcode BC01 (figure dataset 59)	OXFORD_NANOPORE	3TSO_tso-bob__260611_BC01.fastq.gz	
+SRR40770730	SRP738601	SAMN63281840	3TSO_tso-bob__260624_BC15	3TSO_tso-bob run 260624 native barcode BC15 (figure dataset 58)	OXFORD_NANOPORE	3TSO_tso-bob__260624_BC15.fastq.gz	
+SRR40770731	SRP738601	SAMN63281841	3TSO_bob-v1__260702_BC21	3TSO_bob-v1 run 260702 native barcode BC21 (figure dataset 57)	OXFORD_NANOPORE	3TSO_bob-v1__260702_BC21.fastq.gz	
+SRR40770732	SRP738601	SAMN63281841	3TSO_bob-v1__260709_BC02	3TSO_bob-v1 run 260709 native barcode BC02 (figure dataset 56)	OXFORD_NANOPORE	3TSO_bob-v1__260709_BC02.fastq.gz	
+SRR40770733	SRP738601	SAMN63281841	3TSO_bob-v1__260714_BC15	3TSO_bob-v1 run 260714 native barcode BC15 (figure dataset 55)	OXFORD_NANOPORE	3TSO_bob-v1__260714_BC15.fastq.gz	
+SRR40770734	SRP738601	SAMN63281840	3TSO_tso-bob__260616_BC11	3TSO_tso-bob run 260616 native barcode BC11 (figure dataset 54)	OXFORD_NANOPORE	3TSO_tso-bob__260616_BC11.fastq.gz	
+SRR40770736	SRP738601	SAMN63281841	3TSO_bob-v1__260702_BC20	3TSO_bob-v1 run 260702 native barcode BC20 (figure dataset 53)	OXFORD_NANOPORE	3TSO_bob-v1__260702_BC20.fastq.gz	
+SRR40770737	SRP738601	SAMN63281841	3TSO_bob-v1__260702_BC24	3TSO_bob-v1 run 260702 native barcode BC24 (figure dataset 52)	OXFORD_NANOPORE	3TSO_bob-v1__260702_BC24.fastq.gz	
+SRR40770738	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC09	3TSO_tso-bob run 260702 native barcode BC09 (figure dataset 7)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC09.fastq.gz	
+SRR40770739	SRP738601	SAMN63281840	3TSO_tso-bob__260702_BC07	3TSO_tso-bob run 260702 native barcode BC07 (figure dataset 6)	OXFORD_NANOPORE	3TSO_tso-bob__260702_BC07.fastq.gz	
+SRR40770740	SRP738601	SAMN63281841	3TSO_bob-v1__260731_BC07	3TSO_bob-v1 run 260731 native barcode BC07 (figure dataset 5)	OXFORD_NANOPORE	3TSO_bob-v1__260731_BC07.fastq.gz	
+SRR40770741	SRP738601	SAMN63281840	3TSO_tso-bob__260626_BC04	3TSO_tso-bob run 260626 native barcode BC04 (figure dataset 4)	OXFORD_NANOPORE	3TSO_tso-bob__260626_BC04.fastq.gz	
+SRR40770743	SRP738601	SAMN63281840	3TSO_tso-bob__260624_BC13	3TSO_tso-bob run 260624 native barcode BC13 (figure dataset 3)	OXFORD_NANOPORE	3TSO_tso-bob__260624_BC13.fastq.gz	
+SRR40770744	SRP738601	SAMN63281841	3TSO_bob-v1__260731_BC06	3TSO_bob-v1 run 260731 native barcode BC06 (figure dataset 2)	OXFORD_NANOPORE	3TSO_bob-v1__260731_BC06.fastq.gz	
+SRR40770745	SRP738601	SAMN63281840	3TSO_tso-bob__260626_BC05	3TSO_tso-bob run 260626 native barcode BC05 (figure dataset 1)	OXFORD_NANOPORE	3TSO_tso-bob__260626_BC05.fastq.gz	
+SRR40770746	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC05	5TSO_nextera-tso run 260522 native barcode BC05 (figure dataset 20)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC05.fastq.gz	
+SRR40770747	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC06	5TSO_nextera-tso run 260522 native barcode BC06 (figure dataset 19)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC06.fastq.gz	
+SRR40770748	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC04	5TSO_nextera-tso run 260522 native barcode BC04 (figure dataset 18)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC04.fastq.gz	
+SRR40770749	SRP738601	SAMN63281838	5TSO_nextera-tso__260605_BC14	5TSO_nextera-tso run 260605 native barcode BC14 (figure dataset 17)	OXFORD_NANOPORE	5TSO_nextera-tso__260605_BC14.fastq.gz	
+SRR40770750	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC03	5TSO_nextera-tso run 260522 native barcode BC03 (figure dataset 16)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC03.fastq.gz	
+SRR40770751	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC02	5TSO_nextera-tso run 260522 native barcode BC02 (figure dataset 15)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC02.fastq.gz	
+SRR40770752	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC01	5TSO_nextera-tso run 260522 native barcode BC01 (figure dataset 14)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC01.fastq.gz	
+SRR40770754	SRP738601	SAMN63281838	5TSO_nextera-tso__260605_BC12	5TSO_nextera-tso run 260605 native barcode BC12 (figure dataset 13)	OXFORD_NANOPORE	5TSO_nextera-tso__260605_BC12.fastq.gz	
+SRR40770755	SRP738601	SAMN63281838	5TSO_nextera-tso__260605_BC07	5TSO_nextera-tso run 260605 native barcode BC07 (figure dataset 12)	OXFORD_NANOPORE	5TSO_nextera-tso__260605_BC07.fastq.gz	
+SRR40770756	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC07	5TSO_nextera-tso run 260522 native barcode BC07 (figure dataset 11)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC07.fastq.gz	
+SRR40770757	SRP738601	SAMN63281838	5TSO_nextera-tso__260605_BC11	5TSO_nextera-tso run 260605 native barcode BC11 (figure dataset 10)	OXFORD_NANOPORE	5TSO_nextera-tso__260605_BC11.fastq.gz	
+SRR40770758	SRP738601	SAMN63281838	5TSO_nextera-tso__260522_BC08	5TSO_nextera-tso run 260522 native barcode BC08 (figure dataset 9)	OXFORD_NANOPORE	5TSO_nextera-tso__260522_BC08.fastq.gz	
+SRR40770759	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC22	5TSO_nextera-tso run 260519 native barcode BC22 (figure dataset 8)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC22.fastq.gz	
+SRR40770760	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC21	5TSO_nextera-tso run 260519 native barcode BC21 (figure dataset 7)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC21.fastq.gz	
+SRR40770761	SRP738601	SAMN63281838	5TSO_nextera-tso__260519_BC20	5TSO_nextera-tso run 260519 native barcode BC20 (figure dataset 6)	OXFORD_NANOPORE	5TSO_nextera-tso__260519_BC20.fastq.gz	

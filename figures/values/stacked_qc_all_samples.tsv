@@ -1,0 +1,753 @@
+metric	column	sample_index_in_column	value
+reads into STAR (log)	DRUG-seq	1	839908
+reads into STAR (log)	DRUG-seq	2	1.01827e+06
+reads into STAR (log)	DRUG-seq	3	273602
+reads into STAR (log)	DRUG-seq	4	890165
+reads into STAR (log)	DRUG-seq	5	842859
+reads into STAR (log)	DRUG-seq	6	393165
+reads into STAR (log)	DRUG-seq	7	793407
+reads into STAR (log)	DRUG-seq	8	754415
+reads into STAR (log)	DRUG-seq	9	514870
+reads into STAR (log)	DRUG-seq	10	906849
+reads into STAR (log)	DRUG-seq	11	813478
+reads into STAR (log)	DRUG-seq	12	435307
+reads into STAR (log)	DRUG-seq	13	867421
+reads into STAR (log)	DRUG-seq	14	979686
+reads into STAR (log)	DRUG-seq	15	551828
+reads into STAR (log)	DRUG-seq	16	773376
+reads into STAR (log)	DRUG-seq	17	804740
+reads into STAR (log)	DRUG-seq	18	538163
+reads into STAR (log)	DRUG-seq	19	926362
+reads into STAR (log)	DRUG-seq	20	1.01002e+06
+reads into STAR (log)	DRUG-seq	21	576148
+reads into STAR (log)	DRUG-seq	22	990554
+reads into STAR (log)	DRUG-seq	23	937228
+reads into STAR (log)	DRUG-seq	24	577747
+reads into STAR (log)	prime-seq	1	1.00227e+06
+reads into STAR (log)	prime-seq	2	1.66045e+06
+reads into STAR (log)	prime-seq	3	1.59705e+06
+reads into STAR (log)	prime-seq	4	1.30659e+06
+reads into STAR (log)	prime-seq	5	1.60816e+06
+reads into STAR (log)	prime-seq	6	2.28221e+06
+reads into STAR (log)	prime-seq	7	1.22719e+06
+reads into STAR (log)	prime-seq	8	1.84917e+06
+reads into STAR (log)	Hek control	1	7.29165e+06
+reads into STAR (log)	Hek control	2	9.73032e+06
+reads into STAR (log)	Hek control	3	1.0141e+07
+reads into STAR (log)	CADM1 1nM	1	8.7578e+06
+reads into STAR (log)	CADM1 1nM	2	8.14325e+06
+reads into STAR (log)	CADM1 1nM	3	7.51964e+06
+reads into STAR (log)	CADM1 100nM	1	8.04504e+06
+reads into STAR (log)	CADM1 100nM	2	7.55643e+06
+reads into STAR (log)	CADM1 100nM	3	8.04539e+06
+reads into STAR (log)	CHX dose 1ug mL	1	5.98719e+06
+reads into STAR (log)	CHX dose 1ug mL	2	6.89791e+06
+reads into STAR (log)	CHX dose 1ug mL	3	5.75253e+06
+reads into STAR (log)	CHX dose 50ug mL	1	6.04336e+06
+reads into STAR (log)	CHX dose 50ug mL	2	6.53719e+06
+reads into STAR (log)	CHX dose 50ug mL	3	6.70346e+06
+reads into STAR (log)	Ris dose 25mM	1	8.25847e+06
+reads into STAR (log)	Ris dose 25mM	2	7.46725e+06
+reads into STAR (log)	Ris dose 25mM	3	9.24298e+06
+reads into STAR (log)	Ris dose 500mM	1	1.24353e+06
+reads into STAR (log)	Ris dose 500mM	2	1.6887e+06
+reads into STAR (log)	Ris dose 500mM	3	1.15671e+06
+reads into STAR (log)	RAW 264.7	1	6.62963e+06
+reads into STAR (log)	RAW 264.7	2	9.08413e+06
+reads into STAR (log)	RAW 264.7	3	9.3153e+06
+mapping rate (% of reads)	DRUG-seq	1	90.0351
+mapping rate (% of reads)	DRUG-seq	2	89.7589
+mapping rate (% of reads)	DRUG-seq	3	89.7157
+mapping rate (% of reads)	DRUG-seq	4	90.6123
+mapping rate (% of reads)	DRUG-seq	5	89.803
+mapping rate (% of reads)	DRUG-seq	6	89.8819
+mapping rate (% of reads)	DRUG-seq	7	90.4357
+mapping rate (% of reads)	DRUG-seq	8	90.0909
+mapping rate (% of reads)	DRUG-seq	9	89.9631
+mapping rate (% of reads)	DRUG-seq	10	90.5581
+mapping rate (% of reads)	DRUG-seq	11	90.1295
+mapping rate (% of reads)	DRUG-seq	12	90.3186
+mapping rate (% of reads)	DRUG-seq	13	90.4527
+mapping rate (% of reads)	DRUG-seq	14	90.3745
+mapping rate (% of reads)	DRUG-seq	15	90.3936
+mapping rate (% of reads)	DRUG-seq	16	90.3535
+mapping rate (% of reads)	DRUG-seq	17	89.1215
+mapping rate (% of reads)	DRUG-seq	18	90.2221
+mapping rate (% of reads)	DRUG-seq	19	89.9939
+mapping rate (% of reads)	DRUG-seq	20	90.4469
+mapping rate (% of reads)	DRUG-seq	21	90.1293
+mapping rate (% of reads)	DRUG-seq	22	90.0123
+mapping rate (% of reads)	DRUG-seq	23	90.5208
+mapping rate (% of reads)	DRUG-seq	24	89.8636
+mapping rate (% of reads)	prime-seq	1	90.152
+mapping rate (% of reads)	prime-seq	2	90.2451
+mapping rate (% of reads)	prime-seq	3	91.6391
+mapping rate (% of reads)	prime-seq	4	90.4535
+mapping rate (% of reads)	prime-seq	5	89.4355
+mapping rate (% of reads)	prime-seq	6	90.038
+mapping rate (% of reads)	prime-seq	7	89.4199
+mapping rate (% of reads)	prime-seq	8	90.4225
+mapping rate (% of reads)	Hek control	1	94.2901
+mapping rate (% of reads)	Hek control	2	93.9342
+mapping rate (% of reads)	Hek control	3	92.5919
+mapping rate (% of reads)	CADM1 1nM	1	93.3763
+mapping rate (% of reads)	CADM1 1nM	2	93.7149
+mapping rate (% of reads)	CADM1 1nM	3	93.4897
+mapping rate (% of reads)	CADM1 100nM	1	93.5776
+mapping rate (% of reads)	CADM1 100nM	2	94.1006
+mapping rate (% of reads)	CADM1 100nM	3	94.1975
+mapping rate (% of reads)	CHX dose 1ug mL	1	92.8536
+mapping rate (% of reads)	CHX dose 1ug mL	2	92.5101
+mapping rate (% of reads)	CHX dose 1ug mL	3	93.3432
+mapping rate (% of reads)	CHX dose 50ug mL	1	91.754
+mapping rate (% of reads)	CHX dose 50ug mL	2	92.433
+mapping rate (% of reads)	CHX dose 50ug mL	3	92.6131
+mapping rate (% of reads)	Ris dose 25mM	1	93.457
+mapping rate (% of reads)	Ris dose 25mM	2	92.1537
+mapping rate (% of reads)	Ris dose 25mM	3	93.1357
+mapping rate (% of reads)	Ris dose 500mM	1	90.9775
+mapping rate (% of reads)	Ris dose 500mM	2	90.401
+mapping rate (% of reads)	Ris dose 500mM	3	89.8441
+mapping rate (% of reads)	RAW 264.7	1	94.6596
+mapping rate (% of reads)	RAW 264.7	2	95.1787
+mapping rate (% of reads)	RAW 264.7	3	95.852
+uniquely mapped (% of reads)	DRUG-seq	1	70.1805
+uniquely mapped (% of reads)	DRUG-seq	2	69.4054
+uniquely mapped (% of reads)	DRUG-seq	3	70.4366
+uniquely mapped (% of reads)	DRUG-seq	4	70.3612
+uniquely mapped (% of reads)	DRUG-seq	5	69.6432
+uniquely mapped (% of reads)	DRUG-seq	6	70.2092
+uniquely mapped (% of reads)	DRUG-seq	7	70.4583
+uniquely mapped (% of reads)	DRUG-seq	8	69.6515
+uniquely mapped (% of reads)	DRUG-seq	9	70.3785
+uniquely mapped (% of reads)	DRUG-seq	10	70.3452
+uniquely mapped (% of reads)	DRUG-seq	11	70.0513
+uniquely mapped (% of reads)	DRUG-seq	12	70.8608
+uniquely mapped (% of reads)	DRUG-seq	13	70.4426
+uniquely mapped (% of reads)	DRUG-seq	14	70.167
+uniquely mapped (% of reads)	DRUG-seq	15	71.4413
+uniquely mapped (% of reads)	DRUG-seq	16	70.6122
+uniquely mapped (% of reads)	DRUG-seq	17	69.2062
+uniquely mapped (% of reads)	DRUG-seq	18	70.6117
+uniquely mapped (% of reads)	DRUG-seq	19	70.4858
+uniquely mapped (% of reads)	DRUG-seq	20	70.4791
+uniquely mapped (% of reads)	DRUG-seq	21	70.954
+uniquely mapped (% of reads)	DRUG-seq	22	70.4714
+uniquely mapped (% of reads)	DRUG-seq	23	70.4774
+uniquely mapped (% of reads)	DRUG-seq	24	70.4949
+uniquely mapped (% of reads)	prime-seq	1	67.219
+uniquely mapped (% of reads)	prime-seq	2	67.9181
+uniquely mapped (% of reads)	prime-seq	3	70.3784
+uniquely mapped (% of reads)	prime-seq	4	67.7053
+uniquely mapped (% of reads)	prime-seq	5	66.8023
+uniquely mapped (% of reads)	prime-seq	6	66.5412
+uniquely mapped (% of reads)	prime-seq	7	69.1179
+uniquely mapped (% of reads)	prime-seq	8	67.7499
+uniquely mapped (% of reads)	Hek control	1	70.4126
+uniquely mapped (% of reads)	Hek control	2	74.5556
+uniquely mapped (% of reads)	Hek control	3	70.5751
+uniquely mapped (% of reads)	CADM1 1nM	1	76.2394
+uniquely mapped (% of reads)	CADM1 1nM	2	77.5045
+uniquely mapped (% of reads)	CADM1 1nM	3	74.6833
+uniquely mapped (% of reads)	CADM1 100nM	1	79.4402
+uniquely mapped (% of reads)	CADM1 100nM	2	78.7434
+uniquely mapped (% of reads)	CADM1 100nM	3	77.2961
+uniquely mapped (% of reads)	CHX dose 1ug mL	1	64.8742
+uniquely mapped (% of reads)	CHX dose 1ug mL	2	75.0073
+uniquely mapped (% of reads)	CHX dose 1ug mL	3	74.8701
+uniquely mapped (% of reads)	CHX dose 50ug mL	1	68.2089
+uniquely mapped (% of reads)	CHX dose 50ug mL	2	69.7496
+uniquely mapped (% of reads)	CHX dose 50ug mL	3	71.6813
+uniquely mapped (% of reads)	Ris dose 25mM	1	72.9781
+uniquely mapped (% of reads)	Ris dose 25mM	2	58.8743
+uniquely mapped (% of reads)	Ris dose 25mM	3	70.3401
+uniquely mapped (% of reads)	Ris dose 500mM	1	43.6031
+uniquely mapped (% of reads)	Ris dose 500mM	2	46.0331
+uniquely mapped (% of reads)	Ris dose 500mM	3	39.7263
+uniquely mapped (% of reads)	RAW 264.7	1	72.2662
+uniquely mapped (% of reads)	RAW 264.7	2	73.6638
+uniquely mapped (% of reads)	RAW 264.7	3	82.2213
+filtered reads (% of reads)	DRUG-seq	1	55.105
+filtered reads (% of reads)	DRUG-seq	2	54.7711
+filtered reads (% of reads)	DRUG-seq	3	55.1542
+filtered reads (% of reads)	DRUG-seq	4	55.9587
+filtered reads (% of reads)	DRUG-seq	5	54.9822
+filtered reads (% of reads)	DRUG-seq	6	55.3912
+filtered reads (% of reads)	DRUG-seq	7	55.2744
+filtered reads (% of reads)	DRUG-seq	8	54.2276
+filtered reads (% of reads)	DRUG-seq	9	55.1786
+filtered reads (% of reads)	DRUG-seq	10	55.8246
+filtered reads (% of reads)	DRUG-seq	11	55.3277
+filtered reads (% of reads)	DRUG-seq	12	55.0494
+filtered reads (% of reads)	DRUG-seq	13	55.9291
+filtered reads (% of reads)	DRUG-seq	14	55.6447
+filtered reads (% of reads)	DRUG-seq	15	55.7358
+filtered reads (% of reads)	DRUG-seq	16	56.0176
+filtered reads (% of reads)	DRUG-seq	17	54.811
+filtered reads (% of reads)	DRUG-seq	18	55.3514
+filtered reads (% of reads)	DRUG-seq	19	55.7499
+filtered reads (% of reads)	DRUG-seq	20	55.2656
+filtered reads (% of reads)	DRUG-seq	21	55.357
+filtered reads (% of reads)	DRUG-seq	22	55.82
+filtered reads (% of reads)	DRUG-seq	23	55.3672
+filtered reads (% of reads)	DRUG-seq	24	55.5632
+filtered reads (% of reads)	prime-seq	1	37.0352
+filtered reads (% of reads)	prime-seq	2	33.8475
+filtered reads (% of reads)	prime-seq	3	38.3428
+filtered reads (% of reads)	prime-seq	4	35.7916
+filtered reads (% of reads)	prime-seq	5	33.8712
+filtered reads (% of reads)	prime-seq	6	35.3295
+filtered reads (% of reads)	prime-seq	7	39.9882
+filtered reads (% of reads)	prime-seq	8	34.8449
+filtered reads (% of reads)	Hek control	1	58.3732
+filtered reads (% of reads)	Hek control	2	62.0698
+filtered reads (% of reads)	Hek control	3	58.945
+filtered reads (% of reads)	CADM1 1nM	1	60.9691
+filtered reads (% of reads)	CADM1 1nM	2	61.8324
+filtered reads (% of reads)	CADM1 1nM	3	59.7228
+filtered reads (% of reads)	CADM1 100nM	1	63.4913
+filtered reads (% of reads)	CADM1 100nM	2	63.9089
+filtered reads (% of reads)	CADM1 100nM	3	62.7919
+filtered reads (% of reads)	CHX dose 1ug mL	1	52.2441
+filtered reads (% of reads)	CHX dose 1ug mL	2	60.3659
+filtered reads (% of reads)	CHX dose 1ug mL	3	60.0078
+filtered reads (% of reads)	CHX dose 50ug mL	1	52.2497
+filtered reads (% of reads)	CHX dose 50ug mL	2	53.498
+filtered reads (% of reads)	CHX dose 50ug mL	3	57.299
+filtered reads (% of reads)	Ris dose 25mM	1	59.3391
+filtered reads (% of reads)	Ris dose 25mM	2	47.2388
+filtered reads (% of reads)	Ris dose 25mM	3	56.6316
+filtered reads (% of reads)	Ris dose 500mM	1	27.7286
+filtered reads (% of reads)	Ris dose 500mM	2	26.7875
+filtered reads (% of reads)	Ris dose 500mM	3	22.5738
+filtered reads (% of reads)	RAW 264.7	1	60.7136
+filtered reads (% of reads)	RAW 264.7	2	62.1874
+filtered reads (% of reads)	RAW 264.7	3	71.3345
+filtered reads after de-duplication (UMI, log)	DRUG-seq	1	178921
+filtered reads after de-duplication (UMI, log)	DRUG-seq	2	208743
+filtered reads after de-duplication (UMI, log)	DRUG-seq	3	61335
+filtered reads after de-duplication (UMI, log)	DRUG-seq	4	181826
+filtered reads after de-duplication (UMI, log)	DRUG-seq	5	171718
+filtered reads after de-duplication (UMI, log)	DRUG-seq	6	86414
+filtered reads after de-duplication (UMI, log)	DRUG-seq	7	163024
+filtered reads after de-duplication (UMI, log)	DRUG-seq	8	155419
+filtered reads after de-duplication (UMI, log)	DRUG-seq	9	116454
+filtered reads after de-duplication (UMI, log)	DRUG-seq	10	187421
+filtered reads after de-duplication (UMI, log)	DRUG-seq	11	170730
+filtered reads after de-duplication (UMI, log)	DRUG-seq	12	94623
+filtered reads after de-duplication (UMI, log)	DRUG-seq	13	182544
+filtered reads after de-duplication (UMI, log)	DRUG-seq	14	199853
+filtered reads after de-duplication (UMI, log)	DRUG-seq	15	125671
+filtered reads after de-duplication (UMI, log)	DRUG-seq	16	160532
+filtered reads after de-duplication (UMI, log)	DRUG-seq	17	168745
+filtered reads after de-duplication (UMI, log)	DRUG-seq	18	113792
+filtered reads after de-duplication (UMI, log)	DRUG-seq	19	193245
+filtered reads after de-duplication (UMI, log)	DRUG-seq	20	198688
+filtered reads after de-duplication (UMI, log)	DRUG-seq	21	123766
+filtered reads after de-duplication (UMI, log)	DRUG-seq	22	212349
+filtered reads after de-duplication (UMI, log)	DRUG-seq	23	200581
+filtered reads after de-duplication (UMI, log)	DRUG-seq	24	128888
+filtered reads after de-duplication (UMI, log)	prime-seq	1	325220
+filtered reads after de-duplication (UMI, log)	prime-seq	2	490168
+filtered reads after de-duplication (UMI, log)	prime-seq	3	521204
+filtered reads after de-duplication (UMI, log)	prime-seq	4	412908
+filtered reads after de-duplication (UMI, log)	prime-seq	5	481617
+filtered reads after de-duplication (UMI, log)	prime-seq	6	705385
+filtered reads after de-duplication (UMI, log)	prime-seq	7	458223
+filtered reads after de-duplication (UMI, log)	prime-seq	8	568316
+filtered reads after de-duplication (UMI, log)	Hek control	1	1.18016e+06
+filtered reads after de-duplication (UMI, log)	Hek control	2	1.6199e+06
+filtered reads after de-duplication (UMI, log)	Hek control	3	1.65672e+06
+filtered reads after de-duplication (UMI, log)	CADM1 1nM	1	1.5498e+06
+filtered reads after de-duplication (UMI, log)	CADM1 1nM	2	1.45263e+06
+filtered reads after de-duplication (UMI, log)	CADM1 1nM	3	1.2962e+06
+filtered reads after de-duplication (UMI, log)	CADM1 100nM	1	1.45587e+06
+filtered reads after de-duplication (UMI, log)	CADM1 100nM	2	1.3798e+06
+filtered reads after de-duplication (UMI, log)	CADM1 100nM	3	1.43746e+06
+filtered reads after de-duplication (UMI, log)	CHX dose 1ug mL	1	923037
+filtered reads after de-duplication (UMI, log)	CHX dose 1ug mL	2	1.22929e+06
+filtered reads after de-duplication (UMI, log)	CHX dose 1ug mL	3	1.01617e+06
+filtered reads after de-duplication (UMI, log)	CHX dose 50ug mL	1	945194
+filtered reads after de-duplication (UMI, log)	CHX dose 50ug mL	2	1.04014e+06
+filtered reads after de-duplication (UMI, log)	CHX dose 50ug mL	3	1.13947e+06
+filtered reads after de-duplication (UMI, log)	Ris dose 25mM	1	1.36637e+06
+filtered reads after de-duplication (UMI, log)	Ris dose 25mM	2	998420
+filtered reads after de-duplication (UMI, log)	Ris dose 25mM	3	1.48212e+06
+filtered reads after de-duplication (UMI, log)	Ris dose 500mM	1	109514
+filtered reads after de-duplication (UMI, log)	Ris dose 500mM	2	140104
+filtered reads after de-duplication (UMI, log)	Ris dose 500mM	3	81476
+filtered reads after de-duplication (UMI, log)	RAW 264.7	1	1.17638e+06
+filtered reads after de-duplication (UMI, log)	RAW 264.7	2	1.63848e+06
+filtered reads after de-duplication (UMI, log)	RAW 264.7	3	1.71834e+06
+duplicate rate (%) at 250k filtered reads	DRUG-seq	1	47.27
+duplicate rate (%) at 250k filtered reads	DRUG-seq	2	44.38
+duplicate rate (%) at 250k filtered reads	DRUG-seq	3	
+duplicate rate (%) at 250k filtered reads	DRUG-seq	4	47.9
+duplicate rate (%) at 250k filtered reads	DRUG-seq	5	48.8
+duplicate rate (%) at 250k filtered reads	DRUG-seq	6	
+duplicate rate (%) at 250k filtered reads	DRUG-seq	7	50.12
+duplicate rate (%) at 250k filtered reads	DRUG-seq	8	50.86
+duplicate rate (%) at 250k filtered reads	DRUG-seq	9	56.14
+duplicate rate (%) at 250k filtered reads	DRUG-seq	10	47.04
+duplicate rate (%) at 250k filtered reads	DRUG-seq	11	48.74
+duplicate rate (%) at 250k filtered reads	DRUG-seq	12	
+duplicate rate (%) at 250k filtered reads	DRUG-seq	13	47.37
+duplicate rate (%) at 250k filtered reads	DRUG-seq	14	45.74
+duplicate rate (%) at 250k filtered reads	DRUG-seq	15	54.43
+duplicate rate (%) at 250k filtered reads	DRUG-seq	16	50.61
+duplicate rate (%) at 250k filtered reads	DRUG-seq	17	48.89
+duplicate rate (%) at 250k filtered reads	DRUG-seq	18	57.92
+duplicate rate (%) at 250k filtered reads	DRUG-seq	19	46.12
+duplicate rate (%) at 250k filtered reads	DRUG-seq	20	46.3
+duplicate rate (%) at 250k filtered reads	DRUG-seq	21	55.7
+duplicate rate (%) at 250k filtered reads	DRUG-seq	22	43.26
+duplicate rate (%) at 250k filtered reads	DRUG-seq	23	44.7
+duplicate rate (%) at 250k filtered reads	DRUG-seq	24	54.16
+duplicate rate (%) at 250k filtered reads	prime-seq	1	8.84
+duplicate rate (%) at 250k filtered reads	prime-seq	2	6.5
+duplicate rate (%) at 250k filtered reads	prime-seq	3	6.98
+duplicate rate (%) at 250k filtered reads	prime-seq	4	6.75
+duplicate rate (%) at 250k filtered reads	prime-seq	5	5.89
+duplicate rate (%) at 250k filtered reads	prime-seq	6	4.47
+duplicate rate (%) at 250k filtered reads	prime-seq	7	3.62
+duplicate rate (%) at 250k filtered reads	prime-seq	8	5.19
+duplicate rate (%) at 250k filtered reads	Hek control	1	13.8124
+duplicate rate (%) at 250k filtered reads	Hek control	2	12.7872
+duplicate rate (%) at 250k filtered reads	Hek control	3	11.5428
+duplicate rate (%) at 250k filtered reads	CADM1 1nM	1	8.874
+duplicate rate (%) at 250k filtered reads	CADM1 1nM	2	9.6308
+duplicate rate (%) at 250k filtered reads	CADM1 1nM	3	10.402
+duplicate rate (%) at 250k filtered reads	CADM1 100nM	1	9.982
+duplicate rate (%) at 250k filtered reads	CADM1 100nM	2	10.3124
+duplicate rate (%) at 250k filtered reads	CADM1 100nM	3	10.002
+duplicate rate (%) at 250k filtered reads	CHX dose 1ug mL	1	14.0432
+duplicate rate (%) at 250k filtered reads	CHX dose 1ug mL	2	10.894
+duplicate rate (%) at 250k filtered reads	CHX dose 1ug mL	3	13.0324
+duplicate rate (%) at 250k filtered reads	CHX dose 50ug mL	1	13.5936
+duplicate rate (%) at 250k filtered reads	CHX dose 50ug mL	2	12.8552
+duplicate rate (%) at 250k filtered reads	CHX dose 50ug mL	3	11.4816
+duplicate rate (%) at 250k filtered reads	Ris dose 25mM	1	13.1732
+duplicate rate (%) at 250k filtered reads	Ris dose 25mM	2	15.5948
+duplicate rate (%) at 250k filtered reads	Ris dose 25mM	3	11.4096
+duplicate rate (%) at 250k filtered reads	Ris dose 500mM	1	60.5896
+duplicate rate (%) at 250k filtered reads	Ris dose 500mM	2	54.2504
+duplicate rate (%) at 250k filtered reads	Ris dose 500mM	3	67.798
+duplicate rate (%) at 250k filtered reads	RAW 264.7	1	11.1872
+duplicate rate (%) at 250k filtered reads	RAW 264.7	2	8.4148
+duplicate rate (%) at 250k filtered reads	RAW 264.7	3	12.358
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	1	7199
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	2	7274
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	3	
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	4	7126
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	5	7124
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	6	
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	7	7131
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	8	6969
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	9	6847
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	10	7157
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	11	7077
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	12	
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	13	7133
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	14	7264
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	15	6992
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	16	7189
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	17	7023
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	18	6915
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	19	7241
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	20	7258
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	21	7107
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	22	7401
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	23	7374
+genes at 250k filtered reads (no ribosomal-protein genes)	DRUG-seq	24	7118
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	1	10923
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	2	11090
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	3	11019
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	4	11008
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	5	11090
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	6	11057
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	7	11092
+genes at 250k filtered reads (no ribosomal-protein genes)	prime-seq	8	11078
+genes at 250k filtered reads (no ribosomal-protein genes)	Hek control	1	10468
+genes at 250k filtered reads (no ribosomal-protein genes)	Hek control	2	10483
+genes at 250k filtered reads (no ribosomal-protein genes)	Hek control	3	10448
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 1nM	1	10688
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 1nM	2	10690
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 1nM	3	10622
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 100nM	1	10680
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 100nM	2	10677
+genes at 250k filtered reads (no ribosomal-protein genes)	CADM1 100nM	3	10674
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 1ug mL	1	10695
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 1ug mL	2	10731
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 1ug mL	3	10640
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 50ug mL	1	10765
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 50ug mL	2	10888
+genes at 250k filtered reads (no ribosomal-protein genes)	CHX dose 50ug mL	3	10624
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 25mM	1	10481
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 25mM	2	10342
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 25mM	3	10590
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 500mM	1	9203
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 500mM	2	9665
+genes at 250k filtered reads (no ribosomal-protein genes)	Ris dose 500mM	3	8701
+genes at 250k filtered reads (no ribosomal-protein genes)	RAW 264.7	1	9105
+genes at 250k filtered reads (no ribosomal-protein genes)	RAW 264.7	2	9213
+genes at 250k filtered reads (no ribosomal-protein genes)	RAW 264.7	3	9041
+rRNA content (% of mapped)	DRUG-seq	1	0.293332
+rRNA content (% of mapped)	DRUG-seq	2	0.281206
+rRNA content (% of mapped)	DRUG-seq	3	0.325103
+rRNA content (% of mapped)	DRUG-seq	4	0.278545
+rRNA content (% of mapped)	DRUG-seq	5	0.259089
+rRNA content (% of mapped)	DRUG-seq	6	0.304277
+rRNA content (% of mapped)	DRUG-seq	7	0.27672
+rRNA content (% of mapped)	DRUG-seq	8	0.308966
+rRNA content (% of mapped)	DRUG-seq	9	0.299289
+rRNA content (% of mapped)	DRUG-seq	10	0.291563
+rRNA content (% of mapped)	DRUG-seq	11	0.304191
+rRNA content (% of mapped)	DRUG-seq	12	0.332558
+rRNA content (% of mapped)	DRUG-seq	13	0.266489
+rRNA content (% of mapped)	DRUG-seq	14	0.298249
+rRNA content (% of mapped)	DRUG-seq	15	0.291643
+rRNA content (% of mapped)	DRUG-seq	16	0.257922
+rRNA content (% of mapped)	DRUG-seq	17	0.259728
+rRNA content (% of mapped)	DRUG-seq	18	0.259742
+rRNA content (% of mapped)	DRUG-seq	19	0.277063
+rRNA content (% of mapped)	DRUG-seq	20	0.279892
+rRNA content (% of mapped)	DRUG-seq	21	0.277142
+rRNA content (% of mapped)	DRUG-seq	22	0.27424
+rRNA content (% of mapped)	DRUG-seq	23	0.243974
+rRNA content (% of mapped)	DRUG-seq	24	0.260228
+rRNA content (% of mapped)	prime-seq	1	2.09169
+rRNA content (% of mapped)	prime-seq	2	2.41951
+rRNA content (% of mapped)	prime-seq	3	1.76998
+rRNA content (% of mapped)	prime-seq	4	1.97711
+rRNA content (% of mapped)	prime-seq	5	2.26246
+rRNA content (% of mapped)	prime-seq	6	2.39931
+rRNA content (% of mapped)	prime-seq	7	1.10145
+rRNA content (% of mapped)	prime-seq	8	2.42885
+rRNA content (% of mapped)	Hek control	1	20.28
+rRNA content (% of mapped)	Hek control	2	16.01
+rRNA content (% of mapped)	Hek control	3	18.74
+rRNA content (% of mapped)	CADM1 1nM	1	13.42
+rRNA content (% of mapped)	CADM1 1nM	2	12.4
+rRNA content (% of mapped)	CADM1 1nM	3	15
+rRNA content (% of mapped)	CADM1 100nM	1	10.38
+rRNA content (% of mapped)	CADM1 100nM	2	11.63
+rRNA content (% of mapped)	CADM1 100nM	3	13.23
+rRNA content (% of mapped)	CHX dose 1ug mL	1	25.05
+rRNA content (% of mapped)	CHX dose 1ug mL	2	14.16
+rRNA content (% of mapped)	CHX dose 1ug mL	3	14.83
+rRNA content (% of mapped)	CHX dose 50ug mL	1	20.32
+rRNA content (% of mapped)	CHX dose 50ug mL	2	19.45
+rRNA content (% of mapped)	CHX dose 50ug mL	3	17.54
+rRNA content (% of mapped)	Ris dose 25mM	1	16.77
+rRNA content (% of mapped)	Ris dose 25mM	2	30.91
+rRNA content (% of mapped)	Ris dose 25mM	3	19.31
+rRNA content (% of mapped)	Ris dose 500mM	1	46.25
+rRNA content (% of mapped)	Ris dose 500mM	2	43.64
+rRNA content (% of mapped)	Ris dose 500mM	3	50.76
+rRNA content (% of mapped)	RAW 264.7	1	21.44
+rRNA content (% of mapped)	RAW 264.7	2	20.64
+rRNA content (% of mapped)	RAW 264.7	3	10.07
+mRNA fraction (% of mapped)	DRUG-seq	1	51.7281
+mRNA fraction (% of mapped)	DRUG-seq	2	50.9719
+mRNA fraction (% of mapped)	DRUG-seq	3	54.4573
+mRNA fraction (% of mapped)	DRUG-seq	4	51.1433
+mRNA fraction (% of mapped)	DRUG-seq	5	51.3637
+mRNA fraction (% of mapped)	DRUG-seq	6	54.5699
+mRNA fraction (% of mapped)	DRUG-seq	7	52.2755
+mRNA fraction (% of mapped)	DRUG-seq	8	51.7597
+mRNA fraction (% of mapped)	DRUG-seq	9	55.0369
+mRNA fraction (% of mapped)	DRUG-seq	10	51.7928
+mRNA fraction (% of mapped)	DRUG-seq	11	52.5277
+mRNA fraction (% of mapped)	DRUG-seq	12	55.3387
+mRNA fraction (% of mapped)	DRUG-seq	13	51.6203
+mRNA fraction (% of mapped)	DRUG-seq	14	51.3122
+mRNA fraction (% of mapped)	DRUG-seq	15	54.9992
+mRNA fraction (% of mapped)	DRUG-seq	16	52.2713
+mRNA fraction (% of mapped)	DRUG-seq	17	51.3924
+mRNA fraction (% of mapped)	DRUG-seq	18	54.3337
+mRNA fraction (% of mapped)	DRUG-seq	19	52.228
+mRNA fraction (% of mapped)	DRUG-seq	20	50.515
+mRNA fraction (% of mapped)	DRUG-seq	21	53.827
+mRNA fraction (% of mapped)	DRUG-seq	22	52.3756
+mRNA fraction (% of mapped)	DRUG-seq	23	52.5736
+mRNA fraction (% of mapped)	DRUG-seq	24	53.2328
+mRNA fraction (% of mapped)	prime-seq	1	42.718
+mRNA fraction (% of mapped)	prime-seq	2	39.4681
+mRNA fraction (% of mapped)	prime-seq	3	43.9903
+mRNA fraction (% of mapped)	prime-seq	4	41.5132
+mRNA fraction (% of mapped)	prime-seq	5	39.2758
+mRNA fraction (% of mapped)	prime-seq	6	40.083
+mRNA fraction (% of mapped)	prime-seq	7	46.5846
+mRNA fraction (% of mapped)	prime-seq	8	40.2247
+mRNA fraction (% of mapped)	Hek control	1	60.7
+mRNA fraction (% of mapped)	Hek control	2	64.19
+mRNA fraction (% of mapped)	Hek control	3	61.84
+mRNA fraction (% of mapped)	CADM1 1nM	1	63.76
+mRNA fraction (% of mapped)	CADM1 1nM	2	64.23
+mRNA fraction (% of mapped)	CADM1 1nM	3	62.71
+mRNA fraction (% of mapped)	CADM1 100nM	1	66.22
+mRNA fraction (% of mapped)	CADM1 100nM	2	66.16
+mRNA fraction (% of mapped)	CADM1 100nM	3	64.97
+mRNA fraction (% of mapped)	CHX dose 1ug mL	1	57.64
+mRNA fraction (% of mapped)	CHX dose 1ug mL	2	65.23
+mRNA fraction (% of mapped)	CHX dose 1ug mL	3	64.84
+mRNA fraction (% of mapped)	CHX dose 50ug mL	1	58.87
+mRNA fraction (% of mapped)	CHX dose 50ug mL	2	60.15
+mRNA fraction (% of mapped)	CHX dose 50ug mL	3	63.45
+mRNA fraction (% of mapped)	Ris dose 25mM	1	62.48
+mRNA fraction (% of mapped)	Ris dose 25mM	2	50.33
+mRNA fraction (% of mapped)	Ris dose 25mM	3	60.12
+mRNA fraction (% of mapped)	Ris dose 500mM	1	31.69
+mRNA fraction (% of mapped)	Ris dose 500mM	2	30.47
+mRNA fraction (% of mapped)	Ris dose 500mM	3	25.31
+mRNA fraction (% of mapped)	RAW 264.7	1	58.03
+mRNA fraction (% of mapped)	RAW 264.7	2	60.23
+mRNA fraction (% of mapped)	RAW 264.7	3	67.06
+intronic reads (% of mapped)	DRUG-seq	1	6.66323
+intronic reads (% of mapped)	DRUG-seq	2	6.20502
+intronic reads (% of mapped)	DRUG-seq	3	6.8206
+intronic reads (% of mapped)	DRUG-seq	4	6.05627
+intronic reads (% of mapped)	DRUG-seq	5	6.02235
+intronic reads (% of mapped)	DRUG-seq	6	6.5468
+intronic reads (% of mapped)	DRUG-seq	7	6.6814
+intronic reads (% of mapped)	DRUG-seq	8	6.64788
+intronic reads (% of mapped)	DRUG-seq	9	6.88908
+intronic reads (% of mapped)	DRUG-seq	10	6.19399
+intronic reads (% of mapped)	DRUG-seq	11	6.41778
+intronic reads (% of mapped)	DRUG-seq	12	7.21028
+intronic reads (% of mapped)	DRUG-seq	13	6.10886
+intronic reads (% of mapped)	DRUG-seq	14	5.87461
+intronic reads (% of mapped)	DRUG-seq	15	6.95285
+intronic reads (% of mapped)	DRUG-seq	16	6.13858
+intronic reads (% of mapped)	DRUG-seq	17	6.19151
+intronic reads (% of mapped)	DRUG-seq	18	6.56983
+intronic reads (% of mapped)	DRUG-seq	19	6.17097
+intronic reads (% of mapped)	DRUG-seq	20	6.08855
+intronic reads (% of mapped)	DRUG-seq	21	6.82525
+intronic reads (% of mapped)	DRUG-seq	22	5.87494
+intronic reads (% of mapped)	DRUG-seq	23	5.71707
+intronic reads (% of mapped)	DRUG-seq	24	6.43144
+intronic reads (% of mapped)	prime-seq	1	19.6678
+intronic reads (% of mapped)	prime-seq	2	24.2251
+intronic reads (% of mapped)	prime-seq	3	22.2865
+intronic reads (% of mapped)	prime-seq	4	21.57
+intronic reads (% of mapped)	prime-seq	5	23.3612
+intronic reads (% of mapped)	prime-seq	6	21.4337
+intronic reads (% of mapped)	prime-seq	7	21.9648
+intronic reads (% of mapped)	prime-seq	8	23.2367
+intronic reads (% of mapped)	Hek control	1	4.1
+intronic reads (% of mapped)	Hek control	2	4.34
+intronic reads (% of mapped)	Hek control	3	3.82
+intronic reads (% of mapped)	CADM1 1nM	1	7.14
+intronic reads (% of mapped)	CADM1 1nM	2	7.47
+intronic reads (% of mapped)	CADM1 1nM	3	7.01
+intronic reads (% of mapped)	CADM1 100nM	1	7.39
+intronic reads (% of mapped)	CADM1 100nM	2	6.27
+intronic reads (% of mapped)	CADM1 100nM	3	6.1
+intronic reads (% of mapped)	CHX dose 1ug mL	1	5.54
+intronic reads (% of mapped)	CHX dose 1ug mL	2	6.47
+intronic reads (% of mapped)	CHX dose 1ug mL	3	6.76
+intronic reads (% of mapped)	CHX dose 50ug mL	1	8.84
+intronic reads (% of mapped)	CHX dose 50ug mL	2	8.88
+intronic reads (% of mapped)	CHX dose 50ug mL	3	6.53
+intronic reads (% of mapped)	Ris dose 25mM	1	5.62
+intronic reads (% of mapped)	Ris dose 25mM	2	5.27
+intronic reads (% of mapped)	Ris dose 25mM	3	6.14
+intronic reads (% of mapped)	Ris dose 500mM	1	12.04
+intronic reads (% of mapped)	Ris dose 500mM	2	15.71
+intronic reads (% of mapped)	Ris dose 500mM	3	14.31
+intronic reads (% of mapped)	RAW 264.7	1	1.59
+intronic reads (% of mapped)	RAW 264.7	2	1.55
+intronic reads (% of mapped)	RAW 264.7	3	1.56
+mitochondrial reads (% of mapped)	DRUG-seq	1	2.27788
+mitochondrial reads (% of mapped)	DRUG-seq	2	2.79984
+mitochondrial reads (% of mapped)	DRUG-seq	3	2.57294
+mitochondrial reads (% of mapped)	DRUG-seq	4	2.2094
+mitochondrial reads (% of mapped)	DRUG-seq	5	2.58597
+mitochondrial reads (% of mapped)	DRUG-seq	6	2.0137
+mitochondrial reads (% of mapped)	DRUG-seq	7	2.4773
+mitochondrial reads (% of mapped)	DRUG-seq	8	2.86996
+mitochondrial reads (% of mapped)	DRUG-seq	9	2.1882
+mitochondrial reads (% of mapped)	DRUG-seq	10	2.44055
+mitochondrial reads (% of mapped)	DRUG-seq	11	2.60764
+mitochondrial reads (% of mapped)	DRUG-seq	12	2.59057
+mitochondrial reads (% of mapped)	DRUG-seq	13	2.25817
+mitochondrial reads (% of mapped)	DRUG-seq	14	2.73777
+mitochondrial reads (% of mapped)	DRUG-seq	15	2.16211
+mitochondrial reads (% of mapped)	DRUG-seq	16	2.16404
+mitochondrial reads (% of mapped)	DRUG-seq	17	2.45696
+mitochondrial reads (% of mapped)	DRUG-seq	18	2.45584
+mitochondrial reads (% of mapped)	DRUG-seq	19	2.52279
+mitochondrial reads (% of mapped)	DRUG-seq	20	3.4173
+mitochondrial reads (% of mapped)	DRUG-seq	21	2.57626
+mitochondrial reads (% of mapped)	DRUG-seq	22	2.53034
+mitochondrial reads (% of mapped)	DRUG-seq	23	3.04332
+mitochondrial reads (% of mapped)	DRUG-seq	24	2.4679
+mitochondrial reads (% of mapped)	prime-seq	1	12.9374
+mitochondrial reads (% of mapped)	prime-seq	2	13.3227
+mitochondrial reads (% of mapped)	prime-seq	3	11.1066
+mitochondrial reads (% of mapped)	prime-seq	4	13.2045
+mitochondrial reads (% of mapped)	prime-seq	5	13.2512
+mitochondrial reads (% of mapped)	prime-seq	6	12.6708
+mitochondrial reads (% of mapped)	prime-seq	7	7.9474
+mitochondrial reads (% of mapped)	prime-seq	8	12.6271
+mitochondrial reads (% of mapped)	Hek control	1	0.26
+mitochondrial reads (% of mapped)	Hek control	2	0.25
+mitochondrial reads (% of mapped)	Hek control	3	0.2
+mitochondrial reads (% of mapped)	CADM1 1nM	1	0.4
+mitochondrial reads (% of mapped)	CADM1 1nM	2	0.38
+mitochondrial reads (% of mapped)	CADM1 1nM	3	0.35
+mitochondrial reads (% of mapped)	CADM1 100nM	1	0.39
+mitochondrial reads (% of mapped)	CADM1 100nM	2	0.36
+mitochondrial reads (% of mapped)	CADM1 100nM	3	0.33
+mitochondrial reads (% of mapped)	CHX dose 1ug mL	1	0.28
+mitochondrial reads (% of mapped)	CHX dose 1ug mL	2	0.41
+mitochondrial reads (% of mapped)	CHX dose 1ug mL	3	0.4
+mitochondrial reads (% of mapped)	CHX dose 50ug mL	1	0.36
+mitochondrial reads (% of mapped)	CHX dose 50ug mL	2	0.4
+mitochondrial reads (% of mapped)	CHX dose 50ug mL	3	0.27
+mitochondrial reads (% of mapped)	Ris dose 25mM	1	0.29
+mitochondrial reads (% of mapped)	Ris dose 25mM	2	0.27
+mitochondrial reads (% of mapped)	Ris dose 25mM	3	0.36
+mitochondrial reads (% of mapped)	Ris dose 500mM	1	0.79
+mitochondrial reads (% of mapped)	Ris dose 500mM	2	0.88
+mitochondrial reads (% of mapped)	Ris dose 500mM	3	0.77
+mitochondrial reads (% of mapped)	RAW 264.7	1	0.05
+mitochondrial reads (% of mapped)	RAW 264.7	2	0.04
+mitochondrial reads (% of mapped)	RAW 264.7	3	0.02
+insert length median (nt)	Hek control	1	191
+insert length median (nt)	Hek control	2	190
+insert length median (nt)	Hek control	3	185
+insert length median (nt)	CADM1 1nM	1	190
+insert length median (nt)	CADM1 1nM	2	191
+insert length median (nt)	CADM1 1nM	3	192
+insert length median (nt)	CADM1 100nM	1	192
+insert length median (nt)	CADM1 100nM	2	194
+insert length median (nt)	CADM1 100nM	3	194
+insert length median (nt)	CHX dose 1ug mL	1	186
+insert length median (nt)	CHX dose 1ug mL	2	188
+insert length median (nt)	CHX dose 1ug mL	3	189
+insert length median (nt)	CHX dose 50ug mL	1	183
+insert length median (nt)	CHX dose 50ug mL	2	185
+insert length median (nt)	CHX dose 50ug mL	3	185
+insert length median (nt)	Ris dose 25mM	1	185
+insert length median (nt)	Ris dose 25mM	2	178
+insert length median (nt)	Ris dose 25mM	3	184
+insert length median (nt)	Ris dose 500mM	1	167
+insert length median (nt)	Ris dose 500mM	2	164
+insert length median (nt)	Ris dose 500mM	3	160
+insert length median (nt)	RAW 264.7	1	213
+insert length median (nt)	RAW 264.7	2	217
+insert length median (nt)	RAW 264.7	3	219
+aligned bases (Gb, log)	DRUG-seq	1	0.0263909
+aligned bases (Gb, log)	DRUG-seq	2	0.031809
+aligned bases (Gb, log)	DRUG-seq	3	0.00862064
+aligned bases (Gb, log)	DRUG-seq	4	0.0283008
+aligned bases (Gb, log)	DRUG-seq	5	0.0264942
+aligned bases (Gb, log)	DRUG-seq	6	0.0124073
+aligned bases (Gb, log)	DRUG-seq	7	0.0249677
+aligned bases (Gb, log)	DRUG-seq	8	0.0235151
+aligned bases (Gb, log)	DRUG-seq	9	0.0162329
+aligned bases (Gb, log)	DRUG-seq	10	0.0288175
+aligned bases (Gb, log)	DRUG-seq	11	0.0256554
+aligned bases (Gb, log)	DRUG-seq	12	0.01376
+aligned bases (Gb, log)	DRUG-seq	13	0.0275747
+aligned bases (Gb, log)	DRUG-seq	14	0.0310474
+aligned bases (Gb, log)	DRUG-seq	15	0.0175903
+aligned bases (Gb, log)	DRUG-seq	16	0.0246574
+aligned bases (Gb, log)	DRUG-seq	17	0.0251514
+aligned bases (Gb, log)	DRUG-seq	18	0.0170442
+aligned bases (Gb, log)	DRUG-seq	19	0.029415
+aligned bases (Gb, log)	DRUG-seq	20	0.032099
+aligned bases (Gb, log)	DRUG-seq	21	0.0182504
+aligned bases (Gb, log)	DRUG-seq	22	0.0316289
+aligned bases (Gb, log)	DRUG-seq	23	0.0299899
+aligned bases (Gb, log)	DRUG-seq	24	0.0182663
+aligned bases (Gb, log)	prime-seq	1	0.0217543
+aligned bases (Gb, log)	prime-seq	2	0.032875
+aligned bases (Gb, log)	prime-seq	3	0.0349269
+aligned bases (Gb, log)	prime-seq	4	0.0276966
+aligned bases (Gb, log)	prime-seq	5	0.0321745
+aligned bases (Gb, log)	prime-seq	6	0.0468837
+aligned bases (Gb, log)	prime-seq	7	0.0273331
+aligned bases (Gb, log)	prime-seq	8	0.0375668
+aligned bases (Gb, log)	Hek control	1	1.17195
+aligned bases (Gb, log)	Hek control	2	1.65299
+aligned bases (Gb, log)	Hek control	3	1.63963
+aligned bases (Gb, log)	CADM1 1nM	1	1.44634
+aligned bases (Gb, log)	CADM1 1nM	2	1.36256
+aligned bases (Gb, log)	CADM1 1nM	3	1.21868
+aligned bases (Gb, log)	CADM1 100nM	1	1.38503
+aligned bases (Gb, log)	CADM1 100nM	2	1.3123
+aligned bases (Gb, log)	CADM1 100nM	3	1.37319
+aligned bases (Gb, log)	CHX dose 1ug mL	1	0.840185
+aligned bases (Gb, log)	CHX dose 1ug mL	2	1.12233
+aligned bases (Gb, log)	CHX dose 1ug mL	3	0.926855
+aligned bases (Gb, log)	CHX dose 50ug mL	1	0.843812
+aligned bases (Gb, log)	CHX dose 50ug mL	2	0.936741
+aligned bases (Gb, log)	CHX dose 50ug mL	3	1.03249
+aligned bases (Gb, log)	Ris dose 25mM	1	1.34061
+aligned bases (Gb, log)	Ris dose 25mM	2	0.960237
+aligned bases (Gb, log)	Ris dose 25mM	3	1.42894
+aligned bases (Gb, log)	Ris dose 500mM	1	0.0916532
+aligned bases (Gb, log)	Ris dose 500mM	2	0.117841
+aligned bases (Gb, log)	Ris dose 500mM	3	0.06723
+aligned bases (Gb, log)	RAW 264.7	1	1.05632
+aligned bases (Gb, log)	RAW 264.7	2	1.48162
+aligned bases (Gb, log)	RAW 264.7	3	1.77003
+5'-3' balance (2 x centroid)	DRUG-seq	1	1.637
+5'-3' balance (2 x centroid)	DRUG-seq	2	1.63097
+5'-3' balance (2 x centroid)	DRUG-seq	3	1.66241
+5'-3' balance (2 x centroid)	DRUG-seq	4	1.63716
+5'-3' balance (2 x centroid)	DRUG-seq	5	1.63113
+5'-3' balance (2 x centroid)	DRUG-seq	6	1.66761
+5'-3' balance (2 x centroid)	DRUG-seq	7	1.63917
+5'-3' balance (2 x centroid)	DRUG-seq	8	1.63906
+5'-3' balance (2 x centroid)	DRUG-seq	9	1.65229
+5'-3' balance (2 x centroid)	DRUG-seq	10	1.63812
+5'-3' balance (2 x centroid)	DRUG-seq	11	1.63951
+5'-3' balance (2 x centroid)	DRUG-seq	12	1.6455
+5'-3' balance (2 x centroid)	DRUG-seq	13	1.63658
+5'-3' balance (2 x centroid)	DRUG-seq	14	1.63231
+5'-3' balance (2 x centroid)	DRUG-seq	15	1.65005
+5'-3' balance (2 x centroid)	DRUG-seq	16	1.64711
+5'-3' balance (2 x centroid)	DRUG-seq	17	1.63411
+5'-3' balance (2 x centroid)	DRUG-seq	18	1.64618
+5'-3' balance (2 x centroid)	DRUG-seq	19	1.638
+5'-3' balance (2 x centroid)	DRUG-seq	20	1.63521
+5'-3' balance (2 x centroid)	DRUG-seq	21	1.65095
+5'-3' balance (2 x centroid)	DRUG-seq	22	1.63988
+5'-3' balance (2 x centroid)	DRUG-seq	23	1.6339
+5'-3' balance (2 x centroid)	DRUG-seq	24	1.65397
+5'-3' balance (2 x centroid)	prime-seq	1	1.22254
+5'-3' balance (2 x centroid)	prime-seq	2	1.2132
+5'-3' balance (2 x centroid)	prime-seq	3	1.21824
+5'-3' balance (2 x centroid)	prime-seq	4	1.25684
+5'-3' balance (2 x centroid)	prime-seq	5	1.21352
+5'-3' balance (2 x centroid)	prime-seq	6	1.2001
+5'-3' balance (2 x centroid)	prime-seq	7	1.2852
+5'-3' balance (2 x centroid)	prime-seq	8	1.20996
+5'-3' balance (2 x centroid)	Hek control	1	1.068
+5'-3' balance (2 x centroid)	Hek control	2	1.065
+5'-3' balance (2 x centroid)	Hek control	3	1.077
+5'-3' balance (2 x centroid)	CADM1 1nM	1	1.078
+5'-3' balance (2 x centroid)	CADM1 1nM	2	1.077
+5'-3' balance (2 x centroid)	CADM1 1nM	3	1.066
+5'-3' balance (2 x centroid)	CADM1 100nM	1	1.061
+5'-3' balance (2 x centroid)	CADM1 100nM	2	1.059
+5'-3' balance (2 x centroid)	CADM1 100nM	3	1.05
+5'-3' balance (2 x centroid)	CHX dose 1ug mL	1	1.074
+5'-3' balance (2 x centroid)	CHX dose 1ug mL	2	1.103
+5'-3' balance (2 x centroid)	CHX dose 1ug mL	3	1.09
+5'-3' balance (2 x centroid)	CHX dose 50ug mL	1	1.152
+5'-3' balance (2 x centroid)	CHX dose 50ug mL	2	1.153
+5'-3' balance (2 x centroid)	CHX dose 50ug mL	3	1.139
+5'-3' balance (2 x centroid)	Ris dose 25mM	1	1.089
+5'-3' balance (2 x centroid)	Ris dose 25mM	2	1.118
+5'-3' balance (2 x centroid)	Ris dose 25mM	3	1.087
+5'-3' balance (2 x centroid)	Ris dose 500mM	1	1.126
+5'-3' balance (2 x centroid)	Ris dose 500mM	2	1.103
+5'-3' balance (2 x centroid)	Ris dose 500mM	3	1.132
+5'-3' balance (2 x centroid)	RAW 264.7	1	1.046
+5'-3' balance (2 x centroid)	RAW 264.7	2	1.015
+5'-3' balance (2 x centroid)	RAW 264.7	3	1.026

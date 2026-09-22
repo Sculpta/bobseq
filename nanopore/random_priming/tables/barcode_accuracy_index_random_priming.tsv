@@ -1,0 +1,10 @@
+n	chemistry	run	date	barcode	accuracy_pct	reads_scored	ci95_lo_pct	ci95_hi_pct
+1	randomPriming	260819_BC9-11_6N	2026-08-19	BC11	98.59	1422	97.84	99.09
+2	randomPriming	260819_BC9-11_6N	2026-08-19	BC10	98.77	1376	98.03	99.23
+3	randomPriming	260819_BC9-11_6N	2026-08-19	BC09	98.93	1396	98.23	99.35
+4	randomPriming	260808_9N_exoi_full	2026-08-08	BC02	99.01	405	97.49	99.62
+5	randomPriming	260808_9N_exoi_full	2026-08-08	BC01	99.06	428	97.62	99.64
+6	randomPriming	260827_BC14_16	2026-08-27	BC16	99.34	2726	98.96	99.58
+7	randomPriming	260827_BC14_16	2026-08-27	BC15	99.64	1945	99.26	99.83
+8	randomPriming	260808_9N_exoi_full	2026-08-08	BC04	99.81	542	98.96	99.97
+9	randomPriming	260808_9N_exoi_full	2026-08-08	BC03	100.00	435	99.12	100.00

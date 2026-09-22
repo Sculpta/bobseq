@@ -1,0 +1,38 @@
+# NEBNext Multiplex Oligos for Illumina — Dual Index Primers Set 1 (NEB #E7600S)
+# Source: NEB instruction manual "manualE7600", version 6.0_6/24. Extracted 2026-07-31.
+# 8 x i5 index primers (i501-i508) + 12 x i7 index primers (i701-i712) = 96 combinations.
+#
+# Primer backbones (index substituted at [i5]/[i7]; *T = 3' phosphorothioate bond):
+#   i5:  5'-AATGATACGGCGACCACCGAGATCTACAC[i5]ACACTCTTTCCCTACACGACGCTCTTCCGATC*T-3'
+#   i7:  5'-CAAGCAGAAGACGGCATACGAGAT[i7]GTGACTGGAGTTCAGACGTGTGCTCTTCCGATC*T-3'
+# Adapter trim (NEBNext):  Read1 AGATCGGAAGAGCACACGTCTGAACTCCAGTCA   Read2 AGATCGGAAGAGCGTCGTGTAGGGAAAGAGTGT
+#
+# ORIENTATION (critical for demux / matching to reads):
+#   * i7 index read is workflow-INDEPENDENT = reverse-complement of the in-primer index (the read_fwd/read_revcomp columns are identical for i7).
+#   * i5 index read is workflow-DEPENDENT:
+#       - Forward-Strand Workflow (index = in-primer seq): NovaSeq6000 v1.0, MiniSeq rapid, MiSeq, HiSeq2000/2500, HiSeq3000/4000 single-read
+#       - Reverse-Complement Workflow (index = RC): iSeq100, MiniSeq std, NextSeq, NovaSeq6000 v1.5, HiSeq2000/2500 single-read, HiSeq3000/4000 paired-end
+#   (NovaSeqX/X Plus: see NEB tech support.)
+# These are the E7600 Set-1 kit indexes; they are DISTINCT from the standard TruSeq/observed windows (CCGATGGTCTCT / GTAGATCGGCTC).
+#
+index_name	neb_catalog	kind	index_in_primer_5to3	read_forward_workflow	read_revcomp_workflow
+i501	E7603A	i5	TATAGCCT	TATAGCCT	AGGCTATA
+i502	E7604A	i5	ATAGAGGC	ATAGAGGC	GCCTCTAT
+i503	E7605A	i5	CCTATCCT	CCTATCCT	AGGATAGG
+i504	E7606A	i5	GGCTCTGA	GGCTCTGA	TCAGAGCC
+i505	E7607A	i5	AGGCGAAG	AGGCGAAG	CTTCGCCT
+i506	E7608A	i5	TAATCTTA	TAATCTTA	TAAGATTA
+i507	E7609A	i5	CAGGACGT	CAGGACGT	ACGTCCTG
+i508	E7610A	i5	GTACTGAC	GTACTGAC	GTCAGTAC
+i701	E7611A	i7	CGAGTAAT	ATTACTCG	ATTACTCG
+i702	E7612A	i7	TCTCCGGA	TCCGGAGA	TCCGGAGA
+i703	E7613A	i7	AATGAGCG	CGCTCATT	CGCTCATT
+i704	E7614A	i7	GGAATCTC	GAGATTCC	GAGATTCC
+i705	E7615A	i7	TTCTGAAT	ATTCAGAA	ATTCAGAA
+i706	E7616A	i7	ACGAATTC	GAATTCGT	GAATTCGT
+i707	E7617A	i7	AGCTTCAG	CTGAAGCT	CTGAAGCT
+i708	E7618A	i7	GCGCATTA	TAATGCGC	TAATGCGC
+i709	E7619A	i7	CATAGCCG	CGGCTATG	CGGCTATG
+i710	E7620A	i7	TTCGCGGA	TCCGCGAA	TCCGCGAA
+i711	E7621A	i7	GCGCGAGA	TCTCGCGC	TCTCGCGC
+i712	E7622A	i7	CTATCGCT	AGCGATAG	AGCGATAG

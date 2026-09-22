@@ -1,0 +1,7 @@
+code	sample	reason	usable_reads	pct_of_arm_median
+CTCTTAC	Ris dose 500mM-1	input failure (toxic dose): usable reads < 25% of the arm median; STAR unique 43%	321639	8.3
+ACACCAT	Ris dose 500mM-2	input failure (toxic dose): usable reads < 25% of the arm median; STAR unique 46%	425662	11.0
+GCGAATG	Ris dose 500mM-3	input failure (toxic dose): usable reads < 25% of the arm median; STAR unique 40%	251595	6.5
+TAAGACG	RAW control 1	mouse control (RAW 264.7): the benchmark compares human samples; the species-mix controls are analysed in the barcode-accuracy section		
+GTCCATC	RAW control 2	mouse control (RAW 264.7): the benchmark compares human samples; the species-mix controls are analysed in the barcode-accuracy section		
+GATGACAGTAT	RAW control 3	mouse control (RAW 264.7): the benchmark compares human samples; the species-mix controls are analysed in the barcode-accuracy section		

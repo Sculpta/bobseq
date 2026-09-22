@@ -1,0 +1,4 @@
+chemistry	run_folder	seq_date	construct	anchor_12nt	human_code	mouse_code	direction_source	rt_primer	raw_fastq_input	max_reads	barcodes_scored (plot #)	barcodes_excluded (reason)	sample_notes	barcode_flags	flags
+randomPriming	260819_BC9-11_6N	2026-08-19	bob-v1	CTCTTCCGATCT	GAATCTG	CAAGCAA	species_map_check.txt	R1-6N random	barcodeNN/*.fastq.gz	10000	BC09 BC10 BC11		BC09:TM1 50C 30min|BC10:TM2 temp-cycling|BC11:TM3 50C 60min		
+randomPriming	260808_9N_exoi_full	2026-08-08	bob-v1	CTCTTCCGATCT	TGGATGA	TGTCCAC	species_map_check.txt	R1-9N random	barcodeNN/*.fastq.gz	10000	BC01 BC02 BC03 BC04		BC01:ExoI|BC02:ExoI 20min|BC03:ExoI 10min|BC04:ExoI +RNeasy		
+randomPriming	260827_BC14_16	2026-08-27	bob-v1	CTCTTCCGATCT	CTGCGAT	GAGTAGT	species_map_check.txt	R1-6N random	barcodeNN/*.fastq.gz	10000	BC15 BC16		BC15:1x polyA|BC16:2x polyA		

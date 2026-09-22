@@ -1,0 +1,4 @@
+method	replicates	unit	cell_line	reads
+DRUG-seq	24	wells	U-2 OS	52 nt, single
+prime-seq	8	samples	HEK293T	50 nt, single
+BOBseq	18	wells	HEK293T	2 x 150 nt, paired
