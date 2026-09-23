@@ -1,0 +1,91 @@
+comparison	side	rank	gene_id	symbol	mean_log2_reference	mean_log2_truseq	deviation_log2	mean_log2_expression	score_dev_x_expr	mrna_length_nt
+TruSeq vs BOBseq	over-represented in TruSeq	1	ENSG00000156508	EEF1A1	9.763	13.527	3.366	11.645	39.2	1978
+TruSeq vs BOBseq	over-represented in TruSeq	2	ENSG00000132341	RAN	6.978	11.334	3.958	9.156	36.24	796
+TruSeq vs BOBseq	over-represented in TruSeq	3	ENSG00000111716	LDHB	7.429	11.541	3.714	9.485	35.23	854
+TruSeq vs BOBseq	over-represented in TruSeq	4	ENSG00000143621	ILF2	5.257	9.706	4.051	7.481	30.31	1216
+TruSeq vs BOBseq	over-represented in TruSeq	5	ENSG00000123975	CKS2	4.525	9.266	4.342	6.895	29.94	616
+TruSeq vs BOBseq	over-represented in TruSeq	6	ENSG00000136810	TXN	6.139	10.166	3.629	8.152	29.59	716
+TruSeq vs BOBseq	over-represented in TruSeq	7	ENSG00000102024	PLS3	4.967	9.448	4.083	7.208	29.43	2467
+TruSeq vs BOBseq	over-represented in TruSeq	8	ENSG00000110321	EIF4G2	5.832	9.775	3.545	7.804	27.67	2171
+TruSeq vs BOBseq	over-represented in TruSeq	9	ENSG00000183291	SELENOF	4.028	8.748	4.322	6.388	27.61	1098
+TruSeq vs BOBseq	over-represented in TruSeq	10	ENSG00000110955	ATP5F1B	7.469	10.864	2.996	9.167	27.47	789
+TruSeq vs BOBseq	over-represented in TruSeq	11	ENSG00000165672	PRDX3	4.869	9.171	3.904	7.02	27.4	1527
+TruSeq vs BOBseq	over-represented in TruSeq	12	ENSG00000154518	ATP5MC3	5.873	9.745	3.474	7.809	27.13	919
+TruSeq vs BOBseq	over-represented in TruSeq	13	ENSG00000082153	BZW1	3.945	8.631	4.289	6.288	26.97	1597
+TruSeq vs BOBseq	over-represented in TruSeq	14	ENSG00000134001	EIF2S1	3.399	8.365	4.568	5.882	26.87	1207
+TruSeq vs BOBseq	over-represented in TruSeq	15	ENSG00000137955	RABGGTB	2.629	8.048	5.021	5.339	26.8	1472
+TruSeq vs BOBseq	under-represented in TruSeq	1	ENSG00000281348		10.581	0.94	-10.039	5.761	57.83	556
+TruSeq vs BOBseq	under-represented in TruSeq	2	ENSG00000211450	SELENOH	11.654	7.125	-4.927	9.39	46.26	938
+TruSeq vs BOBseq	under-represented in TruSeq	3	ENSG00000099800	TIMM13	12.042	8.162	-4.278	10.102	43.22	702
+TruSeq vs BOBseq	under-represented in TruSeq	4	ENSG00000204628	RACK1	15.291	12.679	-3.009	13.985	42.09	720
+TruSeq vs BOBseq	under-represented in TruSeq	5	ENSG00000250479	CHCHD10	11.887	8.361	-3.923	10.124	39.72	407
+TruSeq vs BOBseq	under-represented in TruSeq	6	ENSG00000173486	FKBP2	11.055	7.09	-4.363	9.072	39.59	579
+TruSeq vs BOBseq	under-represented in TruSeq	7	ENSG00000205544	TMEM256	11.223	7.371	-4.25	9.297	39.52	
+TruSeq vs BOBseq	under-represented in TruSeq	8	ENSG00000104529	EEF1D	12.504	9.399	-3.503	10.951	38.36	538
+TruSeq vs BOBseq	under-represented in TruSeq	9	ENSG00000227057	WDR46	10.741	6.861	-4.278	8.801	37.65	2069
+TruSeq vs BOBseq	under-represented in TruSeq	10	ENSG00000167468	GPX4	12.484	9.528	-3.354	11.006	36.92	709
+TruSeq vs BOBseq	under-represented in TruSeq	11	ENSG00000119707	RBM25	10.567	6.844	-4.121	8.705	35.88	3855
+TruSeq vs BOBseq	under-represented in TruSeq	12	ENSG00000224877	NDUFAF8	11.381	8.098	-3.681	9.739	35.85	445
+TruSeq vs BOBseq	under-represented in TruSeq	13	ENSG00000182196	ARL6IP4	11.56	8.422	-3.536	9.991	35.33	874
+TruSeq vs BOBseq	under-represented in TruSeq	14	ENSG00000130770	ATP5IF1	12.419	9.633	-3.185	11.026	35.12	
+TruSeq vs BOBseq	under-represented in TruSeq	15	ENSG00000168488	ATXN2L	10.395	6.794	-3.999	8.594	34.37	2795
+TruSeq vs prime-seq	over-represented in TruSeq	1	ENSG00000198563	DDX39B	5.911	9.808	4.013	7.859	31.54	661
+TruSeq vs prime-seq	over-represented in TruSeq	2	ENSG00000126457	PRMT1	5.261	9.385	4.24	7.323	31.05	1207
+TruSeq vs prime-seq	over-represented in TruSeq	3	ENSG00000105701	FKBP8	3.289	8.146	4.973	5.718	28.44	1149
+TruSeq vs prime-seq	over-represented in TruSeq	4	ENSG00000087088	BAX	3.841	8.347	4.622	6.094	28.16	758
+TruSeq vs prime-seq	over-represented in TruSeq	5	ENSG00000063244	U2AF2	5.13	8.87	3.855	7.0	26.99	2247
+TruSeq vs prime-seq	over-represented in TruSeq	6	ENSG00000130175	PRKCSH	4.21	8.37	4.276	6.29	26.9	1551
+TruSeq vs prime-seq	over-represented in TruSeq	7	ENSG00000104852	SNRNP70	6.107	9.363	3.372	7.735	26.08	1510
+TruSeq vs prime-seq	over-represented in TruSeq	8	ENSG00000204220	PFDN6	3.752	8.042	4.406	5.897	25.98	775
+TruSeq vs prime-seq	over-represented in TruSeq	9	ENSG00000108953	YWHAE	8.481	10.997	2.632	9.739	25.63	2052
+TruSeq vs prime-seq	over-represented in TruSeq	10	ENSG00000051596	THOC3	5.309	8.772	3.579	7.04	25.2	878
+TruSeq vs prime-seq	over-represented in TruSeq	11	ENSG00000143256	PFDN2	5.205	8.681	3.591	6.943	24.93	594
+TruSeq vs prime-seq	over-represented in TruSeq	12	ENSG00000170043	TRAPPC1	4.673	8.337	3.78	6.505	24.59	746
+TruSeq vs prime-seq	over-represented in TruSeq	13	ENSG00000160014	CALM3	6.766	9.583	2.933	8.174	23.97	1680
+TruSeq vs prime-seq	over-represented in TruSeq	14	ENSG00000139343	SNRPF	7.26	9.929	2.785	8.595	23.93	459
+TruSeq vs prime-seq	over-represented in TruSeq	15	ENSG00000183336	BOLA2	5.688	8.838	3.266	7.263	23.72	398
+TruSeq vs prime-seq	under-represented in TruSeq	1	ENSG00000197061	H4C3	11.215	1.481	-9.618	6.348	61.05	405
+TruSeq vs prime-seq	under-represented in TruSeq	2	ENSG00000259112	NDUFC2-KCTD14	9.129	2.797	-6.216	5.963	37.07	655
+TruSeq vs prime-seq	under-represented in TruSeq	3	ENSG00000281348		8.417	0.94	-7.36	4.679	34.44	556
+TruSeq vs prime-seq	under-represented in TruSeq	4	ENSG00000008952	SEC62	10.55	6.609	-3.824	8.579	32.81	2613
+TruSeq vs prime-seq	under-represented in TruSeq	5	ENSG00000205609	EIF3CL	9.085	4.126	-4.843	6.606	31.99	2913
+TruSeq vs prime-seq	under-represented in TruSeq	6	ENSG00000131711	MAP1B	8.616	3.435	-5.065	6.026	30.52	11715
+TruSeq vs prime-seq	under-represented in TruSeq	7	ENSG00000117724	CENPF	9.629	5.858	-3.656	7.744	28.31	7673
+TruSeq vs prime-seq	under-represented in TruSeq	8	ENSG00000162599	NFIA	8.052	2.825	-5.111	5.439	27.8	6705
+TruSeq vs prime-seq	under-represented in TruSeq	9	ENSG00000167522	ANKRD11	9.719	6.123	-3.481	7.921	27.57	3390
+TruSeq vs prime-seq	under-represented in TruSeq	10	ENSG00000127914	AKAP9	8.317	3.602	-4.6	5.959	27.41	8864
+TruSeq vs prime-seq	under-represented in TruSeq	11	ENSG00000107581	EIF3A	10.608	7.518	-2.974	9.063	26.96	3619
+TruSeq vs prime-seq	under-represented in TruSeq	12	ENSG00000145734	BDP1	8.557	4.262	-4.179	6.41	26.79	11037
+TruSeq vs prime-seq	under-represented in TruSeq	13	ENSG00000147548	NSD3	9.145	5.44	-3.589	7.293	26.17	3892
+TruSeq vs prime-seq	under-represented in TruSeq	14	ENSG00000135976	ANKRD36	7.8	2.79	-4.895	5.295	25.92	
+TruSeq vs prime-seq	under-represented in TruSeq	15	ENSG00000169021	UQCRFS1	8.87	5.04	-3.714	6.955	25.83	3086
+TruSeq vs BRB-seq	over-represented in TruSeq	1	ENSG00000041357	PSMA4	5.193	10.365	5.341	7.779	41.55	912
+TruSeq vs BRB-seq	over-represented in TruSeq	2	ENSG00000183336	BOLA2	2.719	8.838	6.289	5.778	36.34	398
+TruSeq vs BRB-seq	over-represented in TruSeq	3	ENSG00000181163	NPM1	9.558	12.605	3.217	11.081	35.65	1254
+TruSeq vs BRB-seq	over-represented in TruSeq	4	ENSG00000113558	SKP1	2.775	8.598	5.992	5.686	34.07	678
+TruSeq vs BRB-seq	over-represented in TruSeq	5	ENSG00000104408	EIF3E	5.318	9.42	4.272	7.369	31.48	1529
+TruSeq vs BRB-seq	over-represented in TruSeq	6	ENSG00000106028	SSBP1	7.347	10.444	3.266	8.895	29.05	696
+TruSeq vs BRB-seq	over-represented in TruSeq	7	ENSG00000156467	UQCRB	5.504	9.177	3.842	7.341	28.2	656
+TruSeq vs BRB-seq	over-represented in TruSeq	8	ENSG00000162385	MAGOH	4.981	8.631	3.82	6.806	26.0	634
+TruSeq vs BRB-seq	over-represented in TruSeq	9	ENSG00000160124	MIX23	2.961	7.665	4.873	5.313	25.89	601
+TruSeq vs BRB-seq	over-represented in TruSeq	10	ENSG00000205571	SMN2	2.522	7.45	5.098	4.986	25.42	662
+TruSeq vs BRB-seq	over-represented in TruSeq	11	ENSG00000115541	HSPE1	8.638	10.988	2.52	9.813	24.73	559
+TruSeq vs BRB-seq	over-represented in TruSeq	12	ENSG00000134333	LDHA	8.391	10.793	2.572	9.592	24.67	
+TruSeq vs BRB-seq	over-represented in TruSeq	13	ENSG00000102024	PLS3	6.554	9.448	3.064	8.001	24.51	2467
+TruSeq vs BRB-seq	over-represented in TruSeq	14	ENSG00000100567	PSMA3	5.079	8.489	3.579	6.784	24.28	944
+TruSeq vs BRB-seq	over-represented in TruSeq	15	ENSG00000176731	RBIS	3.93	7.849	4.089	5.89	24.08	570
+TruSeq vs BRB-seq	under-represented in TruSeq	1	ENSG00000197061	H4C3	10.407	1.481	-8.756	5.944	52.05	405
+TruSeq vs BRB-seq	under-represented in TruSeq	2	ENSG00000205609	EIF3CL	9.167	4.126	-4.872	6.647	32.38	2913
+TruSeq vs BRB-seq	under-represented in TruSeq	3	ENSG00000253626	EIF5AL1	8.146	2.215	-5.762	5.181	29.85	3908
+TruSeq vs BRB-seq	under-represented in TruSeq	4	ENSG00000124593		8.289	2.853	-5.267	5.571	29.34	3165
+TruSeq vs BRB-seq	under-represented in TruSeq	5	ENSG00000290318		9.909	6.256	-3.484	8.082	28.16	924
+TruSeq vs BRB-seq	under-represented in TruSeq	6	ENSG00000187837	H1-2	8.654	4.384	-4.1	6.519	26.73	820
+TruSeq vs BRB-seq	under-represented in TruSeq	7	ENSG00000124172	ATP5F1E	9.892	6.599	-3.124	8.246	25.76	2249
+TruSeq vs BRB-seq	under-represented in TruSeq	8	ENSG00000177733	HNRNPA0	8.367	4.544	-3.654	6.456	23.59	8713
+TruSeq vs BRB-seq	under-represented in TruSeq	9	ENSG00000186395	KRT10	8.398	4.642	-3.586	6.52	23.38	2159
+TruSeq vs BRB-seq	under-represented in TruSeq	10	ENSG00000168303	MPLKIP	7.72	3.413	-4.138	5.566	23.03	7627
+TruSeq vs BRB-seq	under-represented in TruSeq	11	ENSG00000179271	GADD45GIP1	9.258	6.142	-2.946	7.7	22.69	1769
+TruSeq vs BRB-seq	under-represented in TruSeq	12	ENSG00000189227	C15orf61	7.444	2.899	-4.375	5.171	22.62	1498
+TruSeq vs BRB-seq	under-represented in TruSeq	13	ENSG00000169021	UQCRFS1	8.495	5.04	-3.285	6.768	22.23	3086
+TruSeq vs BRB-seq	under-represented in TruSeq	14	ENSG00000259112	NDUFC2-KCTD14	7.334	2.797	-4.367	5.066	22.12	655
+TruSeq vs BRB-seq	under-represented in TruSeq	15	ENSG00000175130	MARCKSL1	10.155	7.518	-2.467	8.837	21.8	1546

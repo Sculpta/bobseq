@@ -1,0 +1,6 @@
+contrast	title	test	wells	conditions	rows_prefilter_depth	rows_tested	lsv_sides_tested	padj_lt_0.1_any_direction	hits_pos	hits_pos_lsv	hits_pos_genes	top10_hits	hit_genes
+chx_dose	CHX dose trend (control / 1 / 50 µg/mL)	ols_slope	9	control / CHX 1 µg/mL / CHX 50 µg/mL	8146	530	283	53	28	28	25	10	AARSD1, AKAP8, ARL6IP4, CENPX, CLASRP, DDX39A, EDF1, EIF3C, ENSG00000233461, ENSG00000266953, ENSG00000280607, HRAS, MYBBP1A, NT5C, PSMG4, RPS9, SF1, SNHG29, SNRPA1, SRRM2, SURF2, TCF25, TMA16, TXNL4A, USF2
+chx_high	CHX 50 µg/mL vs control	welch	6	control / CHX 50 µg/mL	8540	584	311	10	6	6	6	6	AKAP8L, CLASRP, DDX39A, DEAF1, EIF3C, SNRPA1
+ris_low	Ris 25 mM vs control	welch	6	control / Ris 25 mM	9171	425	239	0	0	0	0	0	
+cadm1_dose	CADM1-ASO dose trend (control / 1 / 100 nM)	ols_slope	9	control / CADM1 1 nM / CADM1 100 nM	9462	448	244	0	0	0	0	0	
+cadm1_high	CADM1-ASO 100 nM vs control	welch	6	control / CADM1 100 nM	9624	432	241	0	0	0	0	0	

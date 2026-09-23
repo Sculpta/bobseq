@@ -1,0 +1,4 @@
+comparison	genes_plotted	pearson_r	rmse_from_identity	median_offset_log2	outliers_over	outliers_under	rule
+TruSeq vs BOBseq	7943	0.697	1.5135	0.398	757	544	mean expression >= 5 in both; |deviation from the median-offset diagonal| >= 2 log2
+TruSeq vs prime-seq	9735	0.7785	1.1474	-0.116	285	474	mean expression >= 5 in both; |deviation from the median-offset diagonal| >= 2 log2
+TruSeq vs BRB-seq	9664	0.7957	1.1037	-0.17	482	221	mean expression >= 5 in both; |deviation from the median-offset diagonal| >= 2 log2

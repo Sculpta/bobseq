@@ -96,7 +96,7 @@ The only panel kept from the 50-nt set: p4m2 coverage vs distance from the poly(
 
 ## Placement
 
-The preprint panels, their values tables and the sections above are mapped in `README.md` of this directory. The generators write panels and tables into the benchmark working directory; the repository ships the tables only, in `values/`, and `replot.py` redraws every panel from them.
+The preprint panels, their values tables and the sections above are mapped in `README.md` of this directory. The generators write panels and tables into the benchmark working directory; the repository ships the tables only, in `values/`, and `replot.py` redraws every panel from them. The expression and splicing panels (Fig. 6A, 6B, 6D, 7A, 7C to 7F, S5, S6A) are computed in `expression_splicing/`; the README of each analysis there describes its numbers.
 
 ## Style
 

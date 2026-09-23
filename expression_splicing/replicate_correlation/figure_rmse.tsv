@@ -1,0 +1,17 @@
+# metric=rmse
+panel	method	cell_line	n_samples	n_pairs	reads_native_min	reads_native_max	genes_per_comparison	median_RMSE	RMSE_IQR
+P1	BOBseq	HEK	18	18	879458	1621333	9954	0.3998	0.0394
+P1	prime-seq	HEK293T	8	28	296992	635260	8407	0.4882	0.0514
+P1	drug-seq	U-2 OS	24	276	48837	164168	2726	0.5406	0.0565
+P2	BOBseq	HEK	18	18	879458	1621333	4168	1.1218	0.0614
+P2	prime-seq	HEK293T	8	28	296992	635260	4168	1.1137	0.0364
+P2	drug-seq	U-2 OS	24	276	48837	164168	4168	1.9393	0.0965
+
+# pairwise Mann-Whitney U (two-sided) on per-sample mean RMSE
+panel	group_A	group_B	p_value
+P1	BOBseq	prime-seq	1.280e-06
+P1	BOBseq	drug-seq	4.320e-08
+P1	prime-seq	drug-seq	4.989e-04
+P2	BOBseq	prime-seq	3.971e-01
+P2	BOBseq	drug-seq	4.320e-08
+P2	prime-seq	drug-seq	1.901e-07

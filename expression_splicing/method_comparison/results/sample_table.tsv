@@ -1,0 +1,30 @@
+sample	method	group	expression_unit	source	unit	salmon_version	library_type	frag_length_mean	frag_length_sd	salmon_mapped_pct	salmon_reads	reads_no_gene	gene_counts	genes_ge1	genes_ge10	efflen_count_weighted_mean	tpm_identity_max_rel_dev
+BOBseq_ctl_1	BOBseq	control	TPM	bobseq_pe_native__Hek_control_1	dedup reads	1.10.3	ISF	238.3	72.2	60.63	1196227	0	1196227	13516	8697	1712	1.0e-04
+BOBseq_ctl_2	BOBseq	control	TPM	bobseq_pe_native__Hek_control_2	dedup reads	1.10.3	ISF	236.7	71.1	64.44	1697685	0	1697685	14018	9775	1747	1.0e-04
+BOBseq_ctl_3	BOBseq	control	TPM	bobseq_pe_native__Hek_control_3	dedup reads	1.10.3	ISF	232.8	69.4	61.57	1675965	0	1675965	13939	9550	1701	1.0e-04
+prime-seq_1	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK2	dedup reads	1.10.3	SF	250.0	25.0	60.01	496248	0	496248	13222	6373	1485	1.7e-04
+prime-seq_2	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK3	dedup reads	1.10.3	SF	250.0	25.0	58.49	777224	0	777224	14386	8173	1574	1.5e-04
+prime-seq_3	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK9	dedup reads	1.10.3	SF	250.0	25.0	55.95	859589	0	859589	14712	8281	1527	1.0e-04
+prime-seq_4	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK20	dedup reads	1.10.3	SF	250.0	25.0	54.15	741453	0	741453	14307	7923	1563	1.1e-04
+prime-seq_5	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK31	dedup reads	1.10.3	SF	250.0	25.0	58.15	632927	0	632927	13842	7190	1527	1.2e-04
+prime-seq_6	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK42	dedup reads	1.10.3	SF	250.0	25.0	55.97	741416	0	741416	14281	7734	1506	1.3e-04
+prime-seq_7	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK53	dedup reads	1.10.3	SF	250.0	25.0	57.62	1085614	0	1085614	15099	8851	1444	1.4e-04
+prime-seq_8	prime-seq	E-MTAB-10142	CPM	primeseq_native__HEK64	dedup reads	1.10.3	SF	250.0	25.0	60.45	612939	0	612939	14041	7581	1637	1.0e-04
+BRB-seq_1	BRB-seq	ctrl well	CPM	brbseq_native__ctl_TACGTTATTCCGAA	dedup reads	1.10.3	SF	250.0	25.0	84.03	2384353	0	2384353	14936	10806	1358	1.0e-04
+BRB-seq_2	BRB-seq	ctrl well	CPM	brbseq_native__ctl_ACGAGCAGATGCAG	dedup reads	1.10.3	SF	250.0	25.0	86.65	840675	0	840675	13107	7798	1381	1.0e-04
+BRB-seq_3	BRB-seq	vector well	CPM	brbseq_native__ctl_CCGCAAGAGGTTGG	dedup reads	1.10.3	SF	250.0	25.0	85.38	2415520	0	2415520	14773	10669	1373	9.1e-05
+BRB-seq_4	BRB-seq	vector well	CPM	brbseq_native__ctl_TAACACCTCCAACG	dedup reads	1.10.3	SF	250.0	25.0	84.55	1964509	0	1964509	14609	10301	1348	9.2e-05
+BRB-seq_5	BRB-seq	vector well	CPM	brbseq_native__ctl_CAGACATGATAGAG	dedup reads	1.10.3	SF	250.0	25.0	86.3	2454161	0	2454161	14687	10495	1336	1.0e-04
+BRB-seq_6	BRB-seq	vector well	CPM	brbseq_native__ctl_AACAACCGAAGTAA	dedup reads	1.10.3	SF	250.0	25.0	85.8	1979502	0	1979502	14490	10158	1341	1.0e-04
+BRB-seq_7	BRB-seq	vector well	CPM	brbseq_native__ctl_ATGCAATTACACCG	dedup reads	1.10.3	SF	250.0	25.0	86.35	2187213	0	2187213	14406	10186	1357	1.0e-04
+BRB-seq_8	BRB-seq	vector well	CPM	brbseq_native__ctl_CCTCCATCCATGGA	dedup reads	1.10.3	SF	250.0	25.0	86.24	2569964	0	2569964	14771	10593	1369	9.2e-05
+TruSeq_1	TruSeq	GSE296724	TPM	SRR33482324	reads (no UMI)	1.11.4	IU	312.9	115.6	91.93	20157857	0	20157857	17924	14004	2506	1.0e-04
+TruSeq_2	TruSeq	GSE296724	TPM	SRR33482323	reads (no UMI)	1.11.4	IU	310.6	105.4	92.44	20685916	0	20685916	17874	14026	2475	8.5e-05
+TruSeq_3	TruSeq	GSE296724	TPM	SRR33482322	reads (no UMI)	1.11.4	IU	307.4	111.2	92.9	20147775	0	20147775	17823	13984	2463	1.1e-04
+TruSeq_4	TruSeq	GSE298560	TPM	SRR33776933	reads (no UMI)	1.11.4	ISR	168.3	74.4	83.44	45700007	0	45700007	20329	15365	2285	8.6e-05
+TruSeq_5	TruSeq	GSE298560	TPM	SRR33776932	reads (no UMI)	1.11.4	ISR	156.3	62.2	83.14	42949359	0	42949359	20286	15369	2245	1.0e-04
+TruSeq_6	TruSeq	GSE298560	TPM	SRR33776931	reads (no UMI)	1.11.4	ISR	160.5	66.5	84.49	42364833	0	42364833	20188	15320	2238	9.7e-05
+TruSeq_7	TruSeq	GSE181978	TPM	SRR15425654	reads (no UMI)	1.11.4	IU	278.1	159.5	89.3	27216511	0	27216511	18461	14679	2313	9.0e-05
+TruSeq_8	TruSeq	GSE181978	TPM	SRR15425655	reads (no UMI)	1.11.4	IU	269.3	156.4	88.56	27194242	0	27194242	18685	14685	2367	1.1e-04
+TruSeq_9	TruSeq	GSE181978	TPM	SRR15425656	reads (no UMI)	1.11.4	IU	278.3	163.3	89.09	30926436	0	30926436	18857	14858	2290	1.0e-04
+TruSeq_10	TruSeq	GSE181978	TPM	SRR15425657	reads (no UMI)	1.11.4	IU	275.1	161.1	88.74	28427080	0	28427080	18760	14768	2294	1.1e-04

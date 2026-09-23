@@ -1,7 +1,7 @@
 # Container with every tool the repository uses: the BOBseq Illumina pipeline, the benchmark and the figures.
 #   docker build -t bobseq:0.1 -f docker/Dockerfile .
 # Tools: STAR 2.7.11b (the official static build), samtools, Picard, deepTools (bamCoverage), pigz, mawk, gcc,
-# Python 3.12 with pysam, numpy, scipy, matplotlib, reportlab, openpyxl, adjustText. Liberation Sans is registered
+# Python 3.12 with pysam, numpy, scipy, matplotlib, pandas, scikit-learn, seaborn, reportlab, openpyxl, adjustText. Liberation Sans is registered
 # under the name Arial for matplotlib (docker/sitecustomize.py), so the figures render with the metric-compatible face.
 # The image carries tools only; the repository and the data are mounted at run time.
 FROM debian:12-slim
@@ -26,6 +26,6 @@ COPY docker/sitecustomize.py /opt/conda/envs/bobseq/lib/python3.12/site-packages
 # every tool must answer, or the build fails
 RUN STAR --version && samtools --version | head -1 && picard CollectRnaSeqMetrics --version 2>&1 | tail -1 && \
     bamCoverage --version && pigz --version && mawk -W version 2>&1 | head -1 && gcc --version | head -1 && \
-    python3 -c "import pysam, numpy, scipy, matplotlib, reportlab, openpyxl, adjustText; print('python deps ok')" && \
+    python3 -c "import pysam, numpy, scipy, matplotlib, pandas, sklearn, seaborn, reportlab, openpyxl, adjustText; print('python deps ok')" && \
     python3 -c "import matplotlib; matplotlib.use('Agg'); from matplotlib import font_manager as fm, rcParams; rcParams['font.family']='Arial'; f=fm.findfont('Arial'); assert 'Liberation' in f, f; print('font alias ok:', f.split('/')[-1])"
 WORKDIR /work

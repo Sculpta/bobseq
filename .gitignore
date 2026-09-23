@@ -6,6 +6,24 @@ reference/build/
 tests/smoke_out/
 figures/replotted/
 
+# expression_splicing: the supplementary data tables and the outputs a run regenerates
+expression_splicing/data/
+expression_splicing/*/figures/
+expression_splicing/*/.cache/
+expression_splicing/method_comparison/results/de/
+expression_splicing/method_comparison/results/de_capped/*_vs_*/
+expression_splicing/method_comparison/results/*.csv.gz
+expression_splicing/replicate_correlation/figure_*.svg
+expression_splicing/replicate_correlation/figure_*.pdf
+expression_splicing/replicate_correlation/figure_*.png
+expression_splicing/screen_splicing/results/ds_top10.md
+expression_splicing/screen_splicing/results/ds_top10.xlsx
+expression_splicing/screen_splicing/results/top10_junctions.bed
+expression_splicing/screen_splicing/results/screen_splicing_stats.txt
+expression_splicing/smn2_exon7/results/SMN2_blast_reads.tsv
+expression_splicing/smn2_exon7/results/SMN2_fragments.tsv.gz
+expression_splicing/splicing_tracks/results/values/*_depth_*.tsv
+
 # compiled and cached
 benchmark/scripts/dedup
 __pycache__/

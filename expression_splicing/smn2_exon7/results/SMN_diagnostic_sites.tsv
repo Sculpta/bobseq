@@ -1,0 +1,43 @@
+SMN2_pos	SMN1_pos	SMN2_allele	SMN1_allele	type	feature_SMN2	feature_SMN1
+	70924611	-	A	indel		other
+	70924612	-	C	indel		other
+	70924613	-	A	indel		other
+	70924614	-	C	indel		other
+	70927609	-	A	indel		other
+	70928301	-	A	indel		other
+	70928302	-	A	indel		other
+	70928303	-	A	indel		other
+	70928304	-	A	indel		other
+	70928305	-	A	indel		other
+	70945572	-	T	indel		other
+	70945573	-	G	indel		other
+70049303	70924721	T	G	mismatch	other	other
+70060258	70935682	A	G	mismatch	other	other
+70068368		T	-	indel	other	
+70068778	70944201	A	G	mismatch	other	other
+70071183	70946608	C	T	mismatch	intron6	intron6
+70071726	70947151	G	A	mismatch	intron6	intron6
+70072890	70948315	G	A	mismatch	intron6	intron6
+70074624	70950049	C	T	mismatch	intron6	intron6
+70074764	70950189	A	G	mismatch	intron6	intron6
+70074767	70950192	C	T	mismatch	intron6	intron6
+70074904	70950329	A	G	mismatch	intron6	intron6
+70074915	70950340	C	T	mismatch	intron6	intron6
+70075068	70950493	A	G	mismatch	intron6	intron6
+70075541	70950966	A	G	mismatch	intron6	intron6
+70075613		G	-	indel	intron6	
+70075614		C	-	indel	intron6	
+70075615		A	-	indel	intron6	
+70075616		A	-	indel	intron6	
+70075617		G	-	indel	intron6	
+70075672	70951092	C	A	mismatch	intron6	intron6
+70075972	70951392	A	G	mismatch	intron6	intron6
+70076043	70951463	C	T	mismatch	intron6	intron6
+70076477	70951897	A	G	mismatch	intron6	intron6
+70076526	70951946	T	C	mismatch	ex7	ex7
+70076674	70952094	G	A	mismatch	intron7	intron7
+70076789	70952209	G	A	mismatch	intron7	intron7
+70077254	70952674	A	G	mismatch	ex8	ex8
+70077821	70953241	C	G	mismatch	other	other
+70077840	70953260	A	G	mismatch	other	other
+70077855	70953275	C	G	mismatch	other	other

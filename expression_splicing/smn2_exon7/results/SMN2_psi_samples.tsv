@@ -1,0 +1,239 @@
+acc_number	set	method	sample_name	condition	in_benchmark	unit	incl_SMN2	incl_SMN1	incl_ambiguous	skip_SMN2	skip_SMN1	skip_ambiguous	c840_T	c840_C	ex6>7_SMN2	ex6>7_SMN1	ex6>7_ambiguous	ex7>8_SMN2	ex7>8_SMN1	ex7>8_ambiguous	ex6>8_SMN2	ex6>8_SMN1	ex6>8_ambiguous	psi_pooled	psi_pooled_lo	psi_pooled_hi	psi_pooled_n	psi_SMN2	psi_SMN2_lo	psi_SMN2_hi	psi_SMN2_n	psi_SMN1	psi_SMN1_lo	psi_SMN1_hi	psi_SMN1_n	t_frac	t_frac_lo	t_frac_hi	t_frac_n
+bobseq_50nt__CADM1_100nM-1	bobseq_50nt	bobseq	CADM1_100nM-1	CADM1 100nM	yes	raw	11	2	7	0	0	0	13	2	11	2	0	0	0	7	0	0	0	1.0	0.8316	1.0	20	1.0	0.7151	1.0	11	1.0	0.1581	1.0	2	0.8667	0.5954	0.9834	15
+bobseq_50nt__CADM1_100nM-1	bobseq_50nt	bobseq	CADM1_100nM-1	CADM1 100nM	yes	dedup	2	1	2	0	0	0	3	1	2	1	0	0	0	2	0	0	0	1.0	0.4782	1.0	5	1.0	0.1581	1.0	2	1.0	0.025	1.0	1	0.75	0.1941	0.9937	4
+bobseq_50nt__CADM1_100nM-2	bobseq_50nt	bobseq	CADM1_100nM-2	CADM1 100nM	yes	raw	3	10	16	0	0	5	3	26	3	10	0	0	0	16	0	0	5	0.8529	0.6894	0.9505	34	0.375	0.0852	0.7551	8	0.6667	0.3838	0.8818	15	0.1034	0.0219	0.2735	29
+bobseq_50nt__CADM1_100nM-2	bobseq_50nt	bobseq	CADM1_100nM-2	CADM1 100nM	yes	dedup	1	4	3	0	0	1	1	12	1	4	0	0	0	3	0	0	1	0.8889	0.5175	0.9972	9	0.5	0.0126	0.9874	2	0.8	0.2836	0.9949	5	0.0769	0.0019	0.3603	13
+bobseq_50nt__CADM1_100nM-3	bobseq_50nt	bobseq	CADM1_100nM-3	CADM1 100nM	yes	raw	0	6	13	0	0	2	0	10	0	6	0	0	0	13	0	0	2	0.9048	0.6962	0.9883	21	0.0	0.0	0.8419	2	0.75	0.3491	0.9681	8	0.0	0.0	0.3085	10
+bobseq_50nt__CADM1_100nM-3	bobseq_50nt	bobseq	CADM1_100nM-3	CADM1 100nM	yes	dedup	0	2	4	0	0	1	0	5	0	2	0	0	0	4	0	0	1	0.8571	0.4213	0.9964	7	0.0	0.0	0.975	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.5218	5
+bobseq_50nt__CADM1_1nM-1	bobseq_50nt	bobseq	CADM1_1nM-1	CADM1 1nM	yes	raw	0	2	7	0	0	4	0	6	0	2	0	0	0	7	0	0	4	0.6923	0.3857	0.9091	13	0.0	0.0	0.6024	4	0.3333	0.0433	0.7772	6	0.0	0.0	0.4593	6
+bobseq_50nt__CADM1_1nM-1	bobseq_50nt	bobseq	CADM1_1nM-1	CADM1 1nM	yes	dedup	0	1	4	0	0	2	0	3	0	1	0	0	0	4	0	0	2	0.7143	0.2904	0.9633	7	0.0	0.0	0.8419	2	0.3333	0.0084	0.9057	3	0.0	0.0	0.7076	3
+bobseq_50nt__CADM1_1nM-2	bobseq_50nt	bobseq	CADM1_1nM-2	CADM1 1nM	yes	raw	1	1	4	0	0	1	1	8	1	1	0	0	0	4	0	0	1	0.8571	0.4213	0.9964	7	0.5	0.0126	0.9874	2	0.5	0.0126	0.9874	2	0.1111	0.0028	0.4825	9
+bobseq_50nt__CADM1_1nM-2	bobseq_50nt	bobseq	CADM1_1nM-2	CADM1 1nM	yes	dedup	1	1	2	0	0	1	1	4	1	1	0	0	0	2	0	0	1	0.8	0.2836	0.9949	5	0.5	0.0126	0.9874	2	0.5	0.0126	0.9874	2	0.2	0.0051	0.7164	5
+bobseq_50nt__CADM1_1nM-3	bobseq_50nt	bobseq	CADM1_1nM-3	CADM1 1nM	yes	raw	0	5	11	0	0	0	3	18	0	5	0	0	0	11	0	0	0	1.0	0.7941	1.0	16				0	1.0	0.4782	1.0	5	0.1429	0.0305	0.3634	21
+bobseq_50nt__CADM1_1nM-3	bobseq_50nt	bobseq	CADM1_1nM-3	CADM1 1nM	yes	dedup	0	2	6	0	0	0	2	7	0	2	0	0	0	6	0	0	0	1.0	0.6306	1.0	8				0	1.0	0.1581	1.0	2	0.2222	0.0281	0.6001	9
+bobseq_50nt__CHX_dose_1ug_mL-1	bobseq_50nt	bobseq	CHX_dose_1ug_mL-1	CHX dose 1ug/mL	yes	raw	6	0	7	0	0	2	6	24	6	0	0	0	0	7	0	0	2	0.8667	0.5954	0.9834	15	0.75	0.3491	0.9681	8	0.0	0.0	0.8419	2	0.2	0.0771	0.3857	30
+bobseq_50nt__CHX_dose_1ug_mL-1	bobseq_50nt	bobseq	CHX_dose_1ug_mL-1	CHX dose 1ug/mL	yes	dedup	2	0	4	0	0	1	2	7	2	0	0	0	0	4	0	0	1	0.8571	0.4213	0.9964	7	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.2222	0.0281	0.6001	9
+bobseq_50nt__CHX_dose_1ug_mL-2	bobseq_50nt	bobseq	CHX_dose_1ug_mL-2	CHX dose 1ug/mL	yes	raw	3	5	10	0	0	0	7	9	3	5	0	0	0	10	0	0	0	1.0	0.8147	1.0	18	1.0	0.2924	1.0	3	1.0	0.4782	1.0	5	0.4375	0.1975	0.7012	16
+bobseq_50nt__CHX_dose_1ug_mL-2	bobseq_50nt	bobseq	CHX_dose_1ug_mL-2	CHX dose 1ug/mL	yes	dedup	2	2	6	0	0	0	4	5	2	2	0	0	0	6	0	0	0	1.0	0.6915	1.0	10	1.0	0.1581	1.0	2	1.0	0.1581	1.0	2	0.4444	0.137	0.788	9
+bobseq_50nt__CHX_dose_1ug_mL-3	bobseq_50nt	bobseq	CHX_dose_1ug_mL-3	CHX dose 1ug/mL	yes	raw	0	7	5	0	0	1	6	18	0	7	0	0	0	5	0	0	1	0.9231	0.6397	0.9981	13	0.0	0.0	0.975	1	0.875	0.4735	0.9968	8	0.25	0.0977	0.4671	24
+bobseq_50nt__CHX_dose_1ug_mL-3	bobseq_50nt	bobseq	CHX_dose_1ug_mL-3	CHX dose 1ug/mL	yes	dedup	0	3	3	0	0	1	2	7	0	3	0	0	0	3	0	0	1	0.8571	0.4213	0.9964	7	0.0	0.0	0.975	1	0.75	0.1941	0.9937	4	0.2222	0.0281	0.6001	9
+bobseq_50nt__CHX_dose_50ug_mL-1	bobseq_50nt	bobseq	CHX_dose_50ug_mL-1	CHX dose 50ug/mL	yes	raw	0	5	10	0	0	0	6	6	0	5	1	0	0	9	0	0	0	1.0	0.782	1.0	15				0	1.0	0.4782	1.0	5	0.5	0.2109	0.7891	12
+bobseq_50nt__CHX_dose_50ug_mL-1	bobseq_50nt	bobseq	CHX_dose_50ug_mL-1	CHX dose 50ug/mL	yes	dedup	0	2	4	0	0	0	2	3	0	2	1	0	0	3	0	0	0	1.0	0.5407	1.0	6				0	1.0	0.1581	1.0	2	0.4	0.0527	0.8534	5
+bobseq_50nt__CHX_dose_50ug_mL-2	bobseq_50nt	bobseq	CHX_dose_50ug_mL-2	CHX dose 50ug/mL	yes	raw	0	0	7	0	0	0	3	7	0	0	0	0	0	7	0	0	0	1.0	0.5904	1.0	7				0				0	0.3	0.0667	0.6525	10
+bobseq_50nt__CHX_dose_50ug_mL-2	bobseq_50nt	bobseq	CHX_dose_50ug_mL-2	CHX dose 50ug/mL	yes	dedup	0	0	4	0	0	0	1	6	0	0	0	0	0	4	0	0	0	1.0	0.3976	1.0	4				0				0	0.1429	0.0036	0.5787	7
+bobseq_50nt__CHX_dose_50ug_mL-3	bobseq_50nt	bobseq	CHX_dose_50ug_mL-3	CHX dose 50ug/mL	yes	raw	9	2	5	0	0	0	11	8	9	2	0	0	0	5	0	0	0	1.0	0.7941	1.0	16	1.0	0.6637	1.0	9	1.0	0.1581	1.0	2	0.5789	0.335	0.7975	19
+bobseq_50nt__CHX_dose_50ug_mL-3	bobseq_50nt	bobseq	CHX_dose_50ug_mL-3	CHX dose 50ug/mL	yes	dedup	1	2	2	0	0	0	2	6	1	2	0	0	0	2	0	0	0	1.0	0.4782	1.0	5	1.0	0.025	1.0	1	1.0	0.1581	1.0	2	0.25	0.0319	0.6509	8
+bobseq_50nt__Hek_control_1	bobseq_50nt	bobseq	Hek_control_1	Hek control	yes	raw	1	14	5	0	0	0	2	17	1	14	0	0	0	5	0	0	0	1.0	0.8316	1.0	20	1.0	0.025	1.0	1	1.0	0.7684	1.0	14	0.1053	0.013	0.3314	19
+bobseq_50nt__Hek_control_1	bobseq_50nt	bobseq	Hek_control_1	Hek control	yes	dedup	1	3	3	0	0	0	2	5	1	3	0	0	0	3	0	0	0	1.0	0.5904	1.0	7	1.0	0.025	1.0	1	1.0	0.2924	1.0	3	0.2857	0.0367	0.7096	7
+bobseq_50nt__Hek_control_2	bobseq_50nt	bobseq	Hek_control_2	Hek control	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	raw	0	7	8	0	0	2	14	13	0	7	0	0	0	8	0	0	2	0.8824	0.6356	0.9854	17	0.0	0.0	0.8419	2	0.7778	0.3999	0.9719	9	0.5185	0.3195	0.7133	27
+bobseq_50nt__Hek_control_2	bobseq_50nt	bobseq	Hek_control_2	Hek control	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	dedup	0	3	5	0	0	2	3	6	0	3	0	0	0	5	0	0	2	0.8	0.4439	0.9748	10	0.0	0.0	0.8419	2	0.6	0.1466	0.9473	5	0.3333	0.0749	0.7007	9
+bobseq_50nt__Hek_control_3	bobseq_50nt	bobseq	Hek_control_3	Hek control	yes	raw	4	2	5	0	0	0	10	5	4	2	0	0	0	5	0	0	0	1.0	0.7151	1.0	11	1.0	0.3976	1.0	4	1.0	0.1581	1.0	2	0.6667	0.3838	0.8818	15
+bobseq_50nt__Hek_control_3	bobseq_50nt	bobseq	Hek_control_3	Hek control	yes	dedup	1	1	3	0	0	0	3	2	1	1	0	0	0	3	0	0	0	1.0	0.4782	1.0	5	1.0	0.025	1.0	1	1.0	0.025	1.0	1	0.6	0.1466	0.9473	5
+bobseq_50nt__Ris_dose_25mM-1	bobseq_50nt	bobseq	Ris_dose_25mM-1	Ris dose 25mM	yes	raw	3	6	9	0	0	0	3	12	3	6	0	0	0	9	0	0	0	1.0	0.8147	1.0	18	1.0	0.2924	1.0	3	1.0	0.5407	1.0	6	0.2	0.0433	0.4809	15
+bobseq_50nt__Ris_dose_25mM-1	bobseq_50nt	bobseq	Ris_dose_25mM-1	Ris dose 25mM	yes	dedup	2	3	4	0	0	0	2	5	2	3	0	0	0	4	0	0	0	1.0	0.6637	1.0	9	1.0	0.1581	1.0	2	1.0	0.2924	1.0	3	0.2857	0.0367	0.7096	7
+bobseq_50nt__Ris_dose_25mM-2	bobseq_50nt	bobseq	Ris_dose_25mM-2	Ris dose 25mM	yes	raw	0	2	0	0	0	2	0	4	0	2	0	0	0	0	0	0	2	0.5	0.0676	0.9324	4	0.0	0.0	0.8419	2	0.5	0.0676	0.9324	4	0.0	0.0	0.6024	4
+bobseq_50nt__Ris_dose_25mM-2	bobseq_50nt	bobseq	Ris_dose_25mM-2	Ris dose 25mM	yes	dedup	0	2	0	0	0	1	0	3	0	2	0	0	0	0	0	0	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.7076	3
+bobseq_50nt__Ris_dose_25mM-3	bobseq_50nt	bobseq	Ris_dose_25mM-3	Ris dose 25mM	yes	raw	0	0	11	0	0	0	0	3	0	0	0	0	0	11	0	0	0	1.0	0.7151	1.0	11				0				0	0.0	0.0	0.7076	3
+bobseq_50nt__Ris_dose_25mM-3	bobseq_50nt	bobseq	Ris_dose_25mM-3	Ris dose 25mM	yes	dedup	0	0	6	0	0	0	0	2	0	0	0	0	0	6	0	0	0	1.0	0.5407	1.0	6				0				0	0.0	0.0	0.8419	2
+bobseq_pe_native__CADM1_100nM-1	bobseq_pe_native	bobseq	CADM1_100nM-1	CADM1 100nM	yes	raw	23	22	1	5	0	39	19	17	17	17	0	23	9	1	5	0	39	0.5111	0.4035	0.618	90	0.3433	0.2315	0.4694	67	0.3333	0.222	0.4601	66	0.5278	0.3549	0.6959	36
+bobseq_pe_native__CADM1_100nM-1	bobseq_pe_native	bobseq	CADM1_100nM-1	CADM1 100nM	yes	dedup	6	7	1	1	0	14	4	5	3	5	0	6	5	1	1	0	14	0.4828	0.2945	0.6747	29	0.2857	0.1128	0.5218	21	0.3182	0.1386	0.5487	22	0.4444	0.137	0.788	9
+bobseq_pe_native__CADM1_100nM-2	bobseq_pe_native	bobseq	CADM1_100nM-2	CADM1 100nM	yes	raw	45	71	14	1	5	25	36	64	36	46	0	32	62	14	1	5	25	0.8075	0.738	0.8653	161	0.5921	0.4733	0.7035	76	0.6961	0.5971	0.7833	102	0.36	0.2664	0.4621	100
+bobseq_pe_native__CADM1_100nM-2	bobseq_pe_native	bobseq	CADM1_100nM-2	CADM1 100nM	yes	dedup	16	25	4	1	1	9	13	24	13	15	0	12	21	4	1	1	9	0.8036	0.6757	0.8977	56	0.5926	0.388	0.7761	27	0.6944	0.5189	0.8365	36	0.3514	0.2021	0.5254	37
+bobseq_pe_native__CADM1_100nM-3	bobseq_pe_native	bobseq	CADM1_100nM-3	CADM1 100nM	yes	raw	16	39	19	0	0	35	16	31	16	28	0	12	39	19	0	0	35	0.6789	0.5827	0.7651	109	0.3137	0.1911	0.4589	51	0.527	0.4075	0.6443	74	0.3404	0.2086	0.4931	47
+bobseq_pe_native__CADM1_100nM-3	bobseq_pe_native	bobseq	CADM1_100nM-3	CADM1 100nM	yes	dedup	4	15	5	0	0	11	4	13	4	11	0	2	15	5	0	0	11	0.6857	0.5071	0.8315	35	0.2667	0.0779	0.551	15	0.5769	0.3692	0.7665	26	0.2353	0.0681	0.499	17
+bobseq_pe_native__CADM1_1nM-1	bobseq_pe_native	bobseq	CADM1_1nM-1	CADM1 1nM	yes	raw	6	61	6	3	0	29	11	57	6	45	5	0	58	1	3	0	29	0.6952	0.5978	0.7813	105	0.1579	0.0602	0.3125	38	0.6559	0.5502	0.7514	93	0.1618	0.0836	0.271	68
+bobseq_pe_native__CADM1_1nM-1	bobseq_pe_native	bobseq	CADM1_1nM-1	CADM1 1nM	yes	dedup	1	21	2	1	0	11	2	19	1	14	1	0	20	1	1	0	11	0.6667	0.4903	0.8144	36	0.0769	0.0019	0.3603	13	0.6364	0.4512	0.796	33	0.0952	0.0117	0.3038	21
+bobseq_pe_native__CADM1_1nM-2	bobseq_pe_native	bobseq	CADM1_1nM-2	CADM1 1nM	yes	raw	19	51	8	0	0	31	22	53	17	41	0	15	39	8	0	0	31	0.7156	0.6212	0.7979	109	0.38	0.2465	0.5283	50	0.622	0.5081	0.7268	82	0.2933	0.1938	0.4098	75
+bobseq_pe_native__CADM1_1nM-2	bobseq_pe_native	bobseq	CADM1_1nM-2	CADM1 1nM	yes	dedup	9	20	4	0	0	13	10	20	8	16	0	7	14	4	0	0	13	0.7174	0.5654	0.8401	46	0.4091	0.2071	0.6365	22	0.6061	0.4214	0.7709	33	0.3333	0.1729	0.5281	30
+bobseq_pe_native__CADM1_1nM-3	bobseq_pe_native	bobseq	CADM1_1nM-3	CADM1 1nM	yes	raw	10	39	9	0	0	15	10	39	6	24	0	4	32	9	0	0	15	0.7945	0.6838	0.8802	73	0.4	0.2113	0.6133	25	0.7222	0.5836	0.8354	54	0.2041	0.1024	0.3434	49
+bobseq_pe_native__CADM1_1nM-3	bobseq_pe_native	bobseq	CADM1_1nM-3	CADM1 1nM	yes	dedup	4	15	4	0	0	7	4	15	1	9	0	3	12	4	0	0	7	0.7667	0.5772	0.9007	30	0.3636	0.1093	0.6921	11	0.6818	0.4513	0.8614	22	0.2105	0.0605	0.4557	19
+bobseq_pe_native__CHX_dose_1ug_mL-1	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-1	CHX dose 1ug/mL	yes	raw	31	60	4	0	0	61	34	56	31	34	3	28	50	1	0	0	61	0.609	0.5277	0.686	156	0.337	0.2417	0.443	92	0.4959	0.4037	0.5882	121	0.3778	0.2777	0.4862	90
+bobseq_pe_native__CHX_dose_1ug_mL-1	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-1	CHX dose 1ug/mL	yes	dedup	8	21	2	0	0	16	10	20	8	13	1	7	15	1	0	0	16	0.6596	0.5069	0.7914	47	0.3333	0.1563	0.5532	24	0.5676	0.3949	0.729	37	0.3333	0.1729	0.5281	30
+bobseq_pe_native__CHX_dose_1ug_mL-2	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-2	CHX dose 1ug/mL	yes	raw	34	102	19	5	0	82	34	94	31	86	9	28	85	14	5	0	82	0.6405	0.5765	0.701	242	0.281	0.2031	0.3699	121	0.5397	0.4658	0.6123	189	0.2656	0.1915	0.3509	128
+bobseq_pe_native__CHX_dose_1ug_mL-2	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-2	CHX dose 1ug/mL	yes	dedup	13	36	8	1	0	21	13	31	11	27	3	10	32	6	1	0	21	0.7215	0.6093	0.8165	79	0.3714	0.2147	0.5508	35	0.6207	0.4837	0.7449	58	0.2955	0.1676	0.452	44
+bobseq_pe_native__CHX_dose_1ug_mL-3	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-3	CHX dose 1ug/mL	yes	raw	14	68	9	0	0	28	14	64	8	48	0	10	59	9	0	0	28	0.7647	0.6782	0.8376	119	0.3333	0.1957	0.4955	42	0.7083	0.6067	0.7967	96	0.1795	0.1017	0.2828	78
+bobseq_pe_native__CHX_dose_1ug_mL-3	bobseq_pe_native	bobseq	CHX_dose_1ug_mL-3	CHX dose 1ug/mL	yes	dedup	4	23	5	0	0	10	4	22	2	17	0	3	19	5	0	0	10	0.7619	0.6055	0.8795	42	0.2857	0.0839	0.581	14	0.697	0.5129	0.8441	33	0.1538	0.0436	0.3487	26
+bobseq_pe_native__CHX_dose_50ug_mL-1	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-1	CHX dose 50ug/mL	yes	raw	27	58	26	3	0	29	27	54	17	52	14	16	32	12	3	0	29	0.7762	0.699	0.8416	143	0.4576	0.3272	0.5925	59	0.6444	0.5365	0.7426	90	0.3333	0.2324	0.4468	81
+bobseq_pe_native__CHX_dose_50ug_mL-1	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-1	CHX dose 50ug/mL	yes	dedup	7	17	8	1	0	11	7	17	4	15	4	5	12	4	1	0	11	0.7273	0.5721	0.8504	44	0.3684	0.1629	0.6164	19	0.5862	0.3894	0.7648	29	0.2917	0.1262	0.5109	24
+bobseq_pe_native__CHX_dose_50ug_mL-2	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-2	CHX dose 50ug/mL	yes	raw	20	84	13	2	0	43	20	71	16	60	0	16	62	13	2	0	43	0.7222	0.6465	0.7896	162	0.3077	0.1991	0.4345	65	0.6512	0.5623	0.7329	129	0.2198	0.1397	0.3188	91
+bobseq_pe_native__CHX_dose_50ug_mL-2	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-2	CHX dose 50ug/mL	yes	dedup	9	32	6	1	0	16	9	28	7	20	0	8	25	6	1	0	16	0.7344	0.6091	0.837	64	0.3462	0.1721	0.5567	26	0.6531	0.5036	0.7833	49	0.2432	0.1177	0.412	37
+bobseq_pe_native__CHX_dose_50ug_mL-3	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-3	CHX dose 50ug/mL	yes	raw	34	68	3	2	0	40	29	61	26	55	2	23	62	1	2	0	40	0.7143	0.634	0.7857	147	0.4474	0.3331	0.5659	76	0.6182	0.5207	0.7092	110	0.3222	0.2275	0.429	90
+bobseq_pe_native__CHX_dose_50ug_mL-3	bobseq_pe_native	bobseq	CHX_dose_50ug_mL-3	CHX dose 50ug/mL	yes	dedup	9	27	2	1	0	14	7	23	5	19	1	7	25	1	1	0	14	0.717	0.5765	0.8321	53	0.375	0.188	0.5941	24	0.6429	0.4803	0.7845	42	0.2333	0.0993	0.4228	30
+bobseq_pe_native__Hek_control_1	bobseq_pe_native	bobseq	Hek_control_1	Hek control	yes	raw	6	58	13	0	0	21	7	57	6	49	5	6	46	13	0	0	21	0.7857	0.6913	0.8622	98	0.2222	0.0862	0.4226	27	0.7342	0.6228	0.8273	79	0.1094	0.0451	0.2125	64
+bobseq_pe_native__Hek_control_1	bobseq_pe_native	bobseq	Hek_control_1	Hek control	yes	dedup	2	18	6	0	0	6	3	18	2	13	1	2	15	6	0	0	6	0.8125	0.6356	0.9279	32	0.25	0.0319	0.6509	8	0.75	0.5329	0.9023	24	0.1429	0.0305	0.3634	21
+bobseq_pe_native__Hek_control_2	bobseq_pe_native	bobseq	Hek_control_2	Hek control	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	raw	32	61	4	1	0	28	30	50	17	40	2	25	58	2	1	0	28	0.7698	0.6865	0.8401	126	0.5246	0.3927	0.654	61	0.6778	0.571	0.7725	90	0.375	0.2692	0.4904	80
+bobseq_pe_native__Hek_control_2	bobseq_pe_native	bobseq	Hek_control_2	Hek control	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	dedup	8	25	2	1	0	7	6	20	4	15	1	6	23	1	1	0	7	0.814	0.666	0.9161	43	0.5	0.2465	0.7535	16	0.7576	0.5774	0.8891	33	0.2308	0.0897	0.4365	26
+bobseq_pe_native__Hek_control_3	bobseq_pe_native	bobseq	Hek_control_3	Hek control	yes	raw	16	29	7	0	0	12	16	25	10	22	0	16	26	7	0	0	12	0.8125	0.6954	0.8992	64	0.5714	0.3718	0.7554	28	0.7073	0.5446	0.8387	41	0.3902	0.242	0.555	41
+bobseq_pe_native__Hek_control_3	bobseq_pe_native	bobseq	Hek_control_3	Hek control	yes	dedup	5	9	3	0	0	5	5	7	3	6	0	5	8	3	0	0	5	0.7727	0.5463	0.9218	22	0.5	0.1871	0.8129	10	0.6429	0.3514	0.8724	14	0.4167	0.1517	0.7233	12
+bobseq_pe_native__Ris_dose_25mM-1	bobseq_pe_native	bobseq	Ris_dose_25mM-1	Ris dose 25mM	yes	raw	29	29	1	0	0	2	19	28	19	18	0	25	24	1	0	0	2	0.9672	0.8865	0.996	61	0.9355	0.7858	0.9921	31	0.9355	0.7858	0.9921	31	0.4043	0.2637	0.5573	47
+bobseq_pe_native__Ris_dose_25mM-1	bobseq_pe_native	bobseq	Ris_dose_25mM-1	Ris dose 25mM	yes	dedup	10	13	1	0	0	1	9	12	9	8	0	8	11	1	0	0	1	0.96	0.7965	0.999	25	0.9091	0.5872	0.9977	11	0.9286	0.6613	0.9982	14	0.4286	0.2182	0.6598	21
+bobseq_pe_native__Ris_dose_25mM-2	bobseq_pe_native	bobseq	Ris_dose_25mM-2	Ris dose 25mM	yes	raw	4	12	0	2	0	2	4	13	4	10	0	4	6	0	2	0	2	0.8	0.5634	0.9427	20	0.5	0.157	0.843	8	0.75	0.4762	0.9273	16	0.2353	0.0681	0.499	17
+bobseq_pe_native__Ris_dose_25mM-2	bobseq_pe_native	bobseq	Ris_dose_25mM-2	Ris dose 25mM	yes	dedup	1	5	0	1	0	1	1	6	1	4	0	1	3	0	1	0	1	0.75	0.3491	0.9681	8	0.3333	0.0084	0.9057	3	0.7143	0.2904	0.9633	7	0.1429	0.0036	0.5787	7
+bobseq_pe_native__Ris_dose_25mM-3	bobseq_pe_native	bobseq	Ris_dose_25mM-3	Ris dose 25mM	yes	raw	20	49	7	0	0	6	22	32	20	27	0	12	40	7	0	0	6	0.9268	0.8475	0.9727	82	0.7692	0.5635	0.9103	26	0.8909	0.7775	0.9589	55	0.4074	0.2757	0.5497	54
+bobseq_pe_native__Ris_dose_25mM-3	bobseq_pe_native	bobseq	Ris_dose_25mM-3	Ris dose 25mM	yes	dedup	10	15	3	0	0	3	11	10	10	8	0	5	12	3	0	0	3	0.9032	0.7425	0.9796	31	0.7692	0.4619	0.9496	13	0.8333	0.5858	0.9642	18	0.5238	0.2978	0.7429	21
+bobseq_pe_native__Ris_dose_500mM-1	bobseq_pe_native	bobseq	Ris_dose_500mM-1	Ris dose 500mM	no (QC rule: input failure)	raw	1	9	0	0	0	0	1	9	1	9	0	0	9	0	0	0	0	1.0	0.6915	1.0	10	1.0	0.025	1.0	1	1.0	0.6637	1.0	9	0.1	0.0025	0.445	10
+bobseq_pe_native__Ris_dose_500mM-1	bobseq_pe_native	bobseq	Ris_dose_500mM-1	Ris dose 500mM	no (QC rule: input failure)	dedup	1	1	0	0	0	0	1	1	1	1	0	0	1	0	0	0	0	1.0	0.1581	1.0	2	1.0	0.025	1.0	1	1.0	0.025	1.0	1	0.5	0.0126	0.9874	2
+bobseq_pe_native__Ris_dose_500mM-2	bobseq_pe_native	bobseq	Ris_dose_500mM-2	Ris dose 500mM	no (QC rule: input failure)	raw	5	7	0	0	0	3	5	7	5	7	0	0	0	0	0	0	3	0.8	0.5191	0.9567	15	0.625	0.2449	0.9148	8	0.7	0.3475	0.9333	10	0.4167	0.1517	0.7233	12
+bobseq_pe_native__Ris_dose_500mM-2	bobseq_pe_native	bobseq	Ris_dose_500mM-2	Ris dose 500mM	no (QC rule: input failure)	dedup	1	1	0	0	0	1	1	1	1	1	0	0	0	0	0	0	1	0.6667	0.0943	0.9916	3	0.5	0.0126	0.9874	2	0.5	0.0126	0.9874	2	0.5	0.0126	0.9874	2
+bobseq_pe_native__Ris_dose_500mM-3	bobseq_pe_native	bobseq	Ris_dose_500mM-3	Ris dose 500mM	no (QC rule: input failure)	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+bobseq_pe_native__Ris_dose_500mM-3	bobseq_pe_native	bobseq	Ris_dose_500mM-3	Ris dose 500mM	no (QC rule: input failure)	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+brbseq__ctl_AACAACCGAAGTAA	brbseq	brbseq	ctl_AACAACCGAAGTAA	batch 5 no-Sendai vector control (well B04)	yes	raw	5	7	1	0	0	0	5	7	5	7	0	0	0	1	0	0	0	1.0	0.7529	1.0	13	1.0	0.4782	1.0	5	1.0	0.5904	1.0	7	0.4167	0.1517	0.7233	12
+brbseq__ctl_AACAACCGAAGTAA	brbseq	brbseq	ctl_AACAACCGAAGTAA	batch 5 no-Sendai vector control (well B04)	yes	dedup	3	2	1	0	0	0	3	2	3	2	0	0	0	1	0	0	0	1.0	0.5407	1.0	6	1.0	0.2924	1.0	3	1.0	0.1581	1.0	2	0.6	0.1466	0.9473	5
+brbseq__ctl_ACGAGCAGATGCAG	brbseq	brbseq	ctl_ACGAGCAGATGCAG	batch 5 no-Sendai ctrl control (well A04)	yes	raw	0	2	0	0	0	3	0	2	0	2	0	0	0	0	0	0	3	0.4	0.0527	0.8534	5	0.0	0.0	0.7076	3	0.4	0.0527	0.8534	5	0.0	0.0	0.8419	2
+brbseq__ctl_ACGAGCAGATGCAG	brbseq	brbseq	ctl_ACGAGCAGATGCAG	batch 5 no-Sendai ctrl control (well A04)	yes	dedup	0	1	0	0	0	3	0	1	0	1	0	0	0	0	0	0	3	0.25	0.0063	0.8059	4	0.0	0.0	0.7076	3	0.25	0.0063	0.8059	4	0.0	0.0	0.975	1
+brbseq__ctl_ATGCAATTACACCG	brbseq	brbseq	ctl_ATGCAATTACACCG	batch 5 no-Sendai vector control (well F09)	yes	raw	2	7	0	0	0	1	2	7	2	7	0	0	0	0	0	0	1	0.9	0.555	0.9975	10	0.6667	0.0943	0.9916	3	0.875	0.4735	0.9968	8	0.2222	0.0281	0.6001	9
+brbseq__ctl_ATGCAATTACACCG	brbseq	brbseq	ctl_ATGCAATTACACCG	batch 5 no-Sendai vector control (well F09)	yes	dedup	1	2	0	0	0	1	1	2	1	2	0	0	0	0	0	0	1	0.75	0.1941	0.9937	4	0.5	0.0126	0.9874	2	0.6667	0.0943	0.9916	3	0.3333	0.0084	0.9057	3
+brbseq__ctl_CAGACATGATAGAG	brbseq	brbseq	ctl_CAGACATGATAGAG	batch 5 no-Sendai vector control (well B03)	yes	raw	1	0	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	1.0	0.1581	1.0	2	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1
+brbseq__ctl_CAGACATGATAGAG	brbseq	brbseq	ctl_CAGACATGATAGAG	batch 5 no-Sendai vector control (well B03)	yes	dedup	1	0	1	0	0	0	1	0	1	0	0	0	0	1	0	0	0	1.0	0.1581	1.0	2	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1
+brbseq__ctl_CCGCAAGAGGTTGG	brbseq	brbseq	ctl_CCGCAAGAGGTTGG	batch 5 no-Sendai vector control (well B01)	yes	raw	3	12	5	0	0	1	3	14	3	12	3	0	0	2	0	0	1	0.9524	0.7618	0.9988	21	0.75	0.1941	0.9937	4	0.9231	0.6397	0.9981	13	0.1765	0.038	0.4343	17
+brbseq__ctl_CCGCAAGAGGTTGG	brbseq	brbseq	ctl_CCGCAAGAGGTTGG	batch 5 no-Sendai vector control (well B01)	yes	dedup	1	7	3	0	0	1	1	8	1	7	1	0	0	2	0	0	1	0.9167	0.6152	0.9979	12	0.5	0.0126	0.9874	2	0.875	0.4735	0.9968	8	0.1111	0.0028	0.4825	9
+brbseq__ctl_CCTCCATCCATGGA	brbseq	brbseq	ctl_CCTCCATCCATGGA	batch 5 no-Sendai vector control (well F10)	yes	raw	5	1	5	0	0	1	5	1	5	1	0	0	0	5	0	0	1	0.9167	0.6152	0.9979	12	0.8333	0.3588	0.9958	6	0.5	0.0126	0.9874	2	0.8333	0.3588	0.9958	6
+brbseq__ctl_CCTCCATCCATGGA	brbseq	brbseq	ctl_CCTCCATCCATGGA	batch 5 no-Sendai vector control (well F10)	yes	dedup	2	1	2	0	0	1	2	1	2	1	0	0	0	2	0	0	1	0.8333	0.3588	0.9958	6	0.6667	0.0943	0.9916	3	0.5	0.0126	0.9874	2	0.6667	0.0943	0.9916	3
+brbseq__ctl_TAACACCTCCAACG	brbseq	brbseq	ctl_TAACACCTCCAACG	batch 5 no-Sendai vector control (well B02)	yes	raw	6	5	0	0	0	4	6	5	6	5	0	0	0	0	0	0	4	0.7333	0.449	0.9221	15	0.6	0.2624	0.8784	10	0.5556	0.212	0.863	9	0.5455	0.2338	0.8325	11
+brbseq__ctl_TAACACCTCCAACG	brbseq	brbseq	ctl_TAACACCTCCAACG	batch 5 no-Sendai vector control (well B02)	yes	dedup	2	3	0	0	0	3	2	3	2	3	0	0	0	0	0	0	3	0.625	0.2449	0.9148	8	0.4	0.0527	0.8534	5	0.5	0.1181	0.8819	6	0.4	0.0527	0.8534	5
+brbseq__ctl_TACGTTATTCCGAA	brbseq	brbseq	ctl_TACGTTATTCCGAA	batch 5 no-Sendai ctrl control (well A01)	yes	raw	2	4	1	0	0	10	2	5	2	4	1	0	0	0	0	0	10	0.4118	0.1844	0.6708	17	0.1667	0.0209	0.4841	12	0.2857	0.0839	0.581	14	0.2857	0.0367	0.7096	7
+brbseq__ctl_TACGTTATTCCGAA	brbseq	brbseq	ctl_TACGTTATTCCGAA	batch 5 no-Sendai ctrl control (well A01)	yes	dedup	1	3	1	0	0	5	1	4	1	3	1	0	0	0	0	0	5	0.5	0.1871	0.8129	10	0.1667	0.0042	0.6412	6	0.375	0.0852	0.7551	8	0.2	0.0051	0.7164	5
+brbseq_native__ctl_AACAACCGAAGTAA	brbseq_native	brbseq	ctl_AACAACCGAAGTAA	batch 5 no-Sendai vector control (well B04)	yes	raw	4	8	1	0	0	0	4	8	4	8	0	0	7	1	0	0	0	1.0	0.7529	1.0	13	1.0	0.3976	1.0	4	1.0	0.6306	1.0	8	0.3333	0.0992	0.6511	12
+brbseq_native__ctl_AACAACCGAAGTAA	brbseq_native	brbseq	ctl_AACAACCGAAGTAA	batch 5 no-Sendai vector control (well B04)	yes	dedup	3	3	1	0	0	0	3	3	3	3	0	0	2	1	0	0	0	1.0	0.5904	1.0	7	1.0	0.2924	1.0	3	1.0	0.2924	1.0	3	0.5	0.1181	0.8819	6
+brbseq_native__ctl_ACGAGCAGATGCAG	brbseq_native	brbseq	ctl_ACGAGCAGATGCAG	batch 5 no-Sendai ctrl control (well A04)	yes	raw	2	2	0	0	0	3	2	2	2	2	0	0	0	0	0	0	3	0.5714	0.1841	0.901	7	0.4	0.0527	0.8534	5	0.4	0.0527	0.8534	5	0.5	0.0676	0.9324	4
+brbseq_native__ctl_ACGAGCAGATGCAG	brbseq_native	brbseq	ctl_ACGAGCAGATGCAG	batch 5 no-Sendai ctrl control (well A04)	yes	dedup	1	1	0	0	0	3	1	1	1	1	0	0	0	0	0	0	3	0.4	0.0527	0.8534	5	0.25	0.0063	0.8059	4	0.25	0.0063	0.8059	4	0.5	0.0126	0.9874	2
+brbseq_native__ctl_ATGCAATTACACCG	brbseq_native	brbseq	ctl_ATGCAATTACACCG	batch 5 no-Sendai vector control (well F09)	yes	raw	2	7	0	0	0	1	2	7	2	7	0	0	6	0	0	0	1	0.9	0.555	0.9975	10	0.6667	0.0943	0.9916	3	0.875	0.4735	0.9968	8	0.2222	0.0281	0.6001	9
+brbseq_native__ctl_ATGCAATTACACCG	brbseq_native	brbseq	ctl_ATGCAATTACACCG	batch 5 no-Sendai vector control (well F09)	yes	dedup	1	2	0	0	0	1	1	2	1	2	0	0	2	0	0	0	1	0.75	0.1941	0.9937	4	0.5	0.0126	0.9874	2	0.6667	0.0943	0.9916	3	0.3333	0.0084	0.9057	3
+brbseq_native__ctl_CAGACATGATAGAG	brbseq_native	brbseq	ctl_CAGACATGATAGAG	batch 5 no-Sendai vector control (well B03)	yes	raw	1	2	1	0	0	0	1	2	1	2	0	0	0	1	0	0	0	1.0	0.3976	1.0	4	1.0	0.025	1.0	1	1.0	0.1581	1.0	2	0.3333	0.0084	0.9057	3
+brbseq_native__ctl_CAGACATGATAGAG	brbseq_native	brbseq	ctl_CAGACATGATAGAG	batch 5 no-Sendai vector control (well B03)	yes	dedup	1	2	1	0	0	0	1	2	1	2	0	0	0	1	0	0	0	1.0	0.3976	1.0	4	1.0	0.025	1.0	1	1.0	0.1581	1.0	2	0.3333	0.0084	0.9057	3
+brbseq_native__ctl_CCGCAAGAGGTTGG	brbseq_native	brbseq	ctl_CCGCAAGAGGTTGG	batch 5 no-Sendai vector control (well B01)	yes	raw	6	15	2	0	0	2	6	17	6	15	0	0	5	2	0	0	2	0.92	0.7397	0.9902	25	0.75	0.3491	0.9681	8	0.8824	0.6356	0.9854	17	0.2609	0.1023	0.4841	23
+brbseq_native__ctl_CCGCAAGAGGTTGG	brbseq_native	brbseq	ctl_CCGCAAGAGGTTGG	batch 5 no-Sendai vector control (well B01)	yes	dedup	2	8	2	0	0	2	2	9	2	8	0	0	4	2	0	0	2	0.8571	0.5719	0.9822	14	0.5	0.0676	0.9324	4	0.8	0.4439	0.9748	10	0.1818	0.0228	0.5178	11
+brbseq_native__ctl_CCTCCATCCATGGA	brbseq_native	brbseq	ctl_CCTCCATCCATGGA	batch 5 no-Sendai vector control (well F10)	yes	raw	5	5	11	0	0	1	5	5	5	5	0	0	0	11	0	0	1	0.9545	0.7716	0.9988	22	0.8333	0.3588	0.9958	6	0.8333	0.3588	0.9958	6	0.5	0.1871	0.8129	10
+brbseq_native__ctl_CCTCCATCCATGGA	brbseq_native	brbseq	ctl_CCTCCATCCATGGA	batch 5 no-Sendai vector control (well F10)	yes	dedup	2	2	3	0	0	1	2	2	2	2	0	0	0	3	0	0	1	0.875	0.4735	0.9968	8	0.6667	0.0943	0.9916	3	0.6667	0.0943	0.9916	3	0.5	0.0676	0.9324	4
+brbseq_native__ctl_TAACACCTCCAACG	brbseq_native	brbseq	ctl_TAACACCTCCAACG	batch 5 no-Sendai vector control (well B02)	yes	raw	6	7	0	0	0	9	6	7	6	7	0	6	5	0	0	0	9	0.5909	0.3635	0.7929	22	0.4	0.1634	0.6771	15	0.4375	0.1975	0.7012	16	0.4615	0.1922	0.7487	13
+brbseq_native__ctl_TAACACCTCCAACG	brbseq_native	brbseq	ctl_TAACACCTCCAACG	batch 5 no-Sendai vector control (well B02)	yes	dedup	2	4	0	0	0	4	2	4	2	4	0	2	3	0	0	0	4	0.6	0.2624	0.8784	10	0.3333	0.0433	0.7772	6	0.5	0.157	0.843	8	0.3333	0.0433	0.7772	6
+brbseq_native__ctl_TACGTTATTCCGAA	brbseq_native	brbseq	ctl_TACGTTATTCCGAA	batch 5 no-Sendai ctrl control (well A01)	yes	raw	2	9	2	0	0	12	2	9	2	8	0	2	5	2	0	0	12	0.52	0.3131	0.722	25	0.1429	0.0178	0.4281	14	0.4286	0.2182	0.6598	21	0.1818	0.0228	0.5178	11
+brbseq_native__ctl_TACGTTATTCCGAA	brbseq_native	brbseq	ctl_TACGTTATTCCGAA	batch 5 no-Sendai ctrl control (well A01)	yes	dedup	1	6	1	0	0	7	1	6	1	5	0	1	4	1	0	0	7	0.5333	0.2659	0.7873	15	0.125	0.0032	0.5265	8	0.4615	0.1922	0.7487	13	0.1429	0.0036	0.5787	7
+drugseq__DMSO_I08_ATCAGCACTT	drugseq	drugseq	DMSO_I08_ATCAGCACTT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_I08_ATCAGCACTT	drugseq	drugseq	DMSO_I08_ATCAGCACTT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_I16_GAGTAGACCA	drugseq	drugseq	DMSO_I16_GAGTAGACCA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_I16_GAGTAGACCA	drugseq	drugseq	DMSO_I16_GAGTAGACCA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_I24_TTATAGGAGG	drugseq	drugseq	DMSO_I24_TTATAGGAGG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_I24_TTATAGGAGG	drugseq	drugseq	DMSO_I24_TTATAGGAGG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J08_ATCAGCGAGG	drugseq	drugseq	DMSO_J08_ATCAGCGAGG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J08_ATCAGCGAGG	drugseq	drugseq	DMSO_J08_ATCAGCGAGG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J16_GATACGCTTA	drugseq	drugseq	DMSO_J16_GATACGCTTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J16_GATACGCTTA	drugseq	drugseq	DMSO_J16_GATACGCTTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J24_TTATCGCGTT	drugseq	drugseq	DMSO_J24_TTATCGCGTT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_J24_TTATCGCGTT	drugseq	drugseq	DMSO_J24_TTATCGCGTT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K08_ATCCGTCCAT	drugseq	drugseq	DMSO_K08_ATCCGTCCAT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K08_ATCCGTCCAT	drugseq	drugseq	DMSO_K08_ATCCGTCCAT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K16_GATAGGTCAA	drugseq	drugseq	DMSO_K16_GATAGGTCAA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K16_GATAGGTCAA	drugseq	drugseq	DMSO_K16_GATAGGTCAA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K24_TTCAGGAGTA	drugseq	drugseq	DMSO_K24_TTCAGGAGTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_K24_TTCAGGAGTA	drugseq	drugseq	DMSO_K24_TTCAGGAGTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L08_ATCGACGGCT	drugseq	drugseq	DMSO_L08_ATCGACGGCT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L08_ATCGACGGCT	drugseq	drugseq	DMSO_L08_ATCGACGGCT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L16_GATATCAGGA	drugseq	drugseq	DMSO_L16_GATATCAGGA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L16_GATATCAGGA	drugseq	drugseq	DMSO_L16_GATATCAGGA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L24_TTCCATCGAG	drugseq	drugseq	DMSO_L24_TTCCATCGAG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_L24_TTCCATCGAG	drugseq	drugseq	DMSO_L24_TTCCATCGAG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M08_ATCTAAGGAG	drugseq	drugseq	DMSO_M08_ATCTAAGGAG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M08_ATCTAAGGAG	drugseq	drugseq	DMSO_M08_ATCTAAGGAG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M16_GATGAGTGAC	drugseq	drugseq	DMSO_M16_GATGAGTGAC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M16_GATGAGTGAC	drugseq	drugseq	DMSO_M16_GATGAGTGAC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M24_TTGGCAATTC	drugseq	drugseq	DMSO_M24_TTGGCAATTC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_M24_TTGGCAATTC	drugseq	drugseq	DMSO_M24_TTGGCAATTC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N08_ATGACGGTAA	drugseq	drugseq	DMSO_N08_ATGACGGTAA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N08_ATGACGGTAA	drugseq	drugseq	DMSO_N08_ATGACGGTAA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N16_GATGGATACA	drugseq	drugseq	DMSO_N16_GATGGATACA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N16_GATGGATACA	drugseq	drugseq	DMSO_N16_GATGGATACA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N24_TTGGCTCCAC	drugseq	drugseq	DMSO_N24_TTGGCTCCAC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_N24_TTGGCTCCAC	drugseq	drugseq	DMSO_N24_TTGGCTCCAC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O08_ATGCGGACTG	drugseq	drugseq	DMSO_O08_ATGCGGACTG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O08_ATGCGGACTG	drugseq	drugseq	DMSO_O08_ATGCGGACTG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O16_GATTGCACGC	drugseq	drugseq	DMSO_O16_GATTGCACGC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O16_GATTGCACGC	drugseq	drugseq	DMSO_O16_GATTGCACGC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O24_TTGTCGGCCA	drugseq	drugseq	DMSO_O24_TTGTCGGCCA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_O24_TTGTCGGCCA	drugseq	drugseq	DMSO_O24_TTGTCGGCCA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P08_ATGCTTCCTA	drugseq	drugseq	DMSO_P08_ATGCTTCCTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P08_ATGCTTCCTA	drugseq	drugseq	DMSO_P08_ATGCTTCCTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P16_GCAAGCGAAT	drugseq	drugseq	DMSO_P16_GCAAGCGAAT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P16_GCAAGCGAAT	drugseq	drugseq	DMSO_P16_GCAAGCGAAT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P24_TTGTGTTCGA	drugseq	drugseq	DMSO_P24_TTGTGTTCGA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq__DMSO_P24_TTGTGTTCGA	drugseq	drugseq	DMSO_P24_TTGTGTTCGA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I08_ATCAGCACTT	drugseq_native	drugseq	DMSO_I08_ATCAGCACTT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I08_ATCAGCACTT	drugseq_native	drugseq	DMSO_I08_ATCAGCACTT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I16_GAGTAGACCA	drugseq_native	drugseq	DMSO_I16_GAGTAGACCA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I16_GAGTAGACCA	drugseq_native	drugseq	DMSO_I16_GAGTAGACCA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I24_TTATAGGAGG	drugseq_native	drugseq	DMSO_I24_TTATAGGAGG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_I24_TTATAGGAGG	drugseq_native	drugseq	DMSO_I24_TTATAGGAGG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J08_ATCAGCGAGG	drugseq_native	drugseq	DMSO_J08_ATCAGCGAGG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J08_ATCAGCGAGG	drugseq_native	drugseq	DMSO_J08_ATCAGCGAGG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J16_GATACGCTTA	drugseq_native	drugseq	DMSO_J16_GATACGCTTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J16_GATACGCTTA	drugseq_native	drugseq	DMSO_J16_GATACGCTTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J24_TTATCGCGTT	drugseq_native	drugseq	DMSO_J24_TTATCGCGTT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_J24_TTATCGCGTT	drugseq_native	drugseq	DMSO_J24_TTATCGCGTT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K08_ATCCGTCCAT	drugseq_native	drugseq	DMSO_K08_ATCCGTCCAT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K08_ATCCGTCCAT	drugseq_native	drugseq	DMSO_K08_ATCCGTCCAT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K16_GATAGGTCAA	drugseq_native	drugseq	DMSO_K16_GATAGGTCAA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K16_GATAGGTCAA	drugseq_native	drugseq	DMSO_K16_GATAGGTCAA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K24_TTCAGGAGTA	drugseq_native	drugseq	DMSO_K24_TTCAGGAGTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_K24_TTCAGGAGTA	drugseq_native	drugseq	DMSO_K24_TTCAGGAGTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L08_ATCGACGGCT	drugseq_native	drugseq	DMSO_L08_ATCGACGGCT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L08_ATCGACGGCT	drugseq_native	drugseq	DMSO_L08_ATCGACGGCT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L16_GATATCAGGA	drugseq_native	drugseq	DMSO_L16_GATATCAGGA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L16_GATATCAGGA	drugseq_native	drugseq	DMSO_L16_GATATCAGGA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L24_TTCCATCGAG	drugseq_native	drugseq	DMSO_L24_TTCCATCGAG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_L24_TTCCATCGAG	drugseq_native	drugseq	DMSO_L24_TTCCATCGAG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M08_ATCTAAGGAG	drugseq_native	drugseq	DMSO_M08_ATCTAAGGAG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M08_ATCTAAGGAG	drugseq_native	drugseq	DMSO_M08_ATCTAAGGAG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M16_GATGAGTGAC	drugseq_native	drugseq	DMSO_M16_GATGAGTGAC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M16_GATGAGTGAC	drugseq_native	drugseq	DMSO_M16_GATGAGTGAC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M24_TTGGCAATTC	drugseq_native	drugseq	DMSO_M24_TTGGCAATTC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_M24_TTGGCAATTC	drugseq_native	drugseq	DMSO_M24_TTGGCAATTC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N08_ATGACGGTAA	drugseq_native	drugseq	DMSO_N08_ATGACGGTAA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N08_ATGACGGTAA	drugseq_native	drugseq	DMSO_N08_ATGACGGTAA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N16_GATGGATACA	drugseq_native	drugseq	DMSO_N16_GATGGATACA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N16_GATGGATACA	drugseq_native	drugseq	DMSO_N16_GATGGATACA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N24_TTGGCTCCAC	drugseq_native	drugseq	DMSO_N24_TTGGCTCCAC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_N24_TTGGCTCCAC	drugseq_native	drugseq	DMSO_N24_TTGGCTCCAC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O08_ATGCGGACTG	drugseq_native	drugseq	DMSO_O08_ATGCGGACTG	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O08_ATGCGGACTG	drugseq_native	drugseq	DMSO_O08_ATGCGGACTG	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O16_GATTGCACGC	drugseq_native	drugseq	DMSO_O16_GATTGCACGC	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O16_GATTGCACGC	drugseq_native	drugseq	DMSO_O16_GATTGCACGC	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O24_TTGTCGGCCA	drugseq_native	drugseq	DMSO_O24_TTGTCGGCCA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_O24_TTGTCGGCCA	drugseq_native	drugseq	DMSO_O24_TTGTCGGCCA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P08_ATGCTTCCTA	drugseq_native	drugseq	DMSO_P08_ATGCTTCCTA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P08_ATGCTTCCTA	drugseq_native	drugseq	DMSO_P08_ATGCTTCCTA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P16_GCAAGCGAAT	drugseq_native	drugseq	DMSO_P16_GCAAGCGAAT	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P16_GCAAGCGAAT	drugseq_native	drugseq	DMSO_P16_GCAAGCGAAT	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P24_TTGTGTTCGA	drugseq_native	drugseq	DMSO_P24_TTGTGTTCGA	DMSO vehicle, 24 h	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+drugseq_native__DMSO_P24_TTGTGTTCGA	drugseq_native	drugseq	DMSO_P24_TTGTGTTCGA	DMSO vehicle, 24 h	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq__HEK2	primeseq	primeseq	HEK2	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq__HEK2	primeseq	primeseq	HEK2	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq__HEK20	primeseq	primeseq	HEK20	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK20	primeseq	primeseq	HEK20	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK3	primeseq	primeseq	HEK3	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK3	primeseq	primeseq	HEK3	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK31	primeseq	primeseq	HEK31	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.5	0.0126	0.9874	2	0.0	0.0	0.975	1
+primeseq__HEK31	primeseq	primeseq	HEK31	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.5	0.0126	0.9874	2	0.0	0.0	0.975	1
+primeseq__HEK42	primeseq	primeseq	HEK42	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq__HEK42	primeseq	primeseq	HEK42	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq__HEK53	primeseq	primeseq	HEK53	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	3	0	0	0	0	1	3	0	3	0	0	0	0	0	0	0	1	0.75	0.1941	0.9937	4	0.75	0.1941	0.9937	4	0.0	0.0	0.975	1	1.0	0.2924	1.0	3
+primeseq__HEK53	primeseq	primeseq	HEK53	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	2	0	0	0	0	1	2	0	2	0	0	0	0	0	0	0	1	0.6667	0.0943	0.9916	3	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	1.0	0.1581	1.0	2
+primeseq__HEK64	primeseq	primeseq	HEK64	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK64	primeseq	primeseq	HEK64	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq__HEK9	primeseq	primeseq	HEK9	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1.0	0.025	1.0	1				0				0				0
+primeseq__HEK9	primeseq	primeseq	HEK9	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1.0	0.025	1.0	1				0				0				0
+primeseq_native__HEK2	primeseq_native	primeseq	HEK2	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq_native__HEK2	primeseq_native	primeseq	HEK2	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq_native__HEK20	primeseq_native	primeseq	HEK20	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK20	primeseq_native	primeseq	HEK20	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK3	primeseq_native	primeseq	HEK3	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK3	primeseq_native	primeseq	HEK3	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	0	0	1	0	1	0	0	0	1	0	0	0	1.0	0.1581	1.0	2				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK31	primeseq_native	primeseq	HEK31	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.5	0.0126	0.9874	2	0.0	0.0	0.975	1
+primeseq_native__HEK31	primeseq_native	primeseq	HEK31	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	1	0	0	1	0	1	0	1	0	0	0	1	0	0	1	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	0.5	0.0126	0.9874	2	0.0	0.0	0.975	1
+primeseq_native__HEK42	primeseq_native	primeseq	HEK42	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq_native__HEK42	primeseq_native	primeseq	HEK42	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0	0				0				0				0				0
+primeseq_native__HEK53	primeseq_native	primeseq	HEK53	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	3	0	0	0	0	1	3	0	3	0	0	0	0	0	0	0	1	0.75	0.1941	0.9937	4	0.75	0.1941	0.9937	4	0.0	0.0	0.975	1	1.0	0.2924	1.0	3
+primeseq_native__HEK53	primeseq_native	primeseq	HEK53	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	2	0	0	0	0	1	2	0	2	0	0	0	0	0	0	0	1	0.6667	0.0943	0.9916	3	0.6667	0.0943	0.9916	3	0.0	0.0	0.975	1	1.0	0.1581	1.0	2
+primeseq_native__HEK64	primeseq_native	primeseq	HEK64	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK64	primeseq_native	primeseq	HEK64	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	1	0	0	0	0	0	1	0	1	0	0	0	0	0	0	0	1.0	0.025	1.0	1				0	1.0	0.025	1.0	1	0.0	0.0	0.975	1
+primeseq_native__HEK9	primeseq_native	primeseq	HEK9	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	raw	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1.0	0.025	1.0	1				0				0				0
+primeseq_native__HEK9	primeseq_native	primeseq	HEK9	RNA-extraction set (Janjic et al. 2022, Fig. 4)	yes	dedup	0	0	1	0	0	0	0	0	0	0	0	0	0	1	0	0	0	1.0	0.025	1.0	1				0				0				0

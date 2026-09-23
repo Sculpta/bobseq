@@ -1,0 +1,18 @@
+set	track	label	condition	wells	fragments_mapq255	fragments_matched	bam
+replicates	control_1	control 1	control	Hek_control_1	5117827	4107729	.cache/bams/replicates_control_1.bam
+replicates	control_2	control 2	control	Hek_control_2	7236760	4107729	.cache/bams/replicates_control_2.bam
+replicates	control_3	control 3	control	Hek_control_3	7133399	4107729	.cache/bams/replicates_control_3.bam
+replicates	chx_high_1	CHX 50 µg/mL 1	chx_high	CHX_dose_50ug_mL-1	4107729	4107729	.cache/bams/replicates_chx_high_1.bam
+replicates	chx_high_2	CHX 50 µg/mL 2	chx_high	CHX_dose_50ug_mL-2	4539286	4107729	.cache/bams/replicates_chx_high_2.bam
+replicates	chx_high_3	CHX 50 µg/mL 3	chx_high	CHX_dose_50ug_mL-3	4790073	4107729	.cache/bams/replicates_chx_high_3.bam
+pseudobulk	control	control	control	Hek_control_1;Hek_control_2;Hek_control_3	19487986	13315023	.cache/bams/pseudobulk_control.bam
+pseudobulk	chx_low	CHX 1 µg/mL	chx_low	CHX_dose_1ug_mL-1;CHX_dose_1ug_mL-2;CHX_dose_1ug_mL-3	13315023	13315023	.cache/bams/pseudobulk_chx_low.bam
+pseudobulk	chx_high	CHX 50 µg/mL	chx_high	CHX_dose_50ug_mL-1;CHX_dose_50ug_mL-2;CHX_dose_50ug_mL-3	13437088	13315023	.cache/bams/pseudobulk_chx_high.bam
+ris_replicates	control_1	control 1	control	Hek_control_1	5117827	4377823	.cache/bams/ris_replicates_control_1.bam
+ris_replicates	control_2	control 2	control	Hek_control_2	7236760	4377823	.cache/bams/ris_replicates_control_2.bam
+ris_replicates	control_3	control 3	control	Hek_control_3	7133399	4377823	.cache/bams/ris_replicates_control_3.bam
+ris_replicates	ris_low_1	Ris 25 mM 1	ris_low	Ris_dose_25mM-1	6007967	4377823	.cache/bams/ris_replicates_ris_low_1.bam
+ris_replicates	ris_low_2	Ris 25 mM 2	ris_low	Ris_dose_25mM-2	4377823	4377823	.cache/bams/ris_replicates_ris_low_2.bam
+ris_replicates	ris_low_3	Ris 25 mM 3	ris_low	Ris_dose_25mM-3	6479309	4377823	.cache/bams/ris_replicates_ris_low_3.bam
+ris_pseudobulk	control	control	control	Hek_control_1;Hek_control_2;Hek_control_3	19487986	16865099	.cache/bams/ris_pseudobulk_control.bam
+ris_pseudobulk	ris_low	Ris 25 mM	ris_low	Ris_dose_25mM-1;Ris_dose_25mM-2;Ris_dose_25mM-3	16865099	16865099	.cache/bams/ris_pseudobulk_ris_low.bam

@@ -1,0 +1,11 @@
+method,cell_line,repository,study_accession,sample_accession,run_accession,sample_label,condition,reference
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375207,HEK_2,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375241,HEK_3,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375365,HEK_9,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375212,HEK_20,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375248,HEK_31,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375284,HEK_42,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375320,HEK_53,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+prime-seq,HEK293T,ArrayExpress,E-MTAB-10142,,ERR5375356,HEK_64,Incubation+ProtK 10k cells,Janjic et al. 2022 Genome Biol 23:88
+drug-seq,U-2 OS,GEO,GSE176150,GSM5357049,SRR14730306,VH02001704_S4 (24 DMSO wells I24-P24/I08-P08/I16-P16),DMSO vehicle 24 h,Li et al. 2022 ACS Chem Biol 17:1401 (assay: Ye et al. 2018 Nat Commun 9:4307)
+BOBseq,HEK,in-house,,,,24-plex control + treatment triplicates,generated in this study,this study

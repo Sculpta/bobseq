@@ -1,0 +1,39 @@
+set	condition	unit	method	n_samples	c840_T	c840_C	c239_A	c239_G	index	index_lo	index_hi	ex7_per_ex8_SMN2	ex7_per_ex8_SMN1
+bobseq_50nt	CADM1 100nM	dedup	bobseq	3	4	18	115	181	0.35	0.062	0.903	0.0348	0.0994
+bobseq_50nt	CADM1 100nM	raw	bobseq	3	16	38	269	434	0.679	0.343	1.214	0.0595	0.0876
+bobseq_50nt	CADM1 1nM	dedup	bobseq	3	3	14	134	186	0.297	0.0	0.866	0.0224	0.0753
+bobseq_50nt	CADM1 1nM	raw	bobseq	3	4	32	310	427	0.172	0.033	0.398	0.0129	0.0749
+bobseq_50nt	CHX dose 1ug/mL	dedup	bobseq	3	8	19	146	175	0.505	0.167	1.149	0.0548	0.1086
+bobseq_50nt	CHX dose 1ug/mL	raw	bobseq	3	19	51	330	406	0.458	0.254	0.778	0.0576	0.1256
+bobseq_50nt	CHX dose 50ug/mL	dedup	bobseq	3	5	15	171	239	0.466	0.092	1.186	0.0292	0.0628
+bobseq_50nt	CHX dose 50ug/mL	raw	bobseq	3	20	21	383	529	1.315	0.669	2.483	0.0522	0.0397
+bobseq_50nt	Hek control	dedup	bobseq	3	8	13	110	173	0.968	0.327	2.425	0.0727	0.0751
+bobseq_50nt	Hek control	raw	bobseq	3	26	35	267	364	1.013	0.572	1.716	0.0974	0.0962
+bobseq_50nt	Ris dose 25mM	dedup	bobseq	3	2	10	80	131	0.328	0.0	1.22	0.025	0.0763
+bobseq_50nt	Ris dose 25mM	raw	bobseq	3	3	19	179	280	0.247	0.0	0.683	0.0168	0.0679
+bobseq_pe_native	CADM1 100nM	dedup	bobseq	3	21	42	283	369	0.652	0.348	1.077	0.0742	0.1138
+bobseq_pe_native	CADM1 100nM	raw	bobseq	3	71	112	847	1092	0.817	0.592	1.108	0.0838	0.1026
+bobseq_pe_native	CADM1 1nM	dedup	bobseq	3	16	54	288	408	0.42	0.221	0.723	0.0556	0.1324
+bobseq_pe_native	CADM1 1nM	raw	bobseq	3	43	149	785	1089	0.4	0.271	0.56	0.0548	0.1368
+bobseq_pe_native	CHX dose 1ug/mL	dedup	bobseq	3	27	73	321	417	0.48	0.292	0.757	0.0841	0.1751
+bobseq_pe_native	CHX dose 1ug/mL	raw	bobseq	3	82	214	982	1174	0.458	0.346	0.593	0.0835	0.1823
+bobseq_pe_native	CHX dose 50ug/mL	dedup	bobseq	3	23	68	350	539	0.521	0.303	0.835	0.0657	0.1262
+bobseq_pe_native	CHX dose 50ug/mL	raw	bobseq	3	76	186	1026	1479	0.589	0.444	0.77	0.0741	0.1258
+bobseq_pe_native	Hek control	dedup	bobseq	3	14	45	254	410	0.502	0.24	0.889	0.0551	0.1098
+bobseq_pe_native	Hek control	raw	bobseq	3	53	132	707	1104	0.627	0.438	0.869	0.075	0.1196
+bobseq_pe_native	Ris dose 25mM	dedup	bobseq	3	21	28	211	312	1.109	0.578	1.986	0.0995	0.0897
+bobseq_pe_native	Ris dose 25mM	raw	bobseq	3	45	73	605	866	0.882	0.588	1.3	0.0744	0.0843
+bobseq_pe_native	Ris dose 500mM	dedup	bobseq	3	2	2	16	23	1.438	0.0	7.219	0.125	0.087
+bobseq_pe_native	Ris dose 500mM	raw	bobseq	3	6	16	44	38	0.324	0.08	0.84	0.1364	0.4211
+brbseq	all	dedup	brbseq	8	11	21	13	11	0.443	0.124	1.308	0.8462	1.9091
+brbseq	all	raw	brbseq	8	24	41	24	17	0.415	0.173	0.927	1.0	2.4118
+brbseq_native	all	dedup	brbseq	8	13	29	17	13	0.343	0.109	0.89	0.7647	2.2308
+brbseq_native	all	raw	brbseq	8	28	57	29	22	0.373	0.176	0.751	0.9655	2.5909
+drugseq	all	dedup	drugseq	24	0	0	0	0					
+drugseq	all	raw	drugseq	24	0	0	0	0					
+drugseq_native	all	dedup	drugseq	24	0	0	0	0					
+drugseq_native	all	raw	drugseq	24	0	0	0	0					
+primeseq	all	dedup	primeseq	8	2	4	2	2	0.5	0.0	4.0	1.0	2.0
+primeseq	all	raw	primeseq	8	3	4	2	2	0.75	0.0	6.0	1.5	2.0
+primeseq_native	all	dedup	primeseq	8	2	4	2	2	0.5	0.0	4.0	1.0	2.0
+primeseq_native	all	raw	primeseq	8	3	4	2	2	0.75	0.0	6.0	1.5	2.0

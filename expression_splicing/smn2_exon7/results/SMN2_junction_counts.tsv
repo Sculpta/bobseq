@@ -1,0 +1,105 @@
+level	set	condition	well	in_benchmark	unit	SMN2_ex6>7	SMN2_ex7>8	SMN2_ex6>8	SMN1_ex6>7	SMN1_ex7>8	SMN1_ex6>8	ambiguous_ex6>7	ambiguous_ex7>8	ambiguous_ex6>8	skip_all_ex6>8	psi_SMN2	psi_SMN1	psi_pooled
+condition	bobseq_50nt	CADM1 100nM	pooled (3 wells)		dedup	3	0	0	7	0	0	0	9	2	2	0.6	0.7778	0.9048
+condition	bobseq_50nt	CADM1 1nM	pooled (3 wells)		dedup	1	0	0	4	0	0	0	12	3	3	0.25	0.5714	0.85
+condition	bobseq_50nt	CHX dose 1ug/mL	pooled (3 wells)		dedup	4	0	0	5	0	0	0	13	2	2	0.6667	0.7143	0.9167
+condition	bobseq_50nt	CHX dose 50ug/mL	pooled (3 wells)		dedup	1	0	0	4	0	0	1	9	0	0	1.0	1.0	1.0
+condition	bobseq_50nt	Hek control	pooled (3 wells)		dedup	2	0	0	7	0	0	0	11	2	2	0.5	0.7778	0.9091
+condition	bobseq_50nt	Ris dose 25mM	pooled (3 wells)		dedup	2	0	0	5	0	0	0	10	1	1	0.6667	0.8333	0.9444
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-1	yes	dedup	2	0	0	1	0	0	0	2	0	0	1.0	1.0	1.0
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-2	yes	dedup	1	0	0	4	0	0	0	3	1	1	0.5	0.8	0.8889
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-3	yes	dedup	0	0	0	2	0	0	0	4	1	1	0.0	0.6667	0.8571
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-1	yes	dedup	0	0	0	1	0	0	0	4	2	2	0.0	0.3333	0.7143
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-2	yes	dedup	1	0	0	1	0	0	0	2	1	1	0.5	0.5	0.8
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-3	yes	dedup	0	0	0	2	0	0	0	6	0	0		1.0	1.0
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-1	yes	dedup	2	0	0	0	0	0	0	4	1	1	0.6667	0.0	0.8571
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-2	yes	dedup	2	0	0	2	0	0	0	6	0	0	1.0	1.0	1.0
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-3	yes	dedup	0	0	0	3	0	0	0	3	1	1	0.0	0.75	0.8571
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-1	yes	dedup	0	0	0	2	0	0	1	3	0	0		1.0	1.0
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-2	yes	dedup	0	0	0	0	0	0	0	4	0	0			1.0
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-3	yes	dedup	1	0	0	2	0	0	0	2	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Hek control	Hek_control_1	yes	dedup	1	0	0	3	0	0	0	3	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Hek control	Hek_control_2	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	dedup	0	0	0	3	0	0	0	5	2	2	0.0	0.6	0.8
+well	bobseq_50nt	Hek control	Hek_control_3	yes	dedup	1	0	0	1	0	0	0	3	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-1	yes	dedup	2	0	0	3	0	0	0	4	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-2	yes	dedup	0	0	0	2	0	0	0	0	1	1	0.0	0.6667	0.6667
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-3	yes	dedup	0	0	0	0	0	0	0	6	0	0			1.0
+condition	bobseq_50nt	CADM1 100nM	pooled (3 wells)		raw	14	0	0	18	0	0	0	36	7	7	0.6667	0.72	0.9067
+condition	bobseq_50nt	CADM1 1nM	pooled (3 wells)		raw	1	0	0	8	0	0	0	22	5	5	0.1667	0.6154	0.8611
+condition	bobseq_50nt	CHX dose 1ug/mL	pooled (3 wells)		raw	9	0	0	12	0	0	0	22	3	3	0.75	0.8	0.9348
+condition	bobseq_50nt	CHX dose 50ug/mL	pooled (3 wells)		raw	9	0	0	7	0	0	1	21	0	0	1.0	1.0	1.0
+condition	bobseq_50nt	Hek control	pooled (3 wells)		raw	5	0	0	23	0	0	0	18	2	2	0.7143	0.92	0.9583
+condition	bobseq_50nt	Ris dose 25mM	pooled (3 wells)		raw	3	0	0	8	0	0	0	20	2	2	0.6	0.8	0.9394
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-1	yes	raw	11	0	0	2	0	0	0	7	0	0	1.0	1.0	1.0
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-2	yes	raw	3	0	0	10	0	0	0	16	5	5	0.375	0.6667	0.8529
+well	bobseq_50nt	CADM1 100nM	CADM1_100nM-3	yes	raw	0	0	0	6	0	0	0	13	2	2	0.0	0.75	0.9048
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-1	yes	raw	0	0	0	2	0	0	0	7	4	4	0.0	0.3333	0.6923
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-2	yes	raw	1	0	0	1	0	0	0	4	1	1	0.5	0.5	0.8571
+well	bobseq_50nt	CADM1 1nM	CADM1_1nM-3	yes	raw	0	0	0	5	0	0	0	11	0	0		1.0	1.0
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-1	yes	raw	6	0	0	0	0	0	0	7	2	2	0.75	0.0	0.8667
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-2	yes	raw	3	0	0	5	0	0	0	10	0	0	1.0	1.0	1.0
+well	bobseq_50nt	CHX dose 1ug/mL	CHX_dose_1ug_mL-3	yes	raw	0	0	0	7	0	0	0	5	1	1	0.0	0.875	0.9231
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-1	yes	raw	0	0	0	5	0	0	1	9	0	0		1.0	1.0
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-2	yes	raw	0	0	0	0	0	0	0	7	0	0			1.0
+well	bobseq_50nt	CHX dose 50ug/mL	CHX_dose_50ug_mL-3	yes	raw	9	0	0	2	0	0	0	5	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Hek control	Hek_control_1	yes	raw	1	0	0	14	0	0	0	5	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Hek control	Hek_control_2	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	raw	0	0	0	7	0	0	0	8	2	2	0.0	0.7778	0.8824
+well	bobseq_50nt	Hek control	Hek_control_3	yes	raw	4	0	0	2	0	0	0	5	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-1	yes	raw	3	0	0	6	0	0	0	9	0	0	1.0	1.0	1.0
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-2	yes	raw	0	0	0	2	0	0	0	0	2	2	0.0	0.5	0.5
+well	bobseq_50nt	Ris dose 25mM	Ris_dose_25mM-3	yes	raw	0	0	0	0	0	0	0	11	0	0			1.0
+condition	bobseq_pe_native	CADM1 100nM	pooled (3 wells)		dedup	20	20	2	31	41	1	0	10	34	37	0.4127	0.5595	0.6917
+condition	bobseq_pe_native	CADM1 1nM	pooled (3 wells)		dedup	10	10	1	39	46	0	1	9	31	32	0.3043	0.6364	0.7143
+condition	bobseq_pe_native	CHX dose 1ug/mL	pooled (3 wells)		dedup	21	20	1	57	66	0	4	12	47	48	0.3425	0.625	0.7143
+condition	bobseq_pe_native	CHX dose 50ug/mL	pooled (3 wells)		dedup	16	20	3	54	62	0	5	11	41	44	0.3623	0.6333	0.7267
+condition	bobseq_pe_native	Hek control	pooled (3 wells)		dedup	9	13	1	34	46	0	2	10	18	19	0.4412	0.7324	0.8041
+condition	bobseq_pe_native	Ris dose 25mM	pooled (3 wells)		dedup	20	14	1	20	26	0	0	4	5	6	0.7778	0.8462	0.9062
+condition	bobseq_pe_native	Ris dose 500mM	pooled (3 wells)		dedup	2	0	0	2	1	0	0	0	1	1	0.6667	0.6667	0.8
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-1	yes	dedup	3	6	1	5	5	0	0	1	14	15	0.2857	0.3182	0.4828
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-2	yes	dedup	13	12	1	15	21	1	0	4	9	11	0.5926	0.6944	0.8036
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-3	yes	dedup	4	2	0	11	15	0	0	5	11	11	0.2667	0.5769	0.6857
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-1	yes	dedup	1	0	1	14	20	0	1	1	11	12	0.0769	0.6364	0.6667
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-2	yes	dedup	8	7	0	16	14	0	0	4	13	13	0.4091	0.6061	0.7174
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-3	yes	dedup	1	3	0	9	12	0	0	4	7	7	0.3636	0.6818	0.7667
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-1	yes	dedup	8	7	0	13	15	0	1	1	16	16	0.3333	0.5676	0.6596
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-2	yes	dedup	11	10	1	27	32	0	3	6	21	22	0.3714	0.6207	0.7215
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-3	yes	dedup	2	3	0	17	19	0	0	5	10	10	0.2857	0.697	0.7619
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-1	yes	dedup	4	5	1	15	12	0	4	4	11	12	0.3684	0.5862	0.7273
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-2	yes	dedup	7	8	1	20	25	0	0	6	16	17	0.3462	0.6531	0.7344
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-3	yes	dedup	5	7	1	19	25	0	1	1	14	15	0.375	0.6429	0.717
+well	bobseq_pe_native	Hek control	Hek_control_1	yes	dedup	2	2	0	13	15	0	1	6	6	6	0.25	0.75	0.8125
+well	bobseq_pe_native	Hek control	Hek_control_2	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	dedup	4	6	1	15	23	0	1	1	7	8	0.5	0.7576	0.814
+well	bobseq_pe_native	Hek control	Hek_control_3	yes	dedup	3	5	0	6	8	0	0	3	5	5	0.5	0.6429	0.7727
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-1	yes	dedup	9	8	0	8	11	0	0	1	1	1	0.9091	0.9286	0.96
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-2	yes	dedup	1	1	1	4	3	0	0	0	1	2	0.3333	0.7143	0.75
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-3	yes	dedup	10	5	0	8	12	0	0	3	3	3	0.7692	0.8333	0.9032
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-1	no (QC rule: input failure)	dedup	1	0	0	1	1	0	0	0	0	0	1.0	1.0	1.0
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-2	no (QC rule: input failure)	dedup	1	0	0	1	0	0	0	0	1	1	0.5	0.5	0.6667
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-3	no (QC rule: input failure)	dedup	0	0	0	0	0	0	0	0	0	0			
+condition	bobseq_pe_native	CADM1 100nM	pooled (3 wells)		raw	69	67	6	91	110	5	0	34	99	110	0.433	0.5455	0.6944
+condition	bobseq_pe_native	CADM1 1nM	pooled (3 wells)		raw	29	19	3	110	129	0	5	18	75	78	0.3097	0.6594	0.7282
+condition	bobseq_pe_native	CHX dose 1ug/mL	pooled (3 wells)		raw	70	66	5	168	194	0	12	24	171	176	0.3098	0.5665	0.6596
+condition	bobseq_pe_native	CHX dose 50ug/mL	pooled (3 wells)		raw	59	55	7	167	156	0	16	26	112	119	0.405	0.6383	0.7367
+condition	bobseq_pe_native	Hek control	pooled (3 wells)		raw	33	47	1	111	130	0	7	22	61	62	0.4655	0.7048	0.7847
+condition	bobseq_pe_native	Ris dose 25mM	pooled (3 wells)		raw	43	41	2	55	70	0	0	8	10	12	0.8154	0.8824	0.9264
+condition	bobseq_pe_native	Ris dose 500mM	pooled (3 wells)		raw	6	0	0	16	9	0	0	0	3	3	0.6667	0.8421	0.88
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-1	yes	raw	17	23	5	17	9	0	0	1	39	44	0.3433	0.3333	0.5111
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-2	yes	raw	36	32	1	46	62	5	0	14	25	31	0.5921	0.6961	0.8075
+well	bobseq_pe_native	CADM1 100nM	CADM1_100nM-3	yes	raw	16	12	0	28	39	0	0	19	35	35	0.3137	0.527	0.6789
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-1	yes	raw	6	0	3	45	58	0	5	1	29	32	0.1579	0.6559	0.6952
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-2	yes	raw	17	15	0	41	39	0	0	8	31	31	0.38	0.622	0.7156
+well	bobseq_pe_native	CADM1 1nM	CADM1_1nM-3	yes	raw	6	4	0	24	32	0	0	9	15	15	0.4	0.7222	0.7945
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-1	yes	raw	31	28	0	34	50	0	3	1	61	61	0.337	0.4959	0.609
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-2	yes	raw	31	28	5	86	85	0	9	14	82	87	0.281	0.5397	0.6405
+well	bobseq_pe_native	CHX dose 1ug/mL	CHX_dose_1ug_mL-3	yes	raw	8	10	0	48	59	0	0	9	28	28	0.3333	0.7083	0.7647
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-1	yes	raw	17	16	3	52	32	0	14	12	29	32	0.4576	0.6444	0.7762
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-2	yes	raw	16	16	2	60	62	0	0	13	43	45	0.3077	0.6512	0.7222
+well	bobseq_pe_native	CHX dose 50ug/mL	CHX_dose_50ug_mL-3	yes	raw	26	23	2	55	62	0	2	1	40	42	0.4474	0.6182	0.7143
+well	bobseq_pe_native	Hek control	Hek_control_1	yes	raw	6	6	0	49	46	0	5	13	21	21	0.2222	0.7342	0.7857
+well	bobseq_pe_native	Hek control	Hek_control_2	no (defective TSO oligo: skewed UMI; excluded from benchmark and splicing, Bryan 2026-09-10)	raw	17	25	1	40	58	0	2	2	28	29	0.5246	0.6778	0.7698
+well	bobseq_pe_native	Hek control	Hek_control_3	yes	raw	10	16	0	22	26	0	0	7	12	12	0.5714	0.7073	0.8125
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-1	yes	raw	19	25	0	18	24	0	0	1	2	2	0.9355	0.9355	0.9672
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-2	yes	raw	4	4	2	10	6	0	0	0	2	4	0.5	0.75	0.8
+well	bobseq_pe_native	Ris dose 25mM	Ris_dose_25mM-3	yes	raw	20	12	0	27	40	0	0	7	6	6	0.7692	0.8909	0.9268
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-1	no (QC rule: input failure)	raw	1	0	0	9	9	0	0	0	0	0	1.0	1.0	1.0
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-2	no (QC rule: input failure)	raw	5	0	0	7	0	0	0	0	3	3	0.625	0.7	0.8
+well	bobseq_pe_native	Ris dose 500mM	Ris_dose_500mM-3	no (QC rule: input failure)	raw	0	0	0	0	0	0	0	0	0	0			

@@ -38,6 +38,20 @@ directory), except the funnel table, produced by `benchmark/run_funnel.sh`.
 | not in the manuscript: coverage vs poly(A) distance for all 24 wells | S14 | `polyA_profiles_all24_native.tsv` | one per nucleotide and sample | S14 |
 | Fig. S6B, stacked per-sample QC (14 metrics) | stacked QC | `stacked_qc_all_samples.tsv` | one per metric and sample | stacked per-sample QC |
 
+## Panels computed in `expression_splicing/`
+
+| preprint | directory | values table(s) | generator |
+|---|---|---|---|
+| Fig. 6A, PCA of BOBseq controls with prime-seq, BRB-seq and TruSeq | `method_comparison/` | `results/pca_scores_thinned.tsv`, `pca_variance_thinned.tsv` | `src/pca.py` |
+| Fig. 6B, DE genes against TruSeq, signed Venn | `method_comparison/` | `results/de_capped/venn_vs_truseq.tsv`, `de_capped/de_summary.tsv` | `src/de.py` (R), `src/de_capped_views.py` |
+| Fig. 6D, replicate Pearson r | `replicate_correlation/` | `figure_pearson.tsv` | `reproduce_reproducibility_figure.py --metric pearson` |
+| Fig. 7A, PCA of the 24-plex wells | `screen_pca/` | `results/pca_scores_no_ris500.tsv`, `pca_variance_no_ris500.tsv` | `pca_tpm.py` |
+| Fig. 7C, differential splicing, CHX dose | `screen_splicing/` | `results/ds_chx_dose.tsv`, `ds_top10.tsv` | `src/ds.py`, `src/volcano.py` |
+| Fig. 7D, SMN2 exon 7 junction reads | `smn2_exon7/` | `results/SMN2_junction_counts.tsv`, `SMN2_psi_conditions.tsv` | `src/figures.py` |
+| Fig. 7E, 7F, coverage tracks with junction arcs | `splicing_tracks/` | `results/summary.tsv`, `results/values/<locus>_junctions_<set>.tsv` | `src/gene_coverage_tracks.py` |
+| Fig. S5A-C, TruSeq vs each method, gene by gene | `method_comparison/` | `results/scatter_truseq_summary.tsv`, `_labelled.tsv`, `_outliers.tsv`, `_outlier_overlap.tsv` | `src/scatter.py TruSeq` |
+| Fig. S6A, replicate RMSE | `replicate_correlation/` | `figure_rmse.tsv` | `reproduce_reproducibility_figure.py --metric rmse` |
+
 Panel numbers follow the manuscript version of 2026-09-21. Rows marked "not in the manuscript" back panels that were dropped from that version; their tables are kept so that those panels can still be redrawn (`replot.py` draws them too).
 
 ## Conventions

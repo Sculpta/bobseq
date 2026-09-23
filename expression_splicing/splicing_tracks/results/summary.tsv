@@ -1,0 +1,73 @@
+locus	dir	source	contrast	lsv	junction	top	pseudobulk:control	pseudobulk:control:share	pseudobulk:chx_low	pseudobulk:chx_low:share	pseudobulk:chx_high	pseudobulk:chx_high:share	replicates:control_1	replicates:control_1:share	replicates:control_2	replicates:control_2:share	replicates:control_3	replicates:control_3:share	replicates:chx_high_1	replicates:chx_high_1:share	replicates:chx_high_2	replicates:chx_high_2:share	replicates:chx_high_3	replicates:chx_high_3:share	ris_pseudobulk:control	ris_pseudobulk:control:share	ris_pseudobulk:ris_low	ris_pseudobulk:ris_low:share	ris_replicates:control_1	ris_replicates:control_1:share	ris_replicates:control_2	ris_replicates:control_2:share	ris_replicates:control_3	ris_replicates:control_3:share	ris_replicates:ris_low_1	ris_replicates:ris_low_1:share	ris_replicates:ris_low_2	ris_replicates:ris_low_2:share	ris_replicates:ris_low_3	ris_replicates:ris_low_3:share
+CLASRP	CLASRP_chx_dh	screen_splicing	chx_dose;chx_high	chr19:CLASRP:t:45068419	19:45067594-45068419:+	0	3	0.007	0	0.0	16	0.012	3	0.023	0	0.0	0	0.0	0	0.0	4	0.012	10	0.023																
+CLASRP	CLASRP_chx_dh	screen_splicing	chx_dose;chx_high	chr19:CLASRP:t:45068419	19:45068054-45068419:+	0	331	0.731	342	0.563	372	0.276	96	0.722	87	0.737	116	0.73	137	0.291	73	0.227	122	0.278																
+CLASRP	CLASRP_chx_dh	screen_splicing	chx_dose;chx_high	chr19:CLASRP:t:45068419	19:45068058-45068419:+	1	116	0.256	259	0.427	947	0.703	34	0.256	31	0.263	40	0.252	334	0.709	245	0.761	296	0.674																
+CLASRP	CLASRP_chx_dh	screen_splicing	chx_dose;chx_high	chr19:CLASRP:t:45068419	19:45068120-45068419:+	0	3	0.007	6	0.01	12	0.009	0	0.0	0	0.0	3	0.019	0	0.0	0	0.0	11	0.025																
+EIF3C	EIF3C_chx_dh	screen_splicing	chx_dose;chx_high	chr16:EIF3C:t:28723163	16:28715434-28723163:+	0	491	0.909	588	0.923	327	0.519	205	0.972	115	0.852	148	0.902	85	0.552	118	0.567	95	0.452																
+EIF3C	EIF3C_chx_dh	screen_splicing	chx_dose;chx_high	chr16:EIF3C:t:28723163	16:28721032-28723163:+	1	49	0.091	49	0.077	303	0.481	6	0.028	20	0.148	16	0.098	69	0.448	90	0.433	115	0.548																
+AKAP8	AKAP8_chx_dh	screen_splicing	chx_dose;chx_high	chr19:AKAP8:t:15368322	19:15368322-15369066:-	1	10	0.046	70	0.234	144	0.395	7	0.097	2	0.028	3	0.054	28	0.341	59	0.484	40	0.317																
+AKAP8	AKAP8_chx_dh	screen_splicing	chx_dose;chx_high	chr19:AKAP8:t:15368322	19:15368322-15370145:-	0	206	0.954	229	0.766	221	0.605	65	0.903	69	0.972	53	0.946	54	0.659	63	0.516	86	0.683																
+HRAS	HRAS_chx_d	screen_splicing	chx_dose	chr11:HRAS:t:532755	11:532755-533276:-	1	118	0.093	225	0.295	289	0.366	32	0.087	24	0.074	40	0.084	120	0.435	46	0.25	109	0.381																
+HRAS	HRAS_chx_d	screen_splicing	chx_dose	chr11:HRAS:t:532755	11:532755-533452:-	0	1149	0.907	539	0.705	500	0.634	335	0.913	301	0.926	437	0.916	156	0.565	138	0.75	177	0.619																
+PSMG4	PSMG4_chx_d	screen_splicing	chx_dose	chr6:PSMG4:t:3267590	6:3259196-3267590:+	0	12	0.018	3	0.004	4	0.007	8	0.032	3	0.018	3	0.014	3	0.017	1	0.007	0	0.0																
+PSMG4	PSMG4_chx_d	screen_splicing	chx_dose	chr6:PSMG4:t:3267590	6:3263759-3267590:+	0	550	0.823	541	0.681	322	0.558	196	0.775	133	0.782	177	0.851	110	0.618	76	0.567	107	0.519																
+PSMG4	PSMG4_chx_d	screen_splicing	chx_dose	chr6:PSMG4:t:3267590	6:3264325-3267590:+	1	106	0.159	251	0.316	251	0.435	49	0.194	34	0.2	28	0.135	65	0.365	57	0.425	99	0.481																
+SNHG29	SNHG29_chx_d	screen_splicing	chx_dose	chr17:SNHG29:t:16440184	17:16439414-16440184:+	0	541	0.926	428	0.849	249	0.671	158	0.898	146	0.942	193	0.946	69	0.676	63	0.578	92	0.73																
+SNHG29	SNHG29_chx_d	screen_splicing	chx_dose	chr17:SNHG29:t:16440184	17:16439703-16440184:+	1	43	0.074	76	0.151	122	0.329	18	0.102	9	0.058	11	0.054	33	0.324	46	0.422	34	0.27																
+CENPX	CENPX_chx_d	screen_splicing	chx_dose	chr17:CENPX:t:82019381	17:82019381-82019509:-	0	23	0.064	4	0.016	4	0.024	8	0.087	2	0.018	12	0.109	4	0.062	0	0.0	0	0.0																
+CENPX	CENPX_chx_d	screen_splicing	chx_dose	chr17:CENPX:t:82019381	17:82019381-82019640:-	1	99	0.276	81	0.319	90	0.533	32	0.348	34	0.301	21	0.191	30	0.462	38	0.585	18	0.5																
+CENPX	CENPX_chx_d	screen_splicing	chx_dose	chr17:CENPX:t:82019381	17:82019381-82019857:-	0	237	0.66	169	0.665	75	0.444	52	0.565	77	0.681	77	0.7	31	0.477	27	0.415	18	0.5																
+ENSG00000233461	ENSG00000233461_chx_d	screen_splicing	chx_dose	chr1:ENSG00000233461:t:231522637	1:231522637-231524425:-	0	84	0.26	126	0.241	76	0.148	34	0.33	24	0.212	18	0.231	20	0.13	17	0.102	33	0.21																
+ENSG00000233461	ENSG00000233461_chx_d	screen_splicing	chx_dose	chr1:ENSG00000233461:t:231522637	1:231522637-231527337:-	1	162	0.502	319	0.611	381	0.741	65	0.631	56	0.496	36	0.462	120	0.779	120	0.719	112	0.713																
+ENSG00000233461	ENSG00000233461_chx_d	screen_splicing	chx_dose	chr1:ENSG00000233461:t:231522637	1:231522637-231528419:-	0	77	0.238	77	0.148	57	0.111	4	0.039	33	0.292	24	0.308	14	0.091	30	0.18	12	0.076																
+TXNL4A	TXNL4A_chx_d	screen_splicing	chx_dose	chr18:TXNL4A:t:79973856	18:79973856-79976717:-	0	0	0.0	2	0.006	10	0.03	0	0.0	0	0.0	0	0.0	0	0.0	0	0.0	9	0.101																
+TXNL4A	TXNL4A_chx_d	screen_splicing	chx_dose	chr18:TXNL4A:t:79973856	18:79973856-79977597:-	1	335	0.546	257	0.72	253	0.771	123	0.547	72	0.497	118	0.624	93	0.782	72	0.727	73	0.82																
+TXNL4A	TXNL4A_chx_d	screen_splicing	chx_dose	chr18:TXNL4A:t:79973856	18:79973856-79986601:-	0	14	0.023	0	0.0	0	0.0	0	0.0	5	0.034	7	0.037	0	0.0	0	0.0	0	0.0																
+TXNL4A	TXNL4A_chx_d	screen_splicing	chx_dose	chr18:TXNL4A:t:79973856	18:79973856-79988239:-	0	264	0.431	98	0.275	65	0.198	102	0.453	68	0.469	64	0.339	26	0.218	27	0.273	7	0.079																
+USF2	USF2_chx_d	screen_splicing	chx_dose	chr19:USF2:t:35270446	19:35269699-35270446:+	0	212	0.449	121	0.368	70	0.253	67	0.444	77	0.503	70	0.49	6	0.154	18	0.191	43	0.368																
+USF2	USF2_chx_d	screen_splicing	chx_dose	chr19:USF2:t:35270446	19:35270003-35270446:+	1	260	0.551	208	0.632	207	0.747	84	0.556	76	0.497	73	0.51	33	0.846	76	0.809	74	0.632																
+AKAP8L	AKAP8L_chx_h	screen_splicing	chx_high	chr19:AKAP8L:s:15399301	19:15397855-15399301:-	0	89	0.636	90	0.446	73	0.183	39	0.684	16	0.667	32	0.571	23	0.168	14	0.167	28	0.206																
+AKAP8L	AKAP8L_chx_h	screen_splicing	chx_high	chr19:AKAP8L:s:15399301	19:15398703-15399301:-	0	6	0.043	18	0.089	15	0.038	2	0.035	0	0.0	2	0.036	7	0.051	4	0.048	3	0.022																
+AKAP8L	AKAP8L_chx_h	screen_splicing	chx_high	chr19:AKAP8L:s:15399301	19:15398766-15399301:-	1	45	0.321	94	0.465	311	0.779	16	0.281	8	0.333	22	0.393	107	0.781	66	0.786	105	0.772																
+SNRPA1	SNRPA1_chx_h	screen_splicing	chx_high	chr15:SNRPA1:t:101285801	15:101285801-101286213:-	0	517	0.954	667	0.814	598	0.798	181	0.973	173	0.983	128	0.941	214	0.811	123	0.799	226	0.801																
+SNRPA1	SNRPA1_chx_h	screen_splicing	chx_high	chr15:SNRPA1:t:101285801	15:101285801-101286907:-	1	25	0.046	152	0.186	151	0.202	5	0.027	3	0.017	8	0.059	50	0.189	31	0.201	56	0.199																
+DEAF1	DEAF1_chx_h	screen_splicing	chx_high	chr11:DEAF1:t:644654	11:644654-646284:-	0	17	0.028	21	0.058	0	0.0	1	0.007	2	0.01	8	0.041	0	0.0	0	0.0	0	0.0																
+DEAF1	DEAF1_chx_h	screen_splicing	chx_high	chr11:DEAF1:t:644654	11:644654-646326:-	1	43	0.07	39	0.108	87	0.211	10	0.068	18	0.086	11	0.056	16	0.178	31	0.223	36	0.231																
+DEAF1	DEAF1_chx_h	screen_splicing	chx_high	chr11:DEAF1:t:644654	11:644654-651161:-	0	6	0.01	0	0.0	0	0.0	4	0.027	1	0.005	0	0.0	0	0.0	0	0.0	0	0.0																
+DEAF1	DEAF1_chx_h	screen_splicing	chx_high	chr11:DEAF1:t:644654	11:644654-653961:-	0	552	0.893	300	0.833	326	0.789	133	0.899	189	0.9	177	0.903	74	0.822	108	0.777	120	0.769																
+DDX39A	DDX39A_chx_h	screen_splicing	chx_high	chr19:DDX39A:t:14410334	19:14410334-14410420:-	0	15	0.023	15	0.038	75	0.125	3	0.016	4	0.017	7	0.046	32	0.174	22	0.15	18	0.077																
+DDX39A	DDX39A_chx_h	screen_splicing	chx_high	chr19:DDX39A:t:14410334	19:14410334-14410547:-	1	10	0.015	27	0.068	99	0.165	4	0.021	0	0.0	5	0.033	31	0.168	21	0.143	41	0.175																
+DDX39A	DDX39A_chx_h	screen_splicing	chx_high	chr19:DDX39A:t:14410334	19:14410334-14410988:-	0	621	0.961	354	0.894	426	0.71	184	0.963	238	0.983	139	0.921	121	0.658	104	0.707	175	0.748																
+RPL8	RPL8_chx_h	screen_splicing	chx_high	chr8:RPL8:t:144791307	8:144791307-144791370:-	0	714	0.949	88	0.579	63	0.525	170	0.899	264	0.978	232	0.935	15	0.833	31	0.674	9	0.209																
+RPL8	RPL8_chx_h	screen_splicing	chx_high	chr8:RPL8:t:144791307	8:144791307-144791849:-	1	38	0.051	64	0.421	57	0.475	19	0.101	6	0.022	16	0.065	3	0.167	15	0.326	34	0.791																
+TMEM208	TMEM208_chx_h	screen_splicing	chx_high	chr16:TMEM208:t:67228796	16:67228631-67228796:+	0	212	0.938	146	0.76	181	0.605	92	0.968	37	0.949	82	0.976	80	0.784	47	0.77	46	0.414																
+TMEM208	TMEM208_chx_h	screen_splicing	chx_high	chr16:TMEM208:t:67228796	16:67228657-67228796:+	1	14	0.062	46	0.24	118	0.395	3	0.032	2	0.051	2	0.024	22	0.216	14	0.23	65	0.586																
+NOP56	NOP56_chx_h	screen_splicing	chx_high	chr20:NOP56:t:2656400	20:2655542-2656400:+	0	3	0.01	1	0.003	17	0.051	0	0.0	1	0.013	0	0.0	12	0.122	0	0.0	5	0.051																
+NOP56	NOP56_chx_h	screen_splicing	chx_high	chr20:NOP56:t:2656400	20:2656034-2656400:+	1	75	0.262	295	0.831	206	0.622	22	0.227	27	0.346	18	0.225	62	0.633	82	0.732	46	0.469																
+NOP56	NOP56_chx_h	screen_splicing	chx_high	chr20:NOP56:t:2656400	20:2656214-2656400:+	0	208	0.727	59	0.166	108	0.326	75	0.773	50	0.641	62	0.775	24	0.245	30	0.268	47	0.48																
+CASP2	CASP2_chx_pc	positive_controls	chx_high	positive control	7:143300294-143300379:+	1	0	0.0	0	0.0	32	0.525	0		0	0.0	0	0.0	0	0.0	22	0.667	8	0.5																
+CASP2	CASP2_chx_pc	positive_controls	chx_high	positive control	7:143300440-143303783:+	0	2	0.167	0	0.0	20	0.328	0		0	0.0	2	0.286	0	0.0	11	0.333	8	0.5																
+CASP2	CASP2_chx_pc	positive_controls	chx_high	positive control	7:143300294-143303783:+	0	10	0.833	4	1.0	9	0.148	0		3	1.0	5	0.714	9	1.0	0	0.0	0	0.0																
+SRSF3	SRSF3_chx_pc	positive_controls	chx_high	positive control	6:36598983-36599820:+	1	14	0.014	10	0.008	40	0.028	1	0.003	4	0.011	4	0.017	6	0.012	23	0.071	9	0.018																
+SRSF3	SRSF3_chx_pc	positive_controls	chx_high	positive control	6:36600276-36601151:+	0	4	0.004	0	0.0	1	0.001	0	0.0	0	0.0	2	0.008	1	0.002	0	0.0	0	0.0																
+SRSF3	SRSF3_chx_pc	positive_controls	chx_high	positive control	6:36598983-36601151:+	0	994	0.982	1218	0.992	1369	0.971	315	0.997	366	0.989	230	0.975	484	0.986	302	0.929	485	0.982																
+TRA2B	TRA2B_chx_pc	positive_controls	chx_high	positive control	3:185931852-185937824:-	1	142	0.355	117	0.376	244	0.542	32	0.333	65	0.387	47	0.423	87	0.617	58	0.382	80	0.667																
+TRA2B	TRA2B_chx_pc	positive_controls	chx_high	positive control	3:185926734-185931576:-	0	28	0.07	24	0.077	42	0.093	13	0.135	7	0.042	5	0.045	16	0.113	16	0.105	5	0.042																
+TRA2B	TRA2B_chx_pc	positive_controls	chx_high	positive control	3:185926734-185937824:-	0	217	0.542	157	0.505	161	0.358	46	0.479	94	0.56	55	0.495	37	0.262	76	0.5	35	0.292																
+TRA2B	TRA2B_chx_pc	positive_controls	chx_high	positive control	3:185925626-185937824:-	0	13	0.033	13	0.042	3	0.007	5	0.052	2	0.012	4	0.036	1	0.007	2	0.013	0	0.0																
+FOXM1	FOXM1_ris_pc	positive_controls	ris_low	positive control	12:2861412-2864319:-	1	0		0		0		0		0		0		0		0		0		0	0.0	11	0.089	0	0.0	0	0.0	0	0.0	3	0.25	5	0.147	2	0.042
+FOXM1	FOXM1_ris_pc	positive_controls	ris_low	positive control	12:2859663-2861378:-	0	0		0		0		0		0		0		0		0		0		0	0.0	5	0.041	0	0.0	0	0.0	0	0.0	0	0.0	5	0.147	0	0.0
+FOXM1	FOXM1_ris_pc	positive_controls	ris_low	positive control	12:2859663-2861298:-	0	0		0		0		0		0		0		0		0		0		0	0.0	3	0.024	0	0.0	0	0.0	0	0.0	0	0.0	3	0.088	0	0.0
+FOXM1	FOXM1_ris_pc	positive_controls	ris_low	positive control	12:2859663-2864319:-	0	0		0		0		0		0		0		0		0		0		118	1.0	104	0.846	26	1.0	21	1.0	44	1.0	9	0.75	21	0.618	46	0.958
+SLC25A17	SLC25A17_ris_pc	positive_controls	ris_low	positive control	22:40797336-40799022:-	1	0		0		0		0		0		0		0		0		0		0	0.0	15	0.417	0	0.0	0	0.0	0		3	0.6	6	0.4	3	0.3
+SLC25A17	SLC25A17_ris_pc	positive_controls	ris_low	positive control	22:40794580-40797283:-	0	0		0		0		0		0		0		0		0		0		0	0.0	0	0.0	0	0.0	0	0.0	0		0	0.0	0	0.0	0	0.0
+SLC25A17	SLC25A17_ris_pc	positive_controls	ris_low	positive control	22:40794580-40797253:-	0	0		0		0		0		0		0		0		0		0		0	0.0	0	0.0	0	0.0	0	0.0	0		0	0.0	0	0.0	0	0.0
+SLC25A17	SLC25A17_ris_pc	positive_controls	ris_low	positive control	22:40794580-40799022:-	0	0		0		0		0		0		0		0		0		0		18	1.0	21	0.583	9	1.0	6	1.0	0		2	0.4	9	0.6	7	0.7
+APLP2	APLP2_ris_pc	positive_controls	ris_low	positive control	11:130122513-130123611:+	1	0		0		0		0		0		0		0		0		0		97	0.485	118	0.573	11	0.355	33	0.541	27	0.54	26	0.553	30	0.566	32	0.561
+APLP2	APLP2_ris_pc	positive_controls	ris_low	positive control	11:130123779-130126699:+	0	0		0		0		0		0		0		0		0		0		59	0.295	55	0.267	4	0.129	21	0.344	15	0.3	11	0.234	15	0.283	16	0.281
+APLP2	APLP2_ris_pc	positive_controls	ris_low	positive control	11:130122513-130126699:+	0	0		0		0		0		0		0		0		0		0		44	0.22	33	0.16	16	0.516	7	0.115	8	0.16	10	0.213	8	0.151	9	0.158
+STRN3	STRN3_ris_pc	positive_controls	ris_low	positive control	14:30929311-30935162:-	1	0		0		0		0		0		0		0		0		0		5	1.0	15	0.556	1	1.0	0		2	1.0	12	0.8	0		0	0.0
+STRN3	STRN3_ris_pc	positive_controls	ris_low	positive control	14:30919106-30929200:-	0	0		0		0		0		0		0		0		0		0		0	0.0	0	0.0	0	0.0	0		0	0.0	0	0.0	0		0	0.0
+STRN3	STRN3_ris_pc	positive_controls	ris_low	positive control	14:30919106-30935162:-	0	0		0		0		0		0		0		0		0		0		0	0.0	12	0.444	0	0.0	0		0	0.0	3	0.2	0		3	1.0
+MADD	MADD_ris_pc	positive_controls	ris_low	positive control	11:47285194-47285450:+	1	0		0		0		0		0		0		0		0		0		5	0.556	1	0.067	3	1.0	1	1.0	0	0.0	0	0.0	0		1	0.2
+MADD	MADD_ris_pc	positive_controls	ris_low	positive control	11:47285065-47285450:+	0	0		0		0		0		0		0		0		0		0		4	0.444	14	0.933	0	0.0	0	0.0	3	1.0	8	1.0	0		4	0.8

@@ -9,6 +9,9 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - pandas          # expression_splicing (method_comparison, screen_pca)
+  - scikit-learn
+  - seaborn
   - pysam
   - reportlab
   - openpyxl
